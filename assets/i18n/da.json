@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Hjem",
+    "nav_products": "Produkter",
+    "nav_about": "Om os",
+    "nav_workshop": "Værksted",
+    "nav_exhibition": "Udstillinger",
+    "nav_contact": "Kontakt",
+    "cta_whatsapp": "Kontakt os på WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM på verdensplan · Siden 1998",
+    "hero_eyebrow": "✦ Pålidelig producent af vandfiltrering siden 1998",
+    "hero_title": "Vandfiltreringsløsninger i industriel kvalitet",
+    "hero_desc": "Specialiseret i fremstilling af PP, kulblok, GAC, T33, RO-membraner og vanddispensere. NSF · ISO · CE · Halal-certificeret. OEM/ODM-partnere i over 50 lande.",
+    "hero_btn_explore": "Udforsk produkter",
+    "hero_btn_quote": "Få et tilbud",
+    "stats_years": "Års erfaring",
+    "stats_models": "Produktmodeller",
+    "stats_countries": "Lande betjent",
+    "stats_area": "Produktionsareal",
+    "about_eyebrow": "Om os",
+    "about_title": "20+ års ekspertise inden for vandfiltrering",
+    "about_desc": "Eco Express Water er en højteknologisk miljøbeskyttelsesvirksomhed specialiseret i filtermaterialer og filterudstyr til vandrensning. Grundlagt i 1998 integrerer vores virksomhed hele strømmen fra forskning og udvikling, fremstilling, markedsføring til teknisk support. Vores virksomhed er beliggende i Yuanhua Town, Haining City, Zhejiang-provinsen. Vi har et førsteklasses teknisk ekspertteam, integreret funktionel mellemstor test/udvidelsestest og et storstilet produktionscenter. Vi er en certificeret leverandør af halal-vandfiltre, der imødekommer de unikke behov og krav fra muslimske forbrugere i Malaysia, Indonesien og andre muslimske lande.",
+    "about_feat_1": "Grundlagt i 1998 – over to årtiers produktionsekspertise",
+    "about_feat_2": "Fuld vertikal integration: R&D, produktion, QC, logistik",
+    "about_feat_3": "NSF, ISO, CE og Halal-certificerede produktionslinjer",
+    "about_feat_4": "OEM/ODM-service til globale brands i over 50 lande",
+    "about_feat_5": "Beliggende i Haining, Zhejiang – Kinas knudepunkt for vandfiltrering",
+    "why_eyebrow": "Hvorfor vælge os",
+    "why_title": "Pålidelig produktionspartner",
+    "why_desc": "Fra råmaterialer til slutinspektion passerer hvert produkt gennem vores strenge kvalitetskontrolsystem.",
+    "why_card1_title": "Certificeret kvalitet",
+    "why_card1_desc": "NSF / ISO / CE / Halal-certificeringer understøttet af hver batch, vi producerer.",
+    "why_card2_title": "Klar til OEM / ODM",
+    "why_card2_desc": "Tilpasset branding, emballage og produktspecifikationer, der passer til dit marked.",
+    "why_card3_title": "Egenproduktion",
+    "why_card3_desc": "4 dedikerede produktionslinjer, der dækker PP, kul, hurtigkobling og lækagetest.",
+    "why_card4_title": "Forsendelse til hele verden",
+    "why_card4_desc": "Leveringstid 7–15 dage med etableret eksportlogistik til 50+ lande.",
+    "products_eyebrow": "Vores produkter",
+    "products_title": "Komplet portefølje til vandfiltrering",
+    "products_desc": "42 modeller i 8 kategorier – fra inline-patroner til vertikale dispensere og komplette RO-systemer.",
+    "cat_all": "Alle produkter",
+    "product_view_details": "Se detaljer",
+    "workshop_eyebrow": "Produktion",
+    "workshop_title": "Inde i vores værksted",
+    "workshop_desc": "4 specialiserede produktionslinjer: PP-filter, kulblok, hurtigkobling inline og automatisk lækagedetektion.",
+    "workshop_pp": "Produktionslinje til PP-filter",
+    "workshop_carbon": "Produktion af kulblokfilter",
+    "workshop_quick": "Produktion af hurtigkoblingsfilter",
+    "workshop_leak": "Automatisk lækagetest",
+    "exhibition_eyebrow": "Messer",
+    "exhibition_title": "Globale udstillinger",
+    "exhibition_desc": "Mød vores team på AquaTech Shanghai og andre store branchebegivenheder.",
+    "exhibition_aqua1": "AquaTech Shanghai-stand",
+    "exhibition_aqua2": "AquaTech Shanghai-udstilling",
+    "exhibition_show": "Messestand",
+    "exhibition_customers": "Messekunder",
+    "contact_eyebrow": "Kontakt os",
+    "contact_title": "Lad os bygge sammen",
+    "contact_desc": "Fortæl os om dit projekt. Vores salgsingeniører svarer inden for 24 timer.",
+    "contact_address_label": "Fabriksadresse",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, Kina",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "E-mailadresse",
+    "form_title": "Send forespørgsel",
+    "form_sub": "Få et detaljeret tilbud på dine specifikationer.",
+    "form_name": "Dit navn",
+    "form_email": "E-mailadresse",
+    "form_company": "Virksomhedsnavn",
+    "form_msg": "Besked / Specifikationer",
+    "form_btn": "Send forespørgsel",
+    "footer_brand_desc": "Pålidelig producent af vandfiltreringsløsninger siden 1998. PP, kulblok, GAC, T33, RO-membraner og vanddispensere til globale OEM/ODM-partnere.",
+    "footer_products": "Produkter",
+    "footer_company": "Virksomhed",
+    "footer_contact": "Kontakt",
+    "footer_rights": "Alle rettigheder forbeholdes.",
+    "modal_specs_title": "Tekniske specifikationer",
+    "modal_btn_wa": "Forespørgsel via WhatsApp",
+    "modal_btn_email": "Forespørgsel via e-mail"
+  },
+  "categories": {
+    "Filter Cartridge": "Filterpatron",
+    "Filter Housing": "Filterhus",
+    "Flat Cap Filter": "Fladkapselsfilter",
+    "Industrial Filter": "Industrifilter",
+    "Inline Filter": "Inline-filter",
+    "RO System": "RO-system",
+    "Water Dispenser": "Vanddispenser",
+    "Water Purifier": "Vandrenser"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Gylden vanddispenser MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Vægmonteret vanddispenser til rørledning med 5 vandmængdetrin (150 ml-850 ml) og 5 vandtemperaturniveauer (25 °C-100 °C). 316L titanguld rustfrit stål varmeelement. Børnesikring. Eksklusivt gyldent glaspanel.",
+      "specs": {
+        "Effekt": "2200W",
+        "Mængde": "5 trin 150-850ml",
+        "Temperatur": "25-100°C",
+        "Materiale": "316L rustfrit stål"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Hvid vanddispenser MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Vægmonteret vanddispenser til rørledning med 2200W nominel effekt. Hurtig 3-sekunders varmtvandsudgang. 5 trins justering af vandmængde og temperatur. Hvidt glaspanel.",
+      "specs": {
+        "Effekt": "2200W",
+        "Varm udgang": "3 sekunder",
+        "Farve": "Hvidt glaspanel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Mørkegrøn vanddispenser MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Vægmonteret vanddispenser til rørledning med slankt moderne design i unik mørkegrøn farve. Sparer gulvplads og giver kontinuerlig forsyning af rent vand.",
+      "specs": {
+        "Montering": "Vægmonteret",
+        "Farve": "Mørkegrøn",
+        "Effekt": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Sort vanddispenser MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Vægmonteret vanddispenser til rørledning med 2200W nominel effekt og hurtig 3-sekunders opvarmning. Helglaspanel med matsprayede plastdele.",
+      "specs": {
+        "Effekt": "2200W",
+        "Varm udgang": "3 sekunder",
+        "Farve": "Sort glaspanel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Vægmonteret vanddispenser MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Sort og hvid tofarvet vægmonteret vanddispenser til rørledning. Kompakt, energibesparende, med flertrins vandudgang.",
+      "specs": {
+        "Montering": "Vægmonteret",
+        "Farve": "Sort/Hvid"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W vertikal vanddispenser MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Kraftig vertikal vanddispenser med tank i 304 rustfrit stål og 1KW varmeeffekt. LED-digitalskærm.",
+      "specs": {
+        "Effekt": "1000W",
+        "Tank": "304 rustfrit stål",
+        "Display": "LED Digital"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Vertikal vanddispenser MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Vertikal gulvstående vanddispenser med tank i 304 rustfrit stål og flere muligheder for vandudtag. Sort/hvidt design.",
+      "specs": {
+        "Type": "Vertikal",
+        "Tank": "304 rustfrit stål",
+        "Farve": "Sort/Hvid"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Omvendt osmose vandfilter til under vasken",
+      "category": "RO System",
+      "desc": "Tyngdekraftsfødet RO-system, der er afhængig af indkommende vandtryk for at presse vand gennem RO-membranen. Flertrins: sedimentfilter, kulfilter, RO-membran.",
+      "specs": {
+        "Trin": "Flertrins",
+        "Type": "Ingen pumpe påkrævet",
+        "Membran": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30-tommer tre-trins Big Blue vandfilter",
+      "category": "Filter Housing",
+      "desc": "Tre-trins filtrering: PP-filter (store partikler), RO-membran (tungmetaller, bakterier, vira), CTO-kulblok (klor, smag).",
+      "specs": {
+        "Størrelse": "30 tommer",
+        "Trin": "3",
+        "Type": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Tre-trins plus UV-vandrenser",
+      "category": "Water Purifier",
+      "desc": "Tre-trins vandrensningssystem forbedret med UV-sterilisering for overlegen vandsikkerhed.",
+      "specs": {
+        "Trin": "3 + UV",
+        "Sterilisering": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Mellemstort vandfilter med kobberstik",
+      "category": "Filter Cartridge",
+      "desc": "Mellemstor vandfilterpatron med kobberstik til robust installation og ydeevne.",
+      "specs": {
+        "Størrelse": "Mellem",
+        "Stik": "Kobber"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water Husfilter",
+      "category": "Filter Housing",
+      "desc": "Kulblokfilter, der bruger aktivt kul komprimeret til en blok. Fjerner klor, kloraminer, pesticider og lugt.",
+      "specs": {
+        "Type": "Kulblokhus",
+        "Stik": "Diverse"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Kulblokfilter (kokosskal)",
+      "category": "Filter Cartridge",
+      "desc": "Aktivt kul fra kokosskal med høj jodværdi (1000) til effektiv rensning. 10 tommer længde, 2,5 tommer udvendig diameter.",
+      "specs": {
+        "Jod": "1000",
+        "Materiale": "Kokoskul",
+        "Størrelse": "10×2,5 tommer"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun sedimentfilter",
+      "category": "Filter Cartridge",
+      "desc": "Smelteblæste mikrofibre af 100 % ren polypropylen. Fjerner rust, silt, kedelsten, sediment, snavs. Fås i 10/20/30/40 tommer.",
+      "specs": {
+        "Materiale": "100 % polypropylen",
+        "Størrelser": "10-40 tommer",
+        "Fjerner": "Sediment 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF granuleret aktivt kulfilter",
+      "category": "Filter Cartridge",
+      "desc": "Standard 10-tommer GAC-filter fremstillet af kul med høj jodværdi. Reducerer klor, organiske kemikalier, unaturlig smag og lugt.",
+      "specs": {
+        "Type": "GAC",
+        "Størrelse": "10 tommer",
+        "Jod": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Keramisk filterpatron",
+      "category": "Filter Cartridge",
+      "desc": "Keramisk filterpatron af høj kvalitet til fjernelse af fine partikler og bakterier.",
+      "specs": {
+        "Filtrering": "0,2μm",
+        "Type": "Keramisk"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Ionbytterharpiksfilter",
+      "category": "Filter Cartridge",
+      "desc": "Ionbytterharpikspatron til blødgøring af vand og fjernelse af tungmetaller.",
+      "specs": {
+        "Funktion": "Blødgøring af vand",
+        "Fjerner": "Ca/Mg/tungmetaller"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltreringspatron (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Hulfiber-ultrafiltreringsmembranpatron til fjernelse af bakterier, vira og kolloidt materiale.",
+      "specs": {
+        "Membran": "Hulfiber",
+        "Filtrering": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan sten inline-filter",
+      "category": "Inline Filter",
+      "desc": "Inline-filter indeholdende Maifan-sten til mineralisering af vand og forbedring af smagen.",
+      "specs": {
+        "Mineral": "Maifan sten",
+        "Funktion": "Mineralisering"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline mineralfilter",
+      "category": "Inline Filter",
+      "desc": "Tilfører essentielle mineraler til renset vand for at forbedre sundhedsmæssige fordele og smagen.",
+      "specs": {
+        "Funktion": "Mineralisering",
+        "Tilfører": "Ca/Mg/K mineraler"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO-membran filterpatron",
+      "category": "Filter Cartridge",
+      "desc": "Omvendt osmose-membranpatron – kernekomponenten i RO-systemer til afsaltning og rensning.",
+      "specs": {
+        "Type": "RO TFC-membran",
+        "Kapacitet": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Kombination af flertrins filterpatroner",
+      "category": "Filter Cartridge",
+      "desc": "Kombination af forskellige filterpatroner designet til flertrinsrensning.",
+      "specs": {
+        "Trin": "3–5",
+        "Kombination": "Tilpasset"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 inline kulfilter",
+      "category": "Inline Filter",
+      "desc": "Inline kulfilter til efterfiltrering for at polere vandsmagen og fjerne resterende lugt.",
+      "specs": {
+        "Position": "Sidste trin",
+        "Materiale": "Aktivt kul"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline PP-patron",
+      "category": "Inline Filter",
+      "desc": "Inline sedimentfilter af polypropylen til kompakte vandrensningssystemer.",
+      "specs": {
+        "Materiale": "Polypropylen",
+        "Filtrering": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF polypropylenfiberpatron",
+      "category": "Filter Cartridge",
+      "desc": "Filterpatron af polypropylenfiber til fjernelse af sediment.",
+      "specs": {
+        "Materiale": "PP-fiber",
+        "Funktion": "Sediment"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF aktiv kulpatron",
+      "category": "Filter Cartridge",
+      "desc": "Granuleret aktiv kulpatron til forfiltrering for at beskytte nedstrøms membraner.",
+      "specs": {
+        "Position": "Forfilter",
+        "Materiale": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 efterfilterpatron",
+      "category": "Inline Filter",
+      "desc": "Efterkulfilter af høj kvalitet til sidste trins rensning.",
+      "specs": {
+        "Position": "Efterfilter",
+        "Funktion": "Polering"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film filterpatron",
+      "category": "Filter Cartridge",
+      "desc": "Avanceret ultrafiltreringsfilmpatron til højeffektiv filtrering.",
+      "specs": {
+        "Type": "Ultra Film",
+        "Filtrering": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF hulfiberfilter",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltreringspatron til fjernelse af fine suspenderede stoffer.",
+      "specs": {
+        "Materiale": "Hulfiber",
+        "Fjerner": "Bakterier"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Industrielt PP-filter (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Industrielt PP smelteblæst filter, fås i SOE (Single Open End) og DOE (Double Open End) konfigurationer.",
+      "specs": {
+        "Type": "SOE/DOE",
+        "Materiale": "Polypropylen",
+        "Branche": "Industriel"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP-filter med fin-endekappe",
+      "category": "Industrial Filter",
+      "desc": "Industriel PP-patron med en endekappe i fin-stil til sikker, lækagefri placering i husenheder.",
+      "specs": {
+        "Endekappe": "Fin-type",
+        "Materiale": "Polypropylen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP-filter med silikonering",
+      "category": "Industrial Filter",
+      "desc": "PP-filterpatron udstyret med tætningsring af fødevaregodkendt silikone for høj pålidelighed.",
+      "specs": {
+        "Ring": "Fødevaregodkendt silikone",
+        "Materiale": "Polypropylen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Industrielt kulblokfilter",
+      "category": "Industrial Filter",
+      "desc": "Industrielt aktiveret kulblokfilter til applikationer med højt flow og kemisk absorption.",
+      "specs": {
+        "Type": "Kulblok",
+        "Branche": "Industriel"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Komprimeret aktiv kulblok",
+      "category": "Industrial Filter",
+      "desc": "Komprimeret kulblok med høj densitet til overlegen fjernelse af klor og VOC.",
+      "specs": {
+        "Densitet": "Høj",
+        "Fjerner": "Klor, VOC"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Mineraliseret lille T33 inline-vandfilter",
+      "category": "Inline Filter",
+      "desc": "Forbedrer smag og lugt ved at fjerne klor og tilføje gavnlige mineraler til vandet for forbedret sundhed og hydrering.",
+      "specs": {
+        "Funktion": "Mineralisering + polering",
+        "Stik": "Hurtigkobling"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Lille molekylært antibakterielt mineraliseringsfilter",
+      "category": "Inline Filter",
+      "desc": "Avanceret filtrering, der fjerner skadelige bakterier og vira, mens der tilføjes gavnlige mineraler til vandet.",
+      "specs": {
+        "Funktion": "Antibakteriel + mineralisering",
+        "Stik": "Hurtigkobling"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakteriel mineraliseringsfilterpatron",
+      "category": "Inline Filter",
+      "desc": "Fjerner effektivt skadelige bakterier og vira og tilføjer gavnlige mineraler.",
+      "specs": {
+        "Funktion": "Antibakteriel + mineralisering"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Inline kationharpiksfilterpatron",
+      "category": "Inline Filter",
+      "desc": "Blødgør vand ved at fjerne hårde mineraler som calcium og magnesium, hvilket reducerer kalkopbygning i apparater.",
+      "specs": {
+        "Funktion": "Blødgøring af vand",
+        "Harpiks": "Kationbytte"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 kokosskal kul inline-filter",
+      "category": "Inline Filter",
+      "desc": "Efterfilter T33 inline-patron med førsteklasses kokosskal-aktiveret kul til smagspolering.",
+      "specs": {
+        "Kul": "Kokosskal",
+        "Position": "Efterfilter"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD højflow RO-membran",
+      "category": "RO System",
+      "desc": "Højkapacitets omvendt osmose-membran til privatboliger og let kommerciel vandrensning.",
+      "specs": {
+        "Kapacitet": "400 GPD",
+        "Type": "Tør membran"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan sten mineraliserende renser",
+      "category": "Water Purifier",
+      "desc": "Flertrins renser med Maifan-sten til mineralisering og forbedret vandkvalitet.",
+      "specs": {
+        "Mineral": "Maifan sten",
+        "Trin": "5-trins"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Alkalisk vandrensningssystem",
+      "category": "Water Purifier",
+      "desc": "Producerer alkalisk vand ved at øge pH-værdien og tilføre essentielle mineraler.",
+      "specs": {
+        "Type": "Alkalisk",
+        "pH-område": "8,5 - 9,5"
+      }
+    }
+  ]
+}

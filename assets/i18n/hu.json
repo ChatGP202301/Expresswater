@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Kezdőlap",
+    "nav_products": "Termékek",
+    "nav_about": "Rólunk",
+    "nav_workshop": "Műhely",
+    "nav_exhibition": "Kiállítások",
+    "nav_contact": "Kapcsolat",
+    "cta_whatsapp": "WhatsApp üzenet küldése",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM világszerte · 1998 óta",
+    "hero_eyebrow": "✦ Megbízható vízszűrési gyártó 1998 óta",
+    "hero_title": "Ipari szintű vízszűrési megoldások",
+    "hero_desc": "PP, szénblokk, GAC, T33, RO membránok és vízadagolók gyártására szakosodtunk. NSF · ISO · CE · Halal tanúsítvánnyal. OEM/ODM partnerek több mint 50 országban.",
+    "hero_btn_explore": "Termékek felfedezése",
+    "hero_btn_quote": "Ajánlatkérés",
+    "stats_years": "Év tapasztalat",
+    "stats_models": "Termékmodell",
+    "stats_countries": "Kiszolgált ország",
+    "stats_area": "Gyártási terület",
+    "about_eyebrow": "Rólunk",
+    "about_title": "Több mint 20 év kiválóság a vízszűrésben",
+    "about_desc": "Az Eco Express Water egy csúcstechnológiás környezetvédelmi vállalat, amely vízkezeléshez használt szűrőanyagokra és szűrőberendezésekre specializálódott. Az 1998-ban alapított cégünk integrálja a teljes folyamatot a kutatás-fejlesztéstől, a gyártáson és a marketingen át a technikai támogatásig. Székhelyünk Yuanhua Townban, Haining Cityben, Zhejiang tartományban található. Első osztályú műszaki szakértői csapattal, integrált funkcionális tesztközponttal és nagyszabású gyártóközponttal rendelkezünk. Halal vízszűrők minősített szállítója vagyunk, kielégítve a muszlim fogyasztók egyedi igényeit Malajziában, Indonéziában és más muszlim országokban.",
+    "about_feat_1": "1998-ban alapítva – több mint két évtizedes gyártási szakértelem",
+    "about_feat_2": "Teljes vertikális integráció: K+F, gyártás, minőségellenőrzés, logisztika",
+    "about_feat_3": "NSF, ISO, CE és Halal tanúsítvánnyal rendelkező gyártósorok",
+    "about_feat_4": "OEM/ODM szolgáltatás globális márkák számára több mint 50 országban",
+    "about_feat_5": "Hainingben, Zhejiangban található – Kína vízszűrési központjában",
+    "why_eyebrow": "Miért válasszon minket",
+    "why_title": "Megbízható gyártási partner",
+    "why_desc": "Az alapanyagoktól a végső ellenőrzésig minden termék megfelel szigorú minőségellenőrzési rendszerünknek.",
+    "why_card1_title": "Tanúsított minőség",
+    "why_card1_desc": "NSF / ISO / CE / Halal tanúsítványok minden egyes gyártott tételhez.",
+    "why_card2_title": "OEM / ODM készség",
+    "why_card2_desc": "Egyedi márkaépítés, csomagolás és termékspecifikációk az Ön piacához igazítva.",
+    "why_card3_title": "Házon belüli gyártás",
+    "why_card3_desc": "4 dedikált gyártósor: PP, szén, gyorscsatlakozós és szivárgásvizsgálati sor.",
+    "why_card4_title": "Világszerte történő szállítás",
+    "why_card4_desc": "7–15 napos átfutási idő kiépített exportlogisztikával több mint 50 országba.",
+    "products_eyebrow": "Termékeink",
+    "products_title": "Teljes körű vízszűrési portfólió",
+    "products_desc": "42 modell 8 kategóriában – az inline patronoktól a függőleges adagolókig és a teljes RO rendszerekig.",
+    "cat_all": "Összes termék",
+    "product_view_details": "Részletek megtekintése",
+    "workshop_eyebrow": "Gyártás",
+    "workshop_title": "Betekintés a műhelyünkbe",
+    "workshop_desc": "4 speciális gyártósor: PP szűrő, szénblokk, gyorscsatlakozós inline és automatikus szivárgásérzékelő sor.",
+    "workshop_pp": "PP szűrő gyártósor",
+    "workshop_carbon": "Szénblokk szűrő gyártása",
+    "workshop_quick": "Gyorscsatlakozós szűrő gyártása",
+    "workshop_leak": "Automatikus szivárgásvizsgálat",
+    "exhibition_eyebrow": "Kiállítások",
+    "exhibition_title": "Globális megjelenések",
+    "exhibition_desc": "Találkozzon csapatunkkal az AquaTech Shanghai kiállításon és más jelentős iparági eseményeken.",
+    "exhibition_aqua1": "AquaTech Shanghai stand",
+    "exhibition_aqua2": "AquaTech Shanghai bemutató",
+    "exhibition_show": "Kiállítási stand",
+    "exhibition_customers": "Kiállítási ügyfelek",
+    "contact_eyebrow": "Lépjen kapcsolatba velünk",
+    "contact_title": "Építsünk együtt",
+    "contact_desc": "Meséljen a projektjéről. Értékesítési mérnökeink 24 órán belül válaszolnak.",
+    "contact_address_label": "Gyár címe",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang tartomány, Kína",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "E-mail cím",
+    "form_title": "Ajánlatkérés",
+    "form_sub": "Kérjen részletes árajánlatot az Ön specifikációi alapján.",
+    "form_name": "Az Ön neve",
+    "form_email": "E-mail cím",
+    "form_company": "Cégnév",
+    "form_msg": "Üzenet / Specifikációk",
+    "form_btn": "Ajánlatkérés küldése",
+    "footer_brand_desc": "Megbízható vízszűrési megoldások gyártója 1998 óta. PP, szénblokk, GAC, T33, RO membránok és vízadagolók globális OEM/ODM partnerek számára.",
+    "footer_products": "Termékek",
+    "footer_company": "Vállalat",
+    "footer_contact": "Kapcsolat",
+    "footer_rights": "Minden jog fenntartva.",
+    "modal_specs_title": "Műszaki adatok",
+    "modal_btn_wa": "Érdeklődés WhatsAppon",
+    "modal_btn_email": "Érdeklődés e-mailben"
+  },
+  "categories": {
+    "Filter Cartridge": "Szűrőbetét",
+    "Filter Housing": "Szűrőház",
+    "Flat Cap Filter": "Lapos kupakos szűrő",
+    "Industrial Filter": "Ipari szűrő",
+    "Inline Filter": "Inline szűrő",
+    "RO System": "RO rendszer",
+    "Water Dispenser": "Vízadagoló",
+    "Water Purifier": "Vízszűrő"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Arany színű vízadagoló MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Falra szerelhető hálózati vízadagoló 5 fokozatú vízmennyiséggel (150ml–850ml) és 5 hőmérsékleti szinttel (25°C–100°C). 316L titán-arany rozsdamentes acél fűtőelem. Gyerekzár. Prémium arany üvegpanel.",
+      "specs": {
+        "Teljesítmény": "2200W",
+        "Mennyiség": "5 fokozat 150–850ml",
+        "Hőmérséklet": "25–100°C",
+        "Anyag": "316L rozsdamentes acél"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Fehér színű vízadagoló MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Falra szerelhető hálózati vízadagoló 2200W névleges teljesítménnyel. Gyors, 3 másodperces forróvíz-kiadás. 5 fokozatú vízmennyiség- és hőmérséklet-beállítás. Fehér üvegpanel.",
+      "specs": {
+        "Teljesítmény": "2200W",
+        "Forró víz": "3 másodperc",
+        "Szín": "Fehér üvegpanel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Sötétzöld vízadagoló MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Elegáns, modern kialakítású, falra szerelhető hálózati vízadagoló egyedi sötétzöld színben. Helytakarékos és folyamatos tiszta vízellátást biztosít.",
+      "specs": {
+        "Szerelés": "Falra szerelhető",
+        "Szín": "Sötétzöld",
+        "Teljesítmény": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Fekete színű vízadagoló MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Falra szerelhető hálózati vízadagoló 2200W teljesítménnyel és gyors, 3 másodperces felfűtéssel. Teljes üvegpanel matt szórt műanyag részekkel.",
+      "specs": {
+        "Teljesítmény": "2200W",
+        "Forró víz": "3 másodperc",
+        "Szín": "Fekete üvegpanel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Falra szerelhető vízadagoló MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Fekete-fehér kétszínű, falra szerelhető hálózati vízadagoló. Kompakt, energiatakarékos, többfokozatú vízleadással.",
+      "specs": {
+        "Szerelés": "Falra szerelhető",
+        "Szín": "Fekete/Fehér"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W-os függőleges vízadagoló MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Nagy teljesítményű függőleges vízadagoló 304-es rozsdamentes acél tartállyal és 1KW-os fűtőteljesítménnyel. Digitális LED kijelző.",
+      "specs": {
+        "Teljesítmény": "1000W",
+        "Tartály": "304 rozsdamentes acél",
+        "Kijelző": "Digitális LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Függőleges vízadagoló MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Álló kivitelű függőleges vízadagoló 304-es rozsdamentes acél víztartállyal és több vízkimeneti lehetőséggel. Fekete/fehér design.",
+      "specs": {
+        "Típus": "Függőleges",
+        "Tartály": "304 rozsdamentes acél",
+        "Szín": "Fekete/Fehér"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Mosogató alatti fordított ozmózisos vízszűrő",
+      "category": "RO System",
+      "desc": "Gravitációs táplálású RO rendszer, amely a bejövő víznyomásra támaszkodik a víz RO membránon való átpréseléséhez. Többlépcsős: üledékszűrő, szénszűrő, RO membrán.",
+      "specs": {
+        "Lépcsők": "Többlépcsős",
+        "Típus": "Nem igényel szivattyút",
+        "Membrán": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30 hüvelykes, háromlépcsős Big Blue vízszűrő",
+      "category": "Filter Housing",
+      "desc": "Háromlépcsős szűrés: PP szűrő (nagy részecskék), RO membrán (nehézfémek, baktériumok, vírusok), CTO szénblokk (klór, íz).",
+      "specs": {
+        "Méret": "30 hüvelyk",
+        "Lépcsők": "3",
+        "Típus": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Háromlépcsős plusz UV vízszűrő",
+      "category": "Water Purifier",
+      "desc": "Háromlépcsős víztisztító rendszer UV sterilizálással kiegészítve a kiváló vízbiztonság érdekében.",
+      "specs": {
+        "Lépcsők": "3 + UV",
+        "Sterilizálás": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Közepes méretű vízszűrő réz csatlakozóval",
+      "category": "Filter Cartridge",
+      "desc": "Közepes méretű vízszűrő patron réz csatlakozóval a robusztus telepítés és teljesítmény érdekében.",
+      "specs": {
+        "Méret": "Közepes",
+        "Csatlakozó": "Réz"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water házszűrő",
+      "category": "Filter Housing",
+      "desc": "Blokká tömörített aktív szenet használó szénblokk szűrő. Eltávolítja a klórt, a kloraminokat, a peszticideket és a szagokat.",
+      "specs": {
+        "Típus": "Szénblokk ház",
+        "Csatlakozó": "Változó"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Szénblokk szűrő (kókuszdióhéj)",
+      "category": "Filter Cartridge",
+      "desc": "Kókuszdióhéjból készült aktív szén magas jódszámmal (1000) a hatékony tisztítás érdekében. 10 hüvelyk hosszú, 2,5 hüvelyk külső átmérő.",
+      "specs": {
+        "Jódszám": "1000",
+        "Anyag": "Kókusz szén",
+        "Méret": "10×2,5 hüvelyk"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun üledékszűrő",
+      "category": "Filter Cartridge",
+      "desc": "100% tiszta polipropilén olvadékfúvott mikroszálak. Eltávolítja a rozsdát, iszapot, vízkövet, üledéket és szennyeződéseket. Elérhető 10/20/30/40 hüvelykes méretben.",
+      "specs": {
+        "Anyag": "100% polipropilén",
+        "Méretek": "10–40 hüvelyk",
+        "Eltávolítja": "Üledék 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF granulált aktívszén-szűrő",
+      "category": "Filter Cartridge",
+      "desc": "Szabványos 10 hüvelykes GAC szűrő magas jódszámú szénből. Csökkenti a klórt, a szerves vegyi anyagokat, a természetellenes ízeket és szagokat.",
+      "specs": {
+        "Típus": "GAC",
+        "Méret": "10 hüvelyk",
+        "Jódszám": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Kerámia szűrőbetét",
+      "category": "Filter Cartridge",
+      "desc": "Kiváló minőségű kerámia szűrőbetét a finom részecskék és baktériumok eltávolításához.",
+      "specs": {
+        "Szűrés": "0,2μm",
+        "Típus": "Kerámia"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Ioncserélő gyantaszűrő",
+      "category": "Filter Cartridge",
+      "desc": "Ioncserélő gyantapatron vízlágyításhoz és nehézfémek eltávolításához.",
+      "specs": {
+        "Funkció": "Vízlágyítás",
+        "Eltávolítja": "Ca/Mg/Nehézfémek"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltrációs (UF) patron",
+      "category": "Filter Cartridge",
+      "desc": "Hollow-fiber ultrafiltrációs membránpatron baktériumok, vírusok és kolloid anyagok eltávolításához.",
+      "specs": {
+        "Membrán": "Hollow Fiber",
+        "Szűrés": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan kő inline szűrő",
+      "category": "Inline Filter",
+      "desc": "Maifan köveket tartalmazó inline szűrő a víz ásványianyag-pótlásához és az íz javításához.",
+      "specs": {
+        "Ásvány": "Maifan kő",
+        "Funkció": "Ásványianyag-pótlás"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline ásványi szűrő",
+      "category": "Inline Filter",
+      "desc": "Visszapótolja az alapvető ásványi anyagokat a tisztított vízbe az egészségügyi előnyök és az íz javítása érdekében.",
+      "specs": {
+        "Funkció": "Ásványianyag-pótlás",
+        "Hozzáad": "Ca/Mg/K ásványi anyagok"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO membrán szűrőpatron",
+      "category": "Filter Cartridge",
+      "desc": "Fordított ozmózis membránpatron – az RO rendszerek központi eleme a sótalanításhoz és tisztításhoz.",
+      "specs": {
+        "Típus": "RO TFC membrán",
+        "Kapacitás": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Többlépcsős szűrőbetét kombináció",
+      "category": "Filter Cartridge",
+      "desc": "Különböző szűrőpatronok kombinációja többlépcsős tisztításhoz.",
+      "specs": {
+        "Lépcsők": "3–5",
+        "Kombináció": "Egyedi"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 inline szénszűrő",
+      "category": "Inline Filter",
+      "desc": "Utószűrést végző inline szénszűrő a víz ízének finomításához és a maradék szagok eltávolításához.",
+      "specs": {
+        "Pozíció": "Utolsó lépcső",
+        "Anyag": "Aktív szén"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline PP patron",
+      "category": "Inline Filter",
+      "desc": "Inline polipropilén üledékszűrő kompakt víztisztító rendszerekhez.",
+      "specs": {
+        "Anyag": "Polipropilén",
+        "Szűrés": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF polipropilén szálas patron",
+      "category": "Filter Cartridge",
+      "desc": "Polipropilén szálas szűrőpatron üledék eltávolításához.",
+      "specs": {
+        "Anyag": "PP szál",
+        "Funkció": "Üledék"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF aktívszenes patron",
+      "category": "Filter Cartridge",
+      "desc": "Granulált aktívszenes patron előszűréshez a későbbi membránok védelme érdekében.",
+      "specs": {
+        "Pozíció": "Előszűrő",
+        "Anyag": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 utószűrő patron",
+      "category": "Inline Filter",
+      "desc": "Kiváló minőségű utólagos szénszűrő az utolsó lépcsős tisztításhoz.",
+      "specs": {
+        "Pozíció": "Utószűrő",
+        "Funkció": "Finomítás"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film szűrőpatron",
+      "category": "Filter Cartridge",
+      "desc": "Fejlett ultrafiltrációs filmpatron a nagy hatékonyságú szűréshez.",
+      "specs": {
+        "Típus": "Ultra Film",
+        "Szűrés": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF hollow-fiber szűrő",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltrációs patron a finom lebegőanyagok eltávolításához.",
+      "specs": {
+        "Anyag": "Hollow Fiber",
+        "Eltávolítja": "Baktériumok"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Ipari PP szűrő (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Ipari minőségű PP olvadékfúvott szűrő, elérhető SOE (Single Open End) és DOE (Double Open End) konfigurációban.",
+      "specs": {
+        "Típus": "SOE/DOE",
+        "Anyag": "Polipropilén",
+        "Iparág": "Ipari"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP szűrő Fin végzáróval",
+      "category": "Industrial Filter",
+      "desc": "Ipari PP patron \"fin\" stílusú végzáróval a biztonságos, szivárgásmentes illeszkedés érdekében a szűrőházakban.",
+      "specs": {
+        "Végzáró": "Fin típusú",
+        "Anyag": "Polipropilén"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP szűrő szilikon gyűrűvel",
+      "category": "Industrial Filter",
+      "desc": "Élelmiszeripari szilikon tömítőgyűrűvel ellátott PP szűrőpatron a nagy megbízhatóságú tömítésért.",
+      "specs": {
+        "Gyűrű": "Élelmiszeripari szilikon",
+        "Anyag": "Polipropilén"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Ipari szénblokk szűrő",
+      "category": "Industrial Filter",
+      "desc": "Ipari minőségű aktívszén-blokk szűrő nagy áramlású kémiai abszorpciós alkalmazásokhoz.",
+      "specs": {
+        "Típus": "Szénblokk",
+        "Iparág": "Ipari"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Tömörített aktívszén-blokk",
+      "category": "Industrial Filter",
+      "desc": "Nagy sűrűségű tömörített szénblokk a kiváló klór- és VOC-eltávolítás érdekében.",
+      "specs": {
+        "Sűrűség": "Nagy",
+        "Eltávolítja": "Klór, VOC"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Ásványianyag-pótló kis T33 inline vízszűrő",
+      "category": "Inline Filter",
+      "desc": "Javítja az ízt és az illatot a klór eltávolításával és jótékony ásványi anyagok hozzáadásával az egészség és a hidratáció érdekében.",
+      "specs": {
+        "Funkció": "Ásványianyag-pótlás + Finomítás",
+        "Csatlakozó": "Gyorscsatlakozó"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Kis molekulájú antibakteriális ásványi szűrő",
+      "category": "Inline Filter",
+      "desc": "Fejlett szűrés, amely eltávolítja a káros baktériumokat és vírusokat, miközben jótékony ásványi anyagokat ad a vízhez.",
+      "specs": {
+        "Funkció": "Antibakteriális + Ásványianyag-pótlás",
+        "Csatlakozó": "Gyorscsatlakozó"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakteriális ásványi szűrőpatron",
+      "category": "Inline Filter",
+      "desc": "Hatékonyan eltávolítja a káros baktériumokat és vírusokat, és jótékony ásványi anyagokat ad hozzá.",
+      "specs": {
+        "Funkció": "Antibakteriális + Ásványianyag-pótlás"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Inline kationgyantás szűrőpatron",
+      "category": "Inline Filter",
+      "desc": "Lágyítja a vizet a kemény ásványi anyagok, például a kalcium és a magnézium eltávolításával, csökkentve a vízkőlerakódást a készülékekben.",
+      "specs": {
+        "Funkció": "Vízlágyítás",
+        "Gyanta": "Kationcsere"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 kókuszdióhéj szén inline szűrő",
+      "category": "Inline Filter",
+      "desc": "Utószűrő T33 inline patron prémium kókuszdióhéj aktív szénnel az íz finomításához.",
+      "specs": {
+        "Szén": "Kókuszdióhéj",
+        "Pozíció": "Utószűrő"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD nagy áramlású RO membrán",
+      "category": "RO System",
+      "desc": "Nagy kapacitású fordított ozmózis membrán lakossági és kisebb kereskedelmi víztisztításhoz.",
+      "specs": {
+        "Kapacitás": "400 GPD",
+        "Típus": "Száraz membrán"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan kő ásványi víztisztító",
+      "category": "Water Purifier",
+      "desc": "Többlépcsős tisztító Maifan kővel az ásványianyag-pótláshoz és a vízminőség javításához.",
+      "specs": {
+        "Ásvány": "Maifan kő",
+        "Lépcsők": "5 lépcsős"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Alkáli víztisztító rendszer",
+      "category": "Water Purifier",
+      "desc": "Alkáli vizet állít elő a pH-szint növelésével és alapvető ásványi anyagok hozzáadásával.",
+      "specs": {
+        "Típus": "Alkáli",
+        "pH tartomány": "8,5 - 9,5"
+      }
+    }
+  ]
+}

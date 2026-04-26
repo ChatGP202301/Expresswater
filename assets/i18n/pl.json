@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Strona główna",
+    "nav_products": "Produkty",
+    "nav_about": "O nas",
+    "nav_workshop": "Warsztat",
+    "nav_exhibition": "Wystawy",
+    "nav_contact": "Kontakt",
+    "cta_whatsapp": "Napisz do nas na WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM na całym świecie · Od 1998",
+    "hero_eyebrow": "✦ Zaufany producent filtracji wody od 1998 roku",
+    "hero_title": "Rozwiązania do filtracji wody klasy przemysłowej",
+    "hero_desc": "Specjalizujemy się w produkcji PP, bloków węglowych, GAC, T33, membran RO oraz dystrybutorów wody. Certyfikaty NSF · ISO · CE · Halal. Partnerzy OEM/ODM w ponad 50 krajach.",
+    "hero_btn_explore": "Przeglądaj produkty",
+    "hero_btn_quote": "Uzyskaj wycenę",
+    "stats_years": "Lat doświadczenia",
+    "stats_models": "Modele produktów",
+    "stats_countries": "Obsługiwane kraje",
+    "stats_area": "Powierzchnia produkcyjna",
+    "about_eyebrow": "O nas",
+    "about_title": "Ponad 20 lat doskonałości w filtracji wody",
+    "about_desc": "Eco Express Water to zaawansowane technologicznie przedsiębiorstwo ochrony środowiska specjalizujące się w materiałach i urządzeniach filtracyjnych do uzdatniania wody. Założona w 1998 roku, nasza firma integruje pełny proces od badań i rozwoju, przez produkcję, marketing, aż po wsparcie techniczne. Siedziba firmy znajduje się w Yuanhua Town, Haining, w prowincji Zhejiang. Dysponujemy światowej klasy zespołem ekspertów technicznych, zintegrowanym centrum testów średniej skali oraz dużym centrum produkcyjnym. Jesteśmy certyfikowanym dostawcą filtrów wody halal, zaspokajając unikalne potrzeby konsumentów muzułmańskich w Malezji, Indonezji i innych krajach.",
+    "about_feat_1": "Założona w 1998 roku – ponad dwie dekady doświadczenia produkcyjnego",
+    "about_feat_2": "Pełna integracja pionowa: R&D, Produkcja, Kontrola Jakości, Logistyka",
+    "about_feat_3": "Linie produkcyjne z certyfikatami NSF, ISO, CE i Halal",
+    "about_feat_4": "Usługi OEM/ODM dla globalnych marek w ponad 50 krajach",
+    "about_feat_5": "Lokalizacja w Haining, Zhejiang – centrum filtracji wody w Chinach",
+    "why_eyebrow": "Dlaczego my",
+    "why_title": "Zaufany partner produkcyjny",
+    "why_desc": "Od surowców po końcową inspekcję, każdy produkt przechodzi przez nasz rygorystyczny system kontroli jakości.",
+    "why_card1_title": "Certyfikowana jakość",
+    "why_card1_desc": "Certyfikaty NSF / ISO / CE / Halal potwierdzone dla każdej wyprodukowanej partii.",
+    "why_card2_title": "Gotowość na OEM / ODM",
+    "why_card2_desc": "Niestandardowe marki, opakowania i specyfikacje produktów dopasowane do Twojego rynku.",
+    "why_card3_title": "Produkcja własna",
+    "why_card3_desc": "4 dedykowane linie produkcyjne obejmujące PP, węgiel, szybkozłącza i testy szczelności.",
+    "why_card4_title": "Wysyłka na cały świat",
+    "why_card4_desc": "Czas realizacji 7–15 dni z ugruntowaną logistyką eksportową do ponad 50 krajów.",
+    "products_eyebrow": "Nasze produkty",
+    "products_title": "Kompletne portfolio filtracji wody",
+    "products_desc": "42 modele w 8 kategoriach – od wkładów liniowych po pionowe dystrybutory i kompletne systemy RO.",
+    "cat_all": "Wszystkie produkty",
+    "product_view_details": "Zobacz szczegóły",
+    "workshop_eyebrow": "Produkcja",
+    "workshop_title": "Wewnątrz naszego warsztatu",
+    "workshop_desc": "4 specjalistyczne linie produkcyjne: filtr PP, blok węglowy, szybkozłącza liniowe i automatyczne wykrywanie nieszczelności.",
+    "workshop_pp": "Linia produkcyjna filtrów PP",
+    "workshop_carbon": "Produkcja filtrów z blokiem węglowym",
+    "workshop_quick": "Produkcja filtrów z szybkozłączem",
+    "workshop_leak": "Automatyczne testy szczelności",
+    "exhibition_eyebrow": "Targi",
+    "exhibition_title": "Wystawy globalne",
+    "exhibition_desc": "Spotkaj się z naszym zespołem na AquaTech Shanghai i innych ważnych wydarzeniach branżowych.",
+    "exhibition_aqua1": "Stoisko AquaTech Shanghai",
+    "exhibition_aqua2": "Ekspozycja AquaTech Shanghai",
+    "exhibition_show": "Stoisko targowe",
+    "exhibition_customers": "Klienci targowi",
+    "contact_eyebrow": "Skontaktuj się z nami",
+    "contact_title": "Budujmy razem",
+    "contact_desc": "Opowiedz nam o swoim projekcie. Nasi inżynierowie sprzedaży odpowiadają w ciągu 24 godzin.",
+    "contact_address_label": "Adres fabryki",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, Chiny",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "Adres e-mail",
+    "form_title": "Wyślij zapytanie",
+    "form_sub": "Uzyskaj szczegółową wycenę dla swoich specyfikacji.",
+    "form_name": "Twoje imię",
+    "form_email": "Adres e-mail",
+    "form_company": "Nazwa firmy",
+    "form_msg": "Wiadomość / Specyfikacje",
+    "form_btn": "Wyślij zapytanie",
+    "footer_brand_desc": "Zaufany producent rozwiązań do filtracji wody od 1998 roku. PP, bloki węglowe, GAC, T33, membrany RO i dystrybutory wody dla globalnych partnerów OEM/ODM.",
+    "footer_products": "Produkty",
+    "footer_company": "Firma",
+    "footer_contact": "Kontakt",
+    "footer_rights": "Wszelkie prawa zastrzeżone.",
+    "modal_specs_title": "Specyfikacje techniczne",
+    "modal_btn_wa": "Zapytanie przez WhatsApp",
+    "modal_btn_email": "Zapytanie przez e-mail"
+  },
+  "categories": {
+    "Filter Cartridge": "Wkład filtracyjny",
+    "Filter Housing": "Obudowa filtra",
+    "Flat Cap Filter": "Filtr z płaską nakrętką",
+    "Industrial Filter": "Filtr przemysłowy",
+    "Inline Filter": "Filtr liniowy",
+    "RO System": "System RO",
+    "Water Dispenser": "Dystrybutor wody",
+    "Water Purifier": "Oczyszczacz wody"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Złoty dystrybutor wody MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Naścienny dystrybutor wody z 5 stopniami objętości (150ml–850ml) i 5 poziomami temperatury (25°C–100°C). Element grzejny ze stali nierdzewnej tytanowo-złotej 316L. Blokada rodzicielska. Ekskluzywny panel ze złotego szkła.",
+      "specs": {
+        "Moc": "2200W",
+        "Objętość": "5 stopni 150–850ml",
+        "Temperatura": "25–100°C",
+        "Materiał": "Stal nierdzewna 316L"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Biały dystrybutor wody MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Naścienny dystrybutor wody o mocy znamionowej 2200W. Szybkie podawanie gorącej wody w 3 sekundy. 5-stopniowa regulacja objętości i temperatury wody. Biały panel szklany.",
+      "specs": {
+        "Moc": "2200W",
+        "Gorąca woda": "3 sekundy",
+        "Kolor": "Biały panel szklany"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Ciemnozielony dystrybutor wody MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Naścienny dystrybutor wody o eleganckim, nowoczesnym designie w unikalnym ciemnozielonym kolorze. Oszczędza miejsce i zapewnia stały dostęp do czystej wody.",
+      "specs": {
+        "Montaż": "Naścienny",
+        "Kolor": "Ciemnozielony",
+        "Moc": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Czarny dystrybutor wody MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Naścienny dystrybutor wody o mocy 2200W i szybkim nagrzewaniu w 3 sekundy. Całkowicie szklany panel z matowymi elementami z tworzywa sztucznego.",
+      "specs": {
+        "Moc": "2200W",
+        "Gorąca woda": "3 sekundy",
+        "Kolor": "Czarny panel szklany"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Naścienny dystrybutor wody MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Dwukolorowy (czarno-biały) naścienny dystrybutor wody. Kompaktowy, energooszczędny, z wielostopniowym dozowaniem wody.",
+      "specs": {
+        "Montaż": "Naścienny",
+        "Kolor": "Czarno-biały"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "Pionowy dystrybutor wody 1000W MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Pionowy dystrybutor wody o dużej mocy ze zbiornikiem ze stali nierdzewnej 304 i mocą grzewczą 1KW. Cyfrowy ekran LED.",
+      "specs": {
+        "Moc": "1000W",
+        "Zbiornik": "Stal nierdzewna 304",
+        "Wyświetlacz": "Cyfrowy LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Pionowy dystrybutor wody MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Pionowy dystrybutor wody wolnostojący ze zbiornikiem ze stali nierdzewnej 304 i wieloma opcjami wylotu wody. Design czarno-biały.",
+      "specs": {
+        "Typ": "Pionowy",
+        "Zbiornik": "Stal nierdzewna 304",
+        "Kolor": "Czarno-biały"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Podzlewowy filtr wody z odwróconą osmozą",
+      "category": "RO System",
+      "desc": "System RO zasilany grawitacyjnie, wykorzystujący ciśnienie wody wejściowej do przepchnięcia wody przez membranę RO. Wielostopniowy: filtr osadowy, filtr węglowy, membrana RO.",
+      "specs": {
+        "Stopnie": "Wielostopniowy",
+        "Typ": "Pompa nie jest wymagana",
+        "Membrana": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30-calowy trzystopniowy filtr Big Blue",
+      "category": "Filter Housing",
+      "desc": "Trzystopniowa filtracja: filtr PP (duże cząstki), membrana RO (metale ciężkie, bakterie, wirusy), blok węglowy CTO (chlor, smak).",
+      "specs": {
+        "Rozmiar": "30 cali",
+        "Stopnie": "3",
+        "Typ": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Trzystopniowy oczyszczacz wody z UV",
+      "category": "Water Purifier",
+      "desc": "Trzystopniowy system oczyszczania wody wzbogacony o sterylizację UV dla najwyższego bezpieczeństwa wody.",
+      "specs": {
+        "Stopnie": "3 + UV",
+        "Sterylizacja": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Średni filtr wody z miedzianym złączem",
+      "category": "Filter Cartridge",
+      "desc": "Średniej wielkości wkład filtra wody wyposażony w miedziane złącze dla solidnej instalacji i wydajności.",
+      "specs": {
+        "Rozmiar": "Średni",
+        "Złącze": "Miedź"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Filtr obudowy Eco Express Water",
+      "category": "Filter Housing",
+      "desc": "Filtr z blokiem węglowym wykorzystujący węgiel aktywny sprasowany w blok. Usuwa chlor, chloraminy, pestycydy i zapachy.",
+      "specs": {
+        "Typ": "Obudowa bloku węglowego",
+        "Złącze": "Różne"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Filtr z blokiem węglowym (z łupin kokosa)",
+      "category": "Filter Cartridge",
+      "desc": "Węgiel aktywny z łupin orzecha kokosowego o wysokiej liczbie jodowej (1000) dla skutecznego oczyszczania. Długość 10 cali, średnica zewnętrzna 2,5 cala.",
+      "specs": {
+        "Liczba jodowa": "1000",
+        "Materiał": "Węgiel kokosowy",
+        "Rozmiar": "10×2,5 cala"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "Filtr osadowy PP Spun",
+      "category": "Filter Cartridge",
+      "desc": "Mikrowłókna ze 100% czystego polipropylenu formowane metodą dmuchania ze stopu. Usuwa rdzę, muł, kamień, osad, brud. Dostępny w rozmiarach 10/20/30/40 cali.",
+      "specs": {
+        "Materiał": "100% Polipropylen",
+        "Rozmiary": "10–40 cali",
+        "Usuwa": "Osad 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "Filtr z granulowanym węglem aktywnym UDF",
+      "category": "Filter Cartridge",
+      "desc": "Standardowy 10-calowy filtr GAC z węgla o wysokiej liczbie jodowej. Redukuje chlor, chemikalia organiczne, nienaturalne smaki i zapachy.",
+      "specs": {
+        "Typ": "GAC",
+        "Rozmiar": "10 cali",
+        "Liczba jodowa": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Ceramiczny wkład filtracyjny",
+      "category": "Filter Cartridge",
+      "desc": "Wysokiej jakości ceramiczny wkład filtracyjny do usuwania drobnych cząstek i bakterii.",
+      "specs": {
+        "Filtracja": "0,2μm",
+        "Typ": "Ceramiczny"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Filtr z żywicą jonowymienną",
+      "category": "Filter Cartridge",
+      "desc": "Wkład z żywicą jonowymienną do zmiękczania wody i usuwania metali ciężkich.",
+      "specs": {
+        "Funkcja": "Zmiękczanie wody",
+        "Usuwa": "Ca/Mg/Metale ciężkie"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Wkład ultrafiltracyjny (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Wkład z membraną ultrafiltracyjną z pustych włókien do usuwania bakterii, wirusów i substancji koloidalnych.",
+      "specs": {
+        "Membrana": "Puste włókna",
+        "Filtracja": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Liniowy filtr z kamieniem Maifan",
+      "category": "Inline Filter",
+      "desc": "Filtr liniowy zawierający kamienie Maifan w celu mineralizacji wody i poprawy smaku.",
+      "specs": {
+        "Minerał": "Kamień Maifan",
+        "Funkcja": "Mineralizacja"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Liniowy filtr mineralny",
+      "category": "Inline Filter",
+      "desc": "Przywraca niezbędne minerały do oczyszczonej wody, aby zwiększyć korzyści zdrowotne i poprawić smak.",
+      "specs": {
+        "Funkcja": "Mineralizacja",
+        "Dodaje": "Minerały Ca/Mg/K"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "Wkład z membraną RO",
+      "category": "Filter Cartridge",
+      "desc": "Wkład z membraną odwróconej osmozy – kluczowy komponent systemów RO do odsalania i oczyszczania.",
+      "specs": {
+        "Typ": "Membrana RO TFC",
+        "Wydajność": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Zestaw wielostopniowych wkładów filtracyjnych",
+      "category": "Filter Cartridge",
+      "desc": "Połączenie różnych wkładów filtracyjnych zaprojektowanych do wielostopniowego oczyszczania.",
+      "specs": {
+        "Stopnie": "3–5",
+        "Zestaw": "Niestandardowy"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Węglowy filtr liniowy Post T33",
+      "category": "Inline Filter",
+      "desc": "Liniowy filtr węglowy do końcowego polerowania smaku wody i usuwania pozostałości zapachów.",
+      "specs": {
+        "Pozycja": "Etap końcowy",
+        "Materiał": "Węgiel aktywny"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Liniowy wkład PP",
+      "category": "Inline Filter",
+      "desc": "Liniowy polipropylenowy filtr osadowy do kompaktowych systemów oczyszczania wody.",
+      "specs": {
+        "Materiał": "Polipropylen",
+        "Filtracja": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "Wkład z włókna polipropylenowego PPF",
+      "category": "Filter Cartridge",
+      "desc": "Wkład filtracyjny z włókna polipropylenowego do usuwania osadów.",
+      "specs": {
+        "Materiał": "Włókno PP",
+        "Funkcja": "Osad"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Wkład z węglem aktywnym Pre-UDF",
+      "category": "Filter Cartridge",
+      "desc": "Wstępny wkład z granulowanym węglem aktywnym chroniący membrany na dalszych etapach.",
+      "specs": {
+        "Pozycja": "Filtr wstępny",
+        "Materiał": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "Wkład filtra końcowego T33",
+      "category": "Inline Filter",
+      "desc": "Wysokiej jakości filtr końcowy węglowy do ostatniego etapu oczyszczania.",
+      "specs": {
+        "Pozycja": "Filtr końcowy",
+        "Funkcja": "Polerowanie"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Wkład filtracyjny Ultra Film",
+      "category": "Filter Cartridge",
+      "desc": "Zaawansowany wkład z membraną ultrafiltracyjną dla wysokowydajnej filtracji.",
+      "specs": {
+        "Typ": "Ultra Film",
+        "Filtracja": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "Filtr UF z pustych włókien",
+      "category": "Filter Cartridge",
+      "desc": "Wkład ultrafiltracyjny do usuwania drobnych zawiesin stałych.",
+      "specs": {
+        "Materiał": "Puste włókna",
+        "Usuwa": "Bakterie"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Przemysłowy filtr PP (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Przemysłowy filtr PP formowany metodą dmuchania ze stopu, dostępny w konfiguracjach SOE (jeden otwarty koniec) i DOE (dwa otwarte końce).",
+      "specs": {
+        "Typ": "SOE/DOE",
+        "Materiał": "Polipropylen",
+        "Branża": "Przemysłowy"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "Filtr PP z nakrętką typu Fin",
+      "category": "Industrial Filter",
+      "desc": "Przemysłowy wkład PP z końcówką typu „fin” zapewniający bezpieczne, szczelne osadzenie w obudowach.",
+      "specs": {
+        "Nakrętka": "Typ Fin",
+        "Materiał": "Polipropylen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "Filtr PP z pierścieniem silikonowym",
+      "category": "Industrial Filter",
+      "desc": "Wkład filtra PP wyposażony w silikonowy pierścień uszczelniający przeznaczony do kontaktu z żywnością, zapewniający wysoką niezawodność uszczelnienia.",
+      "specs": {
+        "Pierścień": "Silikon spożywczy",
+        "Materiał": "Polipropylen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Przemysłowy filtr z blokiem węglowym",
+      "category": "Industrial Filter",
+      "desc": "Przemysłowy filtr z blokiem węgla aktywnego do zastosowań wymagających dużego przepływu i absorpcji chemicznej.",
+      "specs": {
+        "Typ": "Blok węglowy",
+        "Branża": "Przemysłowy"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Sprasowany blok węgla aktywnego",
+      "category": "Industrial Filter",
+      "desc": "Blok węglowy o wysokiej gęstości dla doskonałego usuwania chloru i lotnych związków organicznych (VOC).",
+      "specs": {
+        "Gęstość": "Wysoka",
+        "Usuwa": "Chlor, LZO (VOC)"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Liniowy mineralizujący filtr wody mały T33",
+      "category": "Inline Filter",
+      "desc": "Poprawia smak i zapach poprzez usuwanie chloru oraz dodawanie korzystnych minerałów do wody dla lepszego zdrowia i nawodnienia.",
+      "specs": {
+        "Funkcja": "Mineralizacja + Polerowanie",
+        "Złącze": "Szybkozłącze"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Małocząsteczkowy antybakteryjny filtr mineralizujący",
+      "category": "Inline Filter",
+      "desc": "Zaawansowana filtracja usuwająca szkodliwe bakterie i wirusy przy jednoczesnym dodawaniu korzystnych minerałów do wody.",
+      "specs": {
+        "Funkcja": "Antybakteryjny + Mineralizacja",
+        "Złącze": "Szybkozłącze"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antybakteryjny wkład mineralizujący",
+      "category": "Inline Filter",
+      "desc": "Skutecznie usuwa szkodliwe bakterie i wirusy oraz dodaje korzystne minerały.",
+      "specs": {
+        "Funkcja": "Antybakteryjny + Mineralizacja"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Liniowy wkład filtracyjny z żywicą kationową",
+      "category": "Inline Filter",
+      "desc": "Zmiękcza wodę poprzez usuwanie twardych minerałów, takich jak wapń i magnez, redukując osadzanie się kamienia w urządzeniach.",
+      "specs": {
+        "Funkcja": "Zmiękczanie wody",
+        "Żywica": "Wymiana kationowa"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "Liniowy filtr T33 z węgla z łupin kokosa",
+      "category": "Inline Filter",
+      "desc": "Wkład liniowy T33 z najwyższej jakości węglem aktywnym z łupin orzecha kokosowego do polerowania smaku.",
+      "specs": {
+        "Węgiel": "Łupiny kokosa",
+        "Pozycja": "Filtr końcowy"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "Membrana RO o wysokim przepływie 400GPD",
+      "category": "RO System",
+      "desc": "Membrana odwróconej osmozy o dużej wydajności do zastosowań domowych i lekkich komercyjnych.",
+      "specs": {
+        "Wydajność": "400 GPD",
+        "Typ": "Sucha membrana"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Oczyszczacz mineralizujący z kamieniem Maifan",
+      "category": "Water Purifier",
+      "desc": "Wielostopniowy oczyszczacz z kamieniem Maifan do mineralizacji i poprawy jakości wody.",
+      "specs": {
+        "Minerał": "Kamień Maifan",
+        "Stopnie": "5-stopniowy"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "System oczyszczania wody alkalicznej",
+      "category": "Water Purifier",
+      "desc": "Wytwarza wodę alkaliczną poprzez podnoszenie poziomu pH i dodawanie niezbędnych minerałów.",
+      "specs": {
+        "Typ": "Alkaliczny",
+        "Zakres pH": "8,5 - 9,5"
+      }
+    }
+  ]
+}

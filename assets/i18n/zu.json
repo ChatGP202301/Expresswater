@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Ikhaya",
+    "nav_products": "Imikhiqizo",
+    "nav_about": "Mayelana Nathi",
+    "nav_workshop": "Iworkshop",
+    "nav_exhibition": "Imibukiso",
+    "nav_contact": "Xhumana Nathi",
+    "cta_whatsapp": "Sithumele i-WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "I-OEM/ODM Emhlabeni Wonke · Kusukela ngo-1998",
+    "hero_eyebrow": "✦ Umkhiqizi Othembekile Wokuhlunga Amanzi Kusukela ngo-1998",
+    "hero_title": "Izixazululo Zokuhlunga Amanzi Zezinga Lezimboni",
+    "hero_desc": "Sikhethekile ekukhiqizeni i-PP, Carbon Block, GAC, T33, RO membranes, kanye nama-water dispenser. Siqinisekiswe yi-NSF · ISO · CE · Halal. Ozakwethu be-OEM/ODM emazweni angu-50+.",
+    "hero_btn_explore": "Hlola Imikhiqizo",
+    "hero_btn_quote": "Thola Isilinganiso",
+    "stats_years": "Iminyaka Yesipiliyoni",
+    "stats_models": "Amamodeli Wemikhiqizo",
+    "stats_countries": "Amazwe Akhonziwe",
+    "stats_area": "Indawo Yokukhiqiza",
+    "about_eyebrow": "Mayelana Nathi",
+    "about_title": "Iminyaka engu-20+ Yokusebenza Kahle Kokuhlunga Amanzi",
+    "about_desc": "I-Eco Express Water yibhizinisi lobuchwepheshe obusezingeni eliphezulu lokuvikela imvelo elikhethekile ngezinto zokuhlunga kanye nemishini yokuhlunga yokuhlanza amanzi. Isungulwe ngo-1998, imikhiqizo yethu ihlanganisa yonke inqubo kusukela ocwaningweni nasekuthuthukisweni, ekukhiqizeni, ekukhangiseni kuya osekelweni lwezobuchwepheshe. Inkampani yethu itholakala e-Yuanhua Town, eHaining City, esiFundazweni saseZhejiang. Sinethimba lochwepheshe bezobuchwepheshe bezinga lokuqala, isikhungo sokuhlola esihlanganisiwe, kanye nesikhungo sokukhiqiza esikhulu. Singabahlinzeki abaqinisekisiwe bezihlungi zamanzi ze-halal, sinakekela izidingo nezimfuno ezihlukile zabathengi abangamaSulumane eMalaysia, e-Indonesia, nakwamanye amazwe amaSulumane.",
+    "about_feat_1": "Isungulwe ngo-1998 – Ngaphezu kwamashumi amabili eminyaka yobuchwepheshe bokukhiqiza",
+    "about_feat_2": "Ukuhlanganiswa okuqondile: i-R&D, Ukukhiqiza, i-QC, iLogistics",
+    "about_feat_3": "Izinhlelo zokukhiqiza eziqinisekiswe yi-NSF, ISO, CE, kanye ne-Halal",
+    "about_feat_4": "Isevisi ye-OEM/ODM yemikhiqizo yomhlaba wonke emazweni angu-50+",
+    "about_feat_5": "Itholakala e-Haining, Zhejiang – Isizinda sokuhlunga amanzi saseShayina",
+    "why_eyebrow": "Kungani Ukhetha Thina",
+    "why_title": "Uzakwethu Wokukhiqiza Othembekile",
+    "why_desc": "Kusukela ezintweni zokusetshenziswa kuya ekuhlolweni kokugcina, yonke imikhiqizo idlula ohlelweni lwethu oluqinile lokulawula ikhwalithi.",
+    "why_card1_title": "Ikhwalithi Eqinisekisiwe",
+    "why_card1_desc": "Izitifiketi ze-NSF / ISO / CE / Halal ezisekelwa yiyo yonke iqoqo esilikhiqizayo.",
+    "why_card2_title": "I-OEM / ODM Ilungile",
+    "why_card2_desc": "Ukufakwa kwebhrendi ngokwezifiso, ukupakishwa, kanye nemininingwane yomkhiqizo ukuze ihambisane nemakethe yakho.",
+    "why_card3_title": "Ukukhiqizwa Kwangaphakathi",
+    "why_card3_desc": "Izinhlelo zokukhiqiza ezi-4 ezizinikele ezihlanganisa i-PP, Carbon, Quick-connect, kanye ne-Leak Test.",
+    "why_card4_title": "Ukuthunyelwa Emhlabeni Wonke",
+    "why_card4_desc": "Isikhathi sokulethwa izinsuku eziyi-7–15 ngezinhlelo zokuthumela ezimisiwe emazweni angu-50+.",
+    "products_eyebrow": "Imikhiqizo Yethu",
+    "products_title": "Iphothifoliyo Ephelele Yokuhlunga Amanzi",
+    "products_desc": "Amamodeli angu-42 ezigabeni ezingu-8 – kusukela kuma-inline cartridge kuya kuma-vertical dispenser kanye nezinhlelo ze-RO eziphelele.",
+    "cat_all": "Yonke Imikhiqizo",
+    "product_view_details": "Buka Imininingwane",
+    "workshop_eyebrow": "Ukukhiqiza",
+    "workshop_title": "Ngaphakathi kweWorkshop Yethu",
+    "workshop_desc": "Izinhlelo zokukhiqiza ezi-4 ezikhethekile: isihlungi se-PP, i-Carbon block, i-Quick-connect inline, kanye nokutholwa kokuvuza okuzenzakalelayo.",
+    "workshop_pp": "Uhlelo Lokukhiqiza Isihlungi Se-PP",
+    "workshop_carbon": "Ukukhiqizwa Kwesihlungi Se-Carbon Block",
+    "workshop_quick": "Ukukhiqizwa Kwesihlungi Se-Quick-Connect",
+    "workshop_leak": "Ukuhlolwa Kokuvuza Okuzenzakalelayo",
+    "exhibition_eyebrow": "Imibukiso Yezohwebo",
+    "exhibition_title": "Imibukiso Yomhlaba Wonke",
+    "exhibition_desc": "Hlangana nethimba lethu e-AquaTech Shanghai kanye neminye imicimbi emikhulu yezimboni.",
+    "exhibition_aqua1": "Idokodo le-AquaTech Shanghai",
+    "exhibition_aqua2": "Umbukiso we-AquaTech Shanghai",
+    "exhibition_show": "Idokodo Lombukiso Wezohwebo",
+    "exhibition_customers": "Amakhasimende Ombukiso Wezohwebo",
+    "contact_eyebrow": "Thintana Nathi",
+    "contact_title": "Masakhe Ndawonye",
+    "contact_desc": "Sitshele ngephrojekthi yakho. Onjiniyela bethu bokuthengisa baphendula emahoreni angama-24.",
+    "contact_address_label": "Ikheli Lefektri",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Ucingo / WhatsApp",
+    "contact_email_label": "Ikheli le-E-mail",
+    "form_title": "Thumela Umbuzo",
+    "form_sub": "Thola isilinganiso esinemininingwane semininingwane yakho.",
+    "form_name": "Igama Lakho",
+    "form_email": "Ikheli le-E-mail",
+    "form_company": "Igama Lenkampani",
+    "form_msg": "Umlayezo / Imininingwane",
+    "form_btn": "Thumela Umbuzo",
+    "footer_brand_desc": "Umkhiqizi othembekile wezixazululo zokuhlunga amanzi kusukela ngo-1998. I-PP, Carbon Block, GAC, T33, RO membranes, kanye nama-water dispenser kozakwethu be-OEM/ODM bomhlaba wonke.",
+    "footer_products": "Imikhiqizo",
+    "footer_company": "Inkampani",
+    "footer_contact": "Xhumana",
+    "footer_rights": "Wonke amalungelo agodliwe.",
+    "modal_specs_title": "Imininingwane Yezobuchwepheshe",
+    "modal_btn_wa": "Umbuzo nge-WhatsApp",
+    "modal_btn_email": "Umbuzo nge-E-mail"
+  },
+  "categories": {
+    "Filter Cartridge": "I-Filter Cartridge",
+    "Filter Housing": "I-Filter Housing",
+    "Flat Cap Filter": "I-Flat Cap Filter",
+    "Industrial Filter": "I-Industrial Filter",
+    "Inline Filter": "I-Inline Filter",
+    "RO System": "I-RO System",
+    "Water Dispenser": "I-Water Dispenser",
+    "Water Purifier": "I-Water Purifier"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "I-Golden Color Water Dispenser MT-900G",
+      "category": "Water Dispenser",
+      "desc": "I-dispenser yamanzi yasodongeni enamazinga ama-5 omthamo wamanzi (150ml–850ml) kanye namazinga ama-5 okushisa kwamanzi (25°C–100°C). Isici sokushisisa sensimbi engagqwali ye-titanium gold engu-316L. Isikhiye sokuphepha sezingane. I-premium golden glass panel.",
+      "specs": {
+        "Amandla": "2200W",
+        "Umthamo": "Amazinga ama-5 150–850ml",
+        "Ukushisa": "25–100°C",
+        "Okokusebenza": "316L Stainless Steel"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "I-White Color Water Dispenser MT-S800",
+      "category": "Water Dispenser",
+      "desc": "I-dispenser yamanzi yasodongeni enamandla angu-2200W. Okukhipha amanzi ashisayo ngokushesha ngemizuzwana emi-3. Amazinga ama-5 okulungiswa komthamo wamanzi nokushisa. I-white glass panel.",
+      "specs": {
+        "Amandla": "2200W",
+        "Okushisayo": "Imizuzwana emi-3",
+        "Umbala": "White Glass Panel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "I-Dark Green Water Dispenser MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "I-dispenser yamanzi yasodongeni enomklamo wesimanje oshelelayo ngombala oyingqayizivele oluhlaza okotshani okumnyama. Igcina indawo yaphansi futhi inikeza amanzi ahlanzekile aqhubekayo.",
+      "specs": {
+        "Ukufakwa": "Odongeni",
+        "Umbala": "Dark Green",
+        "Amandla": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "I-Black Color Water Dispenser MT-B600",
+      "category": "Water Dispenser",
+      "desc": "I-dispenser yamanzi yasodongeni enamandla angu-2200W nokushisisa ngokushesha kwemizuzwana emi-3. I-glass panel egcwele enezingxenye zeplastiki ze-matte spray.",
+      "specs": {
+        "Amandla": "2200W",
+        "Okushisayo": "Imizuzwana emi-3",
+        "Umbala": "Black Glass Panel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "I-Wall Mounted Water Dispenser MT-E600",
+      "category": "Water Dispenser",
+      "desc": "I-dispenser yamanzi yasodongeni enemibala emibili emnyama nemhlophe. I-compact, yonga amandla, inamazinga amaningi okukhipha amanzi.",
+      "specs": {
+        "Ukufakwa": "Odongeni",
+        "Umbala": "Black/White"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "I-1000W Vertical Water Dispenser MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "I-dispenser yamanzi eqondile enamandla amakhulu enethangi lensimbi engagqwali engu-304 namandla okushisisa angu-1KW. Isikrini se-LED digital.",
+      "specs": {
+        "Amandla": "1000W",
+        "Ithangi": "304 Stainless Steel",
+        "Isibonisi": "LED Digital"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "I-Vertical Water Dispenser MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "I-dispenser yamanzi eqondile emira phansi enethangi lamanzi lensimbi engagqwali engu-304 nezinketho eziningi zokuphuma kwamanzi. Umklamo we-Black/White.",
+      "specs": {
+        "Uhlobo": "Eqondile",
+        "Ithangi": "304 Stainless Steel",
+        "Umbala": "Black/White"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "I-Under-Sink Reverse Osmosis Water Filter",
+      "category": "RO System",
+      "desc": "Isistimu ye-RO esebenza ngokucindezela kwamanzi angenayo ukuze iphushe amanzi nge-membrane ye-RO. Izigaba eziningi: isihlungi se-sediment, isihlungi se-carbon, i-membrane ye-RO.",
+      "specs": {
+        "Izigaba": "Eziningi",
+        "Uhlobo": "Alukho Iphampu Oludingekayo",
+        "Membrane": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "I-30-inch Three Stage Big Blue Water Filter",
+      "category": "Filter Housing",
+      "desc": "Ukuhlunga kwezigaba ezintathu: isihlungi se-PP (izinhlayiya ezinkulu), i-membrane ye-RO (izinsimbi ezisindayo, amagciwane, amavirusi), i-CTO Carbon Block (i-chlorine, ukunambitheka).",
+      "specs": {
+        "Usayizi": "30 inches",
+        "Izigaba": "3",
+        "Uhlobo": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "I-Three Stage Plus UV Water Purifier",
+      "category": "Water Purifier",
+      "desc": "Isistimu yokuhlanza amanzi yezigaba ezintathu ethuthukiswe ngokubulala amagciwane nge-UV ukuze kuphephe amanzi okuphakeme.",
+      "specs": {
+        "Izigaba": "3 + UV",
+        "Ukuvimbela amagciwane": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "I-Medium Size Water Filter w/ Copper Connector",
+      "category": "Filter Cartridge",
+      "desc": "I-cartridge yesihlungi samanzi yosayizi omaphakathi enesixhumi sethusi sokufakwa okuqinile nokusebenza.",
+      "specs": {
+        "Usayizi": "Medium",
+        "Isixhumi": "Copper"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "I-Eco Express Water Housing Filter",
+      "category": "Filter Housing",
+      "desc": "Isihlungi se-carbon block sisebenzisa i-carbon esebenzayo ecindezelwe yaba yibhlokhi. Isusa i-chlorine, ama-chloramine, ama-pesticide, nephunga.",
+      "specs": {
+        "Uhlobo": "Carbon Block Housing",
+        "Isixhumi": "Okuhlukahlukene"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "I-Carbon Block Filter (Coconut Shell)",
+      "category": "Filter Cartridge",
+      "desc": "I-carbon esebenzayo yegobolondo likakhukhunathi enenani eliphakeme le-iodine (1000) yokuhlanza ngempumelelo. Ubude bama-intshi ayi-10, ububanzi bangaphandle obungama-intshi ayi-2.5.",
+      "specs": {
+        "I-Iodine": "1000",
+        "Okokusebenza": "Coconut Carbon",
+        "Usayizi": "10×2.5 inch"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "I-PP Spun Sediment Filter",
+      "category": "Filter Cartridge",
+      "desc": "Izintambo ezincane ze-polypropylene ezimsulwa ezingu-100%. Isusa ukugqwala, udaka, isikali, i-sediment, ukungcola. Itholakala ngama-intshi ayi-10/20/30/40.",
+      "specs": {
+        "Okokusebenza": "100% Polypropylene",
+        "Osayizi": "10–40 inch",
+        "Isusa": "Sediment 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "I-UDF Granular Activated Carbon Filter",
+      "category": "Filter Cartridge",
+      "desc": "Isihlungi se-GAC esijwayelekile sama-intshi ayi-10 esivela ku-carbon enenani eliphakeme le-iodine. Inciphisa i-chlorine, amakhemikhali e-organic, ukunambitheka nephunga okungelona okwemvelo.",
+      "specs": {
+        "Uhlobo": "GAC",
+        "Usayizi": "10 inch",
+        "I-Iodine": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "I-Ceramic Filter Cartridge",
+      "category": "Filter Cartridge",
+      "desc": "I-cartridge yesihlungi se-ceramic yekhwalithi ephezulu yokususa izinhlayiya ezinhle namagciwane.",
+      "specs": {
+        "Ukuhlunga": "0.2μm",
+        "Uhlobo": "Ceramic"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "I-Ion-Exchange Resin Filter",
+      "category": "Filter Cartridge",
+      "desc": "I-ion-exchange resin cartridge yokuthambisa amanzi nokususa izinsimbi ezisindayo.",
+      "specs": {
+        "Umsebenzi": "Water Softening",
+        "Isusa": "Ca/Mg/Heavy Metals"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "I-Ultrafiltration (UF) Cartridge",
+      "category": "Filter Cartridge",
+      "desc": "I-hollow-fiber ultrafiltration membrane cartridge yokususa amagciwane, amavirusi, nezinto ze-colloidal.",
+      "specs": {
+        "Membrane": "Hollow Fiber",
+        "Ukuhlunga": "0.01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "I-Maifan Stone Inline Filter",
+      "category": "Inline Filter",
+      "desc": "Isihlungi se-inline esiqukethe amatshe e-Maifan ukuze kunezelwe amaminerali emanzini futhi kuthuthukiswe ukunambitheka.",
+      "specs": {
+        "Mineral": "Maifan Stone",
+        "Umsebenzi": "Mineralization"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "I-Inline Mineral Filter",
+      "category": "Inline Filter",
+      "desc": "Ingeza amaminerali abalulekile emuva emanzini ahlanzekile ukuze kuthuthukiswe izinzuzo zezempilo nokunambitheka.",
+      "specs": {
+        "Umsebenzi": "Mineralization",
+        "Ingeza": "Ca/Mg/K minerals"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "I-RO Membrane Filter Cartridge",
+      "category": "Filter Cartridge",
+      "desc": "I-reverse osmosis membrane cartridge — ingxenye eyinhloko yezinhlelo ze-RO yokukhipha usawoti nokuhlanza.",
+      "specs": {
+        "Uhlobo": "RO TFC Membrane",
+        "Umthamo": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "I-Multi-Stage Filter Cartridge Combination",
+      "category": "Filter Cartridge",
+      "desc": "Inhlanganisela yama-filter cartridge ahlukahlukene aklanyelwe ukuhlanzwa kwezigaba eziningi.",
+      "specs": {
+        "Izigaba": "3–5",
+        "Inhlanganisela": "Custom"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "I-Post T33 Inline Carbon Filter",
+      "category": "Inline Filter",
+      "desc": "Isihlungi se-carbon se-inline sangemuva kokuhlunga sokunambitheka kwamanzi nokususa nephunga elisalayo.",
+      "specs": {
+        "Indawo": "Isigaba sokugcina",
+        "Okokusebenza": "Activated Carbon"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "I-Inline PP Cartridge",
+      "category": "Inline Filter",
+      "desc": "Isihlungi se-sediment se-polypropylene se-inline sezinhlelo zokuhlanza amanzi ezihlangene.",
+      "specs": {
+        "Okokusebenza": "Polypropylene",
+        "Ukuhlunga": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "I-PPF Polypropylene Fiber Cartridge",
+      "category": "Filter Cartridge",
+      "desc": "Isihlungi se-polypropylene fiber cartridge sokususa i-sediment.",
+      "specs": {
+        "Okokusebenza": "PP Fiber",
+        "Umsebenzi": "Sediment"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "I-Pre-UDF Activated Carbon Cartridge",
+      "category": "Filter Cartridge",
+      "desc": "I-granular activated carbon cartridge yokuhlunga kwangaphambili ukuze kuvikelwe ama-membrane angezansi.",
+      "specs": {
+        "Indawo": "Pre-filter",
+        "Okokusebenza": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "I-T33 Post Filter Cartridge",
+      "category": "Inline Filter",
+      "desc": "Isihlungi se-carbon sangemuva sekhwalithi ephezulu sokuhlanzwa kwesigaba sokugcina.",
+      "specs": {
+        "Indawo": "Post-filter",
+        "Umsebenzi": "Polishing"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "I-Ultra Film Filter Cartridge",
+      "category": "Filter Cartridge",
+      "desc": "I-cartridge ye-film ye-ultrafiltration ethuthukisiwe yokuhlunga okunokusebenza okuphezulu.",
+      "specs": {
+        "Uhlobo": "Ultra Film",
+        "Ukuhlunga": "0.01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "I-UF Hollow Fiber Filter",
+      "category": "Filter Cartridge",
+      "desc": "I-ultrafiltration cartridge yokususa izinto eziqinile ezimisiwe kahle.",
+      "specs": {
+        "Okokusebenza": "Hollow Fiber",
+        "Isusa": "Amagciwane"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "I-Industrial PP Filter (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Isihlungi se-PP melt-blown sezinga lezimboni, sitholakala ekucushweni kwe-SOE (Single Open End) ne-DOE (Double Open End).",
+      "specs": {
+        "Uhlobo": "SOE/DOE",
+        "Okokusebenza": "Polypropylene",
+        "Imboni": "Industrial"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "I-PP Filter with Fin End Cap",
+      "category": "Industrial Filter",
+      "desc": "I-cartridge ye-PP yezimboni enekepisi lokugcina lesitayela se-fin ukuze ihlale ngokuphephile, ngaphandle kokuvuza emayunithi ezindlu.",
+      "specs": {
+        "End Cap": "Fin Type",
+        "Okokusebenza": "Polypropylene"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "I-PP Filter with Silicon Ring",
+      "category": "Industrial Filter",
+      "desc": "I-cartridge yesihlungi se-PP efakwe iringi yokubopha ye-silicon yezinga lokudla yokubopha okuthembeke kakhulu.",
+      "specs": {
+        "Iringi": "Food-grade Silicon",
+        "Okokusebenza": "Polypropylene"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "I-Industrial Carbon Block Filter",
+      "category": "Industrial Filter",
+      "desc": "Isihlungi se-carbon block esisebenzayo sezinga lezimboni sezinhlelo zokumuncwa kwamakhemikhali ogeleza kakhulu.",
+      "specs": {
+        "Uhlobo": "Carbon Block",
+        "Imboni": "Industrial"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "I-Compressed Activated Carbon Block",
+      "category": "Industrial Filter",
+      "desc": "Ibhulokhi ye-carbon ecindezelwe kakhulu yokususa i-chlorine ne-VOC okuphakeme.",
+      "specs": {
+        "Density": "High",
+        "Isusa": "Chlorine, VOCs"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "I-Mineralized Small T33 Inline Water Filter",
+      "category": "Inline Filter",
+      "desc": "Ithuthukisa ukunambitheka nephunga ngokususa i-chlorine nokwengeza amaminerali anenzuzo emanzini ukuze kuthuthukiswe impilo nokufakwa kwamanzi emzimbeni.",
+      "specs": {
+        "Umsebenzi": "Mineralization + Polishing",
+        "Isixhumi": "Quick-connect"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "I-Small Molecule Antibacterial Mineralization Filter",
+      "category": "Inline Filter",
+      "desc": "Ukuhlunga okuthuthukisiwe okususa amagciwane ayingozi namavirusi ngenkathi kwengeza amaminerali anenzuzo emanzini.",
+      "specs": {
+        "Umsebenzi": "Antibacterial + Mineralization",
+        "Isixhumi": "Quick-connect"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "I-Antibacterial Mineralization Filter Cartridge",
+      "category": "Inline Filter",
+      "desc": "Isusa ngempumelelo amagciwane ayingozi namavirusi futhi yengeza amaminerali anenzuzo.",
+      "specs": {
+        "Umsebenzi": "Antibacterial + Mineralization"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "I-Inline Cation Resin Filter Cartridge",
+      "category": "Inline Filter",
+      "desc": "Ithambisa amanzi ngokususa amaminerali aqinile njenge-calcium ne-magnesium, inciphisa ukunqwabelana kwesikali ezimpahleni.",
+      "specs": {
+        "Umsebenzi": "Water Softening",
+        "Resin": "Cation Exchange"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "I-T33 Coconut Shell Carbon Inline Filter",
+      "category": "Inline Filter",
+      "desc": "I-post-filter T33 inline cartridge ene-premium coconut shell activated carbon yokunambitheka.",
+      "specs": {
+        "Carbon": "Coconut Shell",
+        "Indawo": "Post-filter"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "I-400GPD High Flow RO Membrane",
+      "category": "RO System",
+      "desc": "I-membrane ye-reverse osmosis yomthamo ophezulu yokuhlanzwa kwamanzi ekhaya nawentengiso encane.",
+      "specs": {
+        "Umthamo": "400 GPD",
+        "Uhlobo": "Dry Membrane"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "I-Maifan Stone Mineralizing Purifier",
+      "category": "Water Purifier",
+      "desc": "I-purifier yezigaba eziningi enetshana le-Maifan lokufaka amaminerali nokuthuthukisa ikhwalithi yamanzi.",
+      "specs": {
+        "Mineral": "Maifan Stone",
+        "Izigaba": "5-Stage"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "I-Alkaline Water Purifier System",
+      "category": "Water Purifier",
+      "desc": "Ikhiqiza amanzi e-alkaline ngokukhulisa amazinga e-pH nokwengeza amaminerali abalulekile.",
+      "specs": {
+        "Uhlobo": "Alkaline",
+        "I-pH range": "8.5 - 9.5"
+      }
+    }
+  ]
+}

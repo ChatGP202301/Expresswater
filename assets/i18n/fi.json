@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Etusivu",
+    "nav_products": "Tuotteet",
+    "nav_about": "Tietoa meistä",
+    "nav_workshop": "Työpaja",
+    "nav_exhibition": "Näyttelyt",
+    "nav_contact": "Ota yhteyttä",
+    "cta_whatsapp": "WhatsAppaa meille",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM maailmanlaajuisesti · Vuodesta 1998",
+    "hero_eyebrow": "✦ Luotettava vedenpuhdistuksen valmistaja vuodesta 1998",
+    "hero_title": "Teollisuustason vedenpuhdistusratkaisut",
+    "hero_desc": "Erikoistunut PP-, hiiliblokki-, GAC-, T33- ja RO-kalvojen sekä vesiautomaattien valmistukseen. NSF · ISO · CE · Halal-sertifioitu. OEM/ODM-kumppaneita yli 50 maassa.",
+    "hero_btn_explore": "Tutustu tuotteisiin",
+    "hero_btn_quote": "Pyydä tarjous",
+    "stats_years": "Vuotta kokemusta",
+    "stats_models": "Tuotemallia",
+    "stats_countries": "Palveltua maata",
+    "stats_area": "Valmistusalue",
+    "about_eyebrow": "Tietoa meistä",
+    "about_title": "Yli 20 vuotta huippuosaamista vedenpuhdistuksessa",
+    "about_desc": "Eco Express Water on korkean teknologian ympäristönsuojeluyritys, joka on erikoistunut vedenpuhdistuksen suodatinmateriaaleihin ja -laitteisiin. Vuonna 1998 perustettu yrityksemme integroi koko ketjun tutkimuksesta ja kehityksestä valmistukseen, markkinointiin ja tekniseen tukeen. Yrityksemme sijaitsee Yuanhua Townissa, Haining Cityssä, Zhejiangin maakunnassa. Meillä on ensiluokkainen tekninen asiantuntijaryhmä, integroidut toiminnalliset välitestaus- ja laajennustestausmahdollisuudet sekä suuri valmistuskeskus. Olemme sertifioitu halal-vesisuodattimien toimittaja, joka vastaa muslimikuluttajien erityistarpeisiin ja vaatimuksiin Malesiassa, Indonesiassa ja muissa muslimimaissa.",
+    "about_feat_1": "Perustettu 1998 – Yli kaksi vuosikymmentä valmistusosaamista",
+    "about_feat_2": "Täysi vertikaalinen integraatio: T&K, valmistus, laadunvalvonta, logistiikka",
+    "about_feat_3": "NSF-, ISO-, CE- ja Halal-sertifioidut tuotantolinjat",
+    "about_feat_4": "OEM/ODM-palvelu globaaleille brändeille yli 50 maassa",
+    "about_feat_5": "Sijaitsee Hainingissa, Zhejiangissa – Kiinan vedenpuhdistuksen keskuksessa",
+    "why_eyebrow": "Miksi valita meidät",
+    "why_title": "Luotettava valmistuskumppani",
+    "why_desc": "Raaka-aineista lopputarkastukseen jokainen tuote läpäisee tiukan laadunvalvontajärjestelmämme.",
+    "why_card1_title": "Sertifioitu laatu",
+    "why_card1_desc": "NSF / ISO / CE / Halal-sertifikaatit jokaiselle valmistamallemme erälle.",
+    "why_card2_title": "OEM / ODM -valmius",
+    "why_card2_desc": "Räätälöity brändäys, pakkaukset ja tuotetiedot markkinoidenne mukaan.",
+    "why_card3_title": "Oma tuotanto",
+    "why_card3_desc": "4 erikoistunutta tuotantolinjaa: PP, hiili, pikaliitin ja vuototesti.",
+    "why_card4_title": "Maailmanlaajuinen toimitus",
+    "why_card4_desc": "Toimitusaika 7–15 päivää vakiintuneella vientilogistiikalla yli 50 maahan.",
+    "products_eyebrow": "Tuotteemme",
+    "products_title": "Täydellinen vedenpuhdistusportfolio",
+    "products_desc": "42 mallia 8 kategoriassa – inline-patruunoista pystysuoriin automaatteihin ja täydellisiin RO-järjestelmiin.",
+    "cat_all": "Kaikki tuotteet",
+    "product_view_details": "Katso tiedot",
+    "workshop_eyebrow": "Valmistus",
+    "workshop_title": "Työpajamme sisältä",
+    "workshop_desc": "4 erikoistunutta tuotantolinjaa: PP-suodatin, hiiliblokki, pikaliitin inline ja automaattinen vuodontunnistus.",
+    "workshop_pp": "PP-suodattimen tuotantolinja",
+    "workshop_carbon": "Hiiliblokkisuodattimen valmistus",
+    "workshop_quick": "Pikaliitinsuodattimen valmistus",
+    "workshop_leak": "Automaattinen vuototestaaminen",
+    "exhibition_eyebrow": "Messut",
+    "exhibition_title": "Globaalit näyttelyt",
+    "exhibition_desc": "Tapaa tiimimme AquaTech Shanghaissa ja muissa alan merkittävissä tapahtumissa.",
+    "exhibition_aqua1": "AquaTech Shanghai -osasto",
+    "exhibition_aqua2": "AquaTech Shanghai -näyttely",
+    "exhibition_show": "Messuosasto",
+    "exhibition_customers": "Messuasiakkaat",
+    "contact_eyebrow": "Ota yhteyttä",
+    "contact_title": "Rakennetaan yhdessä",
+    "contact_desc": "Kerro meille projektistasi. Myynti-insinöörimme vastaavat 24 tunnin kuluessa.",
+    "contact_address_label": "Tehtaan osoite",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, Kiina",
+    "contact_phone_label": "Puhelin / WhatsApp",
+    "contact_email_label": "Sähköpostiosoite",
+    "form_title": "Lähetä kysely",
+    "form_sub": "Pyydä yksityiskohtainen tarjous määritystesi mukaan.",
+    "form_name": "Nimesi",
+    "form_email": "Sähköpostiosoite",
+    "form_company": "Yrityksen nimi",
+    "form_msg": "Viesti / Määritykset",
+    "form_btn": "Lähetä kysely",
+    "footer_brand_desc": "Luotettava vedenpuhdistusratkaisujen valmistaja vuodesta 1998. PP, hiiliblokki, GAC, T33, RO-kalvot ja vesiautomaatit globaaleille OEM/ODM-kumppaneille.",
+    "footer_products": "Tuotteet",
+    "footer_company": "Yritys",
+    "footer_contact": "Ota yhteyttä",
+    "footer_rights": "Kaikki oikeudet pidätetään.",
+    "modal_specs_title": "Tekniset tiedot",
+    "modal_btn_wa": "Kysely WhatsAppilla",
+    "modal_btn_email": "Kysely sähköpostilla"
+  },
+  "categories": {
+    "Filter Cartridge": "Suodatinpatruuna",
+    "Filter Housing": "Suodatinkotelo",
+    "Flat Cap Filter": "Lattakantinen suodatin",
+    "Industrial Filter": "Teollisuussuodatin",
+    "Inline Filter": "Inline-suodatin",
+    "RO System": "RO-järjestelmä",
+    "Water Dispenser": "Vesiautomaatti",
+    "Water Purifier": "Vedenpuhdistin"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Kultainen vesiautomaatti MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Seinään asennettava vesiautomaatti, jossa on 5 vesimäärävaihtoehtoa (150 ml – 850 ml) ja 5 lämpötilatasoa (25 °C – 100 °C). 316L titaanikulta-ruostumaton teräslämmityselementti. Lapsilukko. Premium-kultainen lasipaneeli.",
+      "specs": {
+        "Teho": "2200W",
+        "Tilavuus": "5 tasoa 150–850ml",
+        "Lämpötila": "25–100°C",
+        "Materiaali": "316L ruostumaton teräs"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Valkoinen vesiautomaatti MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Seinään asennettava vesiautomaatti 2200 W nimellisteholla. Nopea 3 sekunnin kuuman veden ulostulo. 5-portainen vesimäärän ja lämpötilan säätö. Valkoinen lasipaneeli.",
+      "specs": {
+        "Teho": "2200W",
+        "Kuuma vesi": "3 sekuntia",
+        "Väri": "Valkoinen lasipaneeli"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Tummanvihreä vesiautomaatti MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Seinään asennettava vesiautomaatti tyylikkäällä modernilla muotoilulla ja ainutlaatuisella tummanvihreällä värillä. Säästää lattiatilaa ja tarjoaa jatkuvasti puhdasta vettä.",
+      "specs": {
+        "Asennus": "Seinäasennus",
+        "Väri": "Tummanvihreä",
+        "Teho": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Musta vesiautomaatti MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Seinään asennettava vesiautomaatti 2200 W nimellisteholla ja nopealla 3 sekunnin lämmityksellä. Kokolasipaneeli mattasuihkutetuilla muoviosilla.",
+      "specs": {
+        "Teho": "2200W",
+        "Kuuma vesi": "3 sekuntia",
+        "Väri": "Musta lasipaneeli"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Seinään asennettava vesiautomaatti MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Mustavalkoinen kaksivärinen seinään asennettava vesiautomaatti. Kompakti, energiansäästöinen ja monivaiheinen veden ulostulo.",
+      "specs": {
+        "Asennus": "Seinäasennus",
+        "Väri": "Musta/Valkoinen"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W pystysuora vesiautomaatti MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Suuritehoinen pystysuora vesiautomaatti 304 ruostumattomasta teräksestä valmistetulla säiliöllä ja 1 kW lämmitysteholla. Digitaalinen LED-näyttö.",
+      "specs": {
+        "Teho": "1000W",
+        "Säiliö": "304 ruostumaton teräs",
+        "Näyttö": "Digitaalinen LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Pystysuora vesiautomaatti MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Lattialla seisova pystysuora vesiautomaatti 304 ruostumattomasta teräksestä valmistetulla vesisäiliöllä ja useilla veden ulostulovaihtoehdoilla. Mustavalkoinen muotoilu.",
+      "specs": {
+        "Tyyppi": "Pystysuora",
+        "Säiliö": "304 ruostumaton teräs",
+        "Väri": "Musta/Valkoinen"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Altaan alle asennettava käänteisosmoosivedensuodatin",
+      "category": "RO System",
+      "desc": "Painovoimalla toimiva RO-järjestelmä, joka hyödyntää tuloveden painetta veden työntämiseen RO-kalvon läpi. Monivaiheinen: sedimenttisuodatin, hiilisuodatin, RO-kalvo.",
+      "specs": {
+        "Vaiheet": "Monivaiheinen",
+        "Tyyppi": "Pumppua ei tarvita",
+        "Kalvo": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30 tuuman kolmivaiheinen Big Blue -vesisuodatin",
+      "category": "Filter Housing",
+      "desc": "Kolmivaiheinen suodatus: PP-suodatin (suuret hiukkaset), RO-kalvo (raskasmetallit, bakteerit, virukset), CTO-hiiliblokki (kloori, maku).",
+      "specs": {
+        "Koko": "30 tuumaa",
+        "Vaiheet": "3",
+        "Tyyppi": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Kolmivaiheinen plus UV-vedenpuhdistin",
+      "category": "Water Purifier",
+      "desc": "Kolmivaiheinen vedenpuhdistusjärjestelmä, jota on tehostettu UV-steriloinnilla erinomaisen veden turvallisuuden takaamiseksi.",
+      "specs": {
+        "Vaiheet": "3 + UV",
+        "Sterilointi": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Keskikokoinen vesisuodatin kupariliittimellä",
+      "category": "Filter Cartridge",
+      "desc": "Keskikokoinen vesisuodatinpatruuna, jossa on kupariliitin vankkaa asennusta ja suorituskykyä varten.",
+      "specs": {
+        "Koko": "Keskikokoinen",
+        "Liitin": "Kupari"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water -kotelosuodatin",
+      "category": "Filter Housing",
+      "desc": "Hiiliblokkisuodatin, jossa käytetään blokiksi puristettua aktiivihiiltä. Poistaa klooria, kloramiineja, torjunta-aineita ja hajuja.",
+      "specs": {
+        "Tyyppi": "Hiiliblokkikotelo",
+        "Liitin": "Eri vaihtoehtoja"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Hiiliblokkisuodatin (kookospähkinän kuori)",
+      "category": "Filter Cartridge",
+      "desc": "Kookospähkinän kuoresta valmistettu aktiivihiili korkealla jodiarvolla (1000) tehokkaaseen puhdistukseen. Pituus 10 tuumaa, ulkohalkaisija 2,5 tuumaa.",
+      "specs": {
+        "Jodiarvo": "1000",
+        "Materiaali": "Kookoshiili",
+        "Koko": "10×2,5 tuumaa"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun -sedimenttisuodatin",
+      "category": "Filter Cartridge",
+      "desc": "Sulatettu 100 % puhdas polypropeenimikrokuitu. Poistaa ruostetta, lietettä, kattilakiveä, sedimenttiä ja likaa. Saatavilla koot 10/20/30/40 tuumaa.",
+      "specs": {
+        "Materiaali": "100 % polypropeeni",
+        "Koot": "10–40 tuumaa",
+        "Poistaa": "Sedimentti 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF-rakeinen aktiivihiilisuodatin",
+      "category": "Filter Cartridge",
+      "desc": "Vakio 10 tuuman GAC-suodatin korkean jodiarvon hiilestä. Vähentää klooria, orgaanisia kemikaaleja sekä epämiellyttäviä makuja ja hajuja.",
+      "specs": {
+        "Tyyppi": "GAC",
+        "Koko": "10 tuumaa",
+        "Jodiarvo": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Keraaminen suodatinpatruuna",
+      "category": "Filter Cartridge",
+      "desc": "Korkealaatuinen keraaminen suodatinpatruuna hienojakoisten hiukkasten ja bakteerien poistamiseen.",
+      "specs": {
+        "Suodatus": "0,2μm",
+        "Tyyppi": "Keraaminen"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Ioninvaihtohartsipohjainen suodatin",
+      "category": "Filter Cartridge",
+      "desc": "Ioninvaihtohartsipatruuna veden pehmentämiseen ja raskasmetallien poistamiseen.",
+      "specs": {
+        "Toiminto": "Veden pehmennys",
+        "Poistaa": "Ca/Mg/raskasmetallit"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltraatio (UF) -patruuna",
+      "category": "Filter Cartridge",
+      "desc": "Onttokuituinen ultrafiltraatiokalvopatruuna bakteerien, virusten ja kolloidisen aineen poistamiseen.",
+      "specs": {
+        "Kalvo": "Onttokuitu",
+        "Suodatus": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan-kivi inline-suodatin",
+      "category": "Inline Filter",
+      "desc": "Maifan-kiviä sisältävä inline-suodatin veden mineralisointiin ja maun parantamiseen.",
+      "specs": {
+        "Mineraali": "Maifan-kivi",
+        "Toiminto": "Mineralisointi"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline-mineraalisuodatin",
+      "category": "Inline Filter",
+      "desc": "Lisää välttämättömiä mineraaleja takaisin puhdistettuun veteen terveyshyötyjen ja maun parantamiseen.",
+      "specs": {
+        "Toiminto": "Mineralisointi",
+        "Lisää": "Ca/Mg/K-mineraalit"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO-kalvosuodatinpatruuna",
+      "category": "Filter Cartridge",
+      "desc": "Käänteisosmoosikalvopatruuna – RO-järjestelmien ydinkomponentti suolanpoistoon ja puhdistukseen.",
+      "specs": {
+        "Tyyppi": "RO TFC -kalvo",
+        "Kapasiteetti": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Monivaiheinen suodatinpatruunayhdistelmä",
+      "category": "Filter Cartridge",
+      "desc": "Eri suodatinpatruunoiden yhdistelmä, joka on suunniteltu monivaiheiseen puhdistukseen.",
+      "specs": {
+        "Vaiheet": "3–5",
+        "Yhdistelmä": "Räätälöity"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 inline-hiilisuodatin",
+      "category": "Inline Filter",
+      "desc": "Jälkisuodatuksen inline-hiilisuodatin veden maun viimeistelyyn ja jäännöshajujen poistamiseen.",
+      "specs": {
+        "Sijainti": "Loppuvaihe",
+        "Materiaali": "Aktiivihiili"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline PP -patruuna",
+      "category": "Inline Filter",
+      "desc": "Inline-polypropeenisedimenttisuodatin kompakteihin vedenpuhdistusjärjestelmiin.",
+      "specs": {
+        "Materiaali": "Polypropeeni",
+        "Suodatus": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF-polypropeenikuitupatruuna",
+      "category": "Filter Cartridge",
+      "desc": "Polypropeenikuitusuodatinpatruuna sedimentin poistoon.",
+      "specs": {
+        "Materiaali": "PP-kuitu",
+        "Toiminto": "Sedimentti"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF-aktiivihiilipatruuna",
+      "category": "Filter Cartridge",
+      "desc": "Esisuodatuksen rakeinen aktiivihiilipatruuna suojaamaan myöhempiä kalvoja.",
+      "specs": {
+        "Sijainti": "Esisuodatin",
+        "Materiaali": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33-jälkisuodatinpatruuna",
+      "category": "Inline Filter",
+      "desc": "Korkealaatuinen jälkihiilisuodatin puhdistuksen loppuvaiheeseen.",
+      "specs": {
+        "Sijainti": "Jälkisuodatin",
+        "Toiminto": "Viimeistely"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film -suodatinpatruuna",
+      "category": "Filter Cartridge",
+      "desc": "Edistynyt ultrafiltraatiokalvopatruuna korkean hyötysuhteen suodatukseen.",
+      "specs": {
+        "Tyyppi": "Ultra Film",
+        "Suodatus": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF-onttokuitusuodatin",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltraatiopatruuna hienojen kiintoaineiden poistamiseen.",
+      "specs": {
+        "Materiaali": "Onttokuitu",
+        "Poistaa": "Bakteerit"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Teollinen PP-suodatin (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Teollisuustason sulapuhallettu PP-suodatin, saatavana SOE- (Single Open End) ja DOE- (Double Open End) kokoonpanoina.",
+      "specs": {
+        "Tyyppi": "SOE/DOE",
+        "Materiaali": "Polypropeeni",
+        "Toimiala": "Teollisuus"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP-suodatin eväpäädyllä",
+      "category": "Industrial Filter",
+      "desc": "Teollinen PP-patruuna evätyylisellä päädyllä varmistamaan tiiviin ja vuodottoman asennuksen koteloihin.",
+      "specs": {
+        "Pääty": "Evätyyppi",
+        "Materiaali": "Polypropeeni"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP-suodatin silikonirenkaalla",
+      "category": "Industrial Filter",
+      "desc": "PP-suodatinpatruuna varustettuna elintarvikelaatuisella silikonitiivisterenkaalla korkean tiivistysvarmuuden takaamiseksi.",
+      "specs": {
+        "Rengas": "Elintarvikelaatuinen silikoni",
+        "Materiaali": "Polypropeeni"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Teollinen hiiliblokkisuodatin",
+      "category": "Industrial Filter",
+      "desc": "Teollisuustason aktiivihiiliblokkisuodatin suuren virtauksen kemiallisiin absorptiosovelluksiin.",
+      "specs": {
+        "Tyyppi": "Hiiliblokki",
+        "Toimiala": "Teollisuus"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Puristettu aktiivihiiliblokki",
+      "category": "Industrial Filter",
+      "desc": "Erittäin tiheä puristettu hiiliblokki erinomaiseen kloorin ja haihtuvien orgaanisten yhdisteiden (VOC) poistoon.",
+      "specs": {
+        "Tiheys": "Suuri",
+        "Poistaa": "Kloori, VOC-yhdisteet"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Mineralisoitu pieni T33 inline-vesisuodatin",
+      "category": "Inline Filter",
+      "desc": "Parantaa makua ja hajua poistamalla klooria ja lisäämällä veteen hyödyllisiä mineraaleja terveyden ja nesteytyksen parantamiseksi.",
+      "specs": {
+        "Toiminto": "Mineralisointi + viimeistely",
+        "Liitin": "Pikaliitin"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Pienimolekyylinen antibakteerinen mineralisointisuodatin",
+      "category": "Inline Filter",
+      "desc": "Edistynyt suodatus, joka poistaa haitalliset bakteerit ja virukset samalla kun lisää veteen hyödyllisiä mineraaleja.",
+      "specs": {
+        "Toiminto": "Antibakteerinen + mineralisointi",
+        "Liitin": "Pikaliitin"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakteerinen mineralisointisuodatinpatruuna",
+      "category": "Inline Filter",
+      "desc": "Poistaa tehokkaasti haitalliset bakteerit ja virukset ja lisää hyödyllisiä mineraaleja.",
+      "specs": {
+        "Toiminto": "Antibakteerinen + mineralisointi"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Inline-kationihartsisuodatinpatruuna",
+      "category": "Inline Filter",
+      "desc": "Pehmentää vettä poistamalla kovia mineraaleja, kuten kalsiumia ja magnesiumia, vähentäen kalkkikerrostumia laitteissa.",
+      "specs": {
+        "Toiminto": "Veden pehmennys",
+        "Hartsi": "Kationinvaihto"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 kookospähkinän kuoren hiili inline-suodatin",
+      "category": "Inline Filter",
+      "desc": "Jälkisuodatin T33 inline-patruuna premium-kookospähkinän kuoren aktiivihiilellä maun viimeistelyyn.",
+      "specs": {
+        "Hiili": "Kookospähkinän kuori",
+        "Sijainti": "Jälkisuodatin"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD suuren virtauksen RO-kalvo",
+      "category": "RO System",
+      "desc": "Suuren kapasiteetin käänteisosmoosikalvo kotitalouksien ja kevyen kaupallisen käytön vedenpuhdistukseen.",
+      "specs": {
+        "Kapasiteetti": "400 GPD",
+        "Tyyppi": "Kuivakalvo"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan-kivi mineralisoiva puhdistin",
+      "category": "Water Purifier",
+      "desc": "Monivaiheinen puhdistin, jossa on Maifan-kiveä mineralisointiin ja veden laadun parantamiseen.",
+      "specs": {
+        "Mineraali": "Maifan-kivi",
+        "Vaiheet": "5-vaiheinen"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Alkalinen vedenpuhdistusjärjestelmä",
+      "category": "Water Purifier",
+      "desc": "Tuottaa emäksistä vettä nostamalla pH-tasoa ja lisäämällä välttämättömiä mineraaleja.",
+      "specs": {
+        "Tyyppi": "Alkalinen",
+        "pH-alue": "8,5 - 9,5"
+      }
+    }
+  ]
+}

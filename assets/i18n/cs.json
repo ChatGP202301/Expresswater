@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Domů",
+    "nav_products": "Produkty",
+    "nav_about": "O nás",
+    "nav_workshop": "Dílna",
+    "nav_exhibition": "Výstavy",
+    "nav_contact": "Kontakt",
+    "cta_whatsapp": "Napište nám na WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM po celém světě · Od roku 1998",
+    "hero_eyebrow": "✦ Důvěryhodný výrobce filtrace vody od roku 1998",
+    "hero_title": "Řešení filtrace vody průmyslové úrovně",
+    "hero_desc": "Specializujeme se na výrobu PP, uhlíkových bloků, GAC, T33, RO membrán a výdejníků vody. Certifikace NSF · ISO · CE · Halal. Partneři OEM/ODM ve více než 50 zemích.",
+    "hero_btn_explore": "Prozkoumat produkty",
+    "hero_btn_quote": "Získat cenovou nabídku",
+    "stats_years": "Let zkušeností",
+    "stats_models": "Modely produktů",
+    "stats_countries": "Obsloužené země",
+    "stats_area": "Výrobní plocha",
+    "about_eyebrow": "O nás",
+    "about_title": "Více než 20 let excelence ve filtraci vody",
+    "about_desc": "Eco Express Water je technologicky vyspělý podnik na ochranu životního prostředí specializující se na filtrační materiály a filtrační zařízení pro čištění vody. Naše společnost byla založena v roce 1998 a integruje celý proces od výzkumu a vývoje, výroby, marketingu až po technickou podporu. Naše společnost sídlí v Yuanhua Town, Haining City, provincie Zhejiang. Disponujeme prvotřídním týmem technických odborníků, integrovaným funkčním střednědobým testovacím centrem a velkokapacitním výrobním centrem. Jsme certifikovaným dodavatelem halal vodních filtrů, který uspokojuje jedinečné potřeby a požadavky muslimských spotřebitelů v Malajsii, Indonésii a dalších muslimských zemích.",
+    "about_feat_1": "Založeno v roce 1998 – Více než dvě desetiletí výrobních zkušeností",
+    "about_feat_2": "Plná vertikální integrace: Výzkum a vývoj, Výroba, Kontrola kvality, Logistika",
+    "about_feat_3": "Výrobní linky s certifikací NSF, ISO, CE a Halal",
+    "about_feat_4": "Služba OEM/ODM pro globální značky ve více než 50 zemích",
+    "about_feat_5": "Sídlíme v Hainingu, Zhejiang – čínském centru filtrace vody",
+    "why_eyebrow": "Proč si vybrat nás",
+    "why_title": "Důvěryhodný výrobní partner",
+    "why_desc": "Od surovin až po závěrečnou kontrolu prochází každý produkt naším přísným systémem kontroly kvality.",
+    "why_card1_title": "Certifikovaná kvalita",
+    "why_card1_desc": "Certifikace NSF / ISO / CE / Halal u každé šarže, kterou vyrobíme.",
+    "why_card2_title": "OEM / ODM připravenost",
+    "why_card2_desc": "Vlastní branding, balení a specifikace produktů odpovídající vašemu trhu.",
+    "why_card3_title": "Vlastní výroba",
+    "why_card3_desc": "4 vyhrazené výrobní linky pokrývající PP, uhlík, rychlospojky a testování těsnosti.",
+    "why_card4_title": "Celosvětová doprava",
+    "why_card4_desc": "Dodací lhůta 7–15 dní se zavedenou exportní logistikou do více než 50 zemí.",
+    "products_eyebrow": "Naše produkty",
+    "products_title": "Kompletní portfolio filtrace vody",
+    "products_desc": "42 modelů v 8 kategoriích – od lineárních kartuší po vertikální výdejníky a kompletní RO systémy.",
+    "cat_all": "Všechny produkty",
+    "product_view_details": "Zobrazit detaily",
+    "workshop_eyebrow": "Výroba",
+    "workshop_title": "Uvnitř naší dílny",
+    "workshop_desc": "4 specializované výrobní linky: PP filtr, uhlíkový blok, rychlospojkový lineární filtr a automatická detekce netěsností.",
+    "workshop_pp": "Výrobní linka na PP filtry",
+    "workshop_carbon": "Výroba uhlíkových bloků",
+    "workshop_quick": "Výroba rychlospojkových filtrů",
+    "workshop_leak": "Automatické testování těsnosti",
+    "exhibition_eyebrow": "Veletrhy",
+    "exhibition_title": "Globální výstavy",
+    "exhibition_desc": "Setkejte se s naším týmem na AquaTech Shanghai a dalších významných oborových akcích.",
+    "exhibition_aqua1": "Stánek AquaTech Shanghai",
+    "exhibition_aqua2": "Expozice AquaTech Shanghai",
+    "exhibition_show": "Veletržní stánek",
+    "exhibition_customers": "Zákazníci na veletrhu",
+    "contact_eyebrow": "Kontaktujte nás",
+    "contact_title": "Budujme společně",
+    "contact_desc": "Řekněte nám o svém projektu. Naši obchodní inženýři odpovídají do 24 hodin.",
+    "contact_address_label": "Adresa továrny",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, provincie Zhejiang, Čína",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "E-mailová adresa",
+    "form_title": "Odeslat dotaz",
+    "form_sub": "Získejte podrobnou cenovou nabídku pro vaše specifikace.",
+    "form_name": "Vaše jméno",
+    "form_email": "E-mailová adresa",
+    "form_company": "Název společnosti",
+    "form_msg": "Zpráva / Specifikace",
+    "form_btn": "Odeslat dotaz",
+    "footer_brand_desc": "Důvěryhodný výrobce řešení pro filtraci vody od roku 1998. PP, uhlíkové bloky, GAC, T33, RO membrány a výdejníky vody pro globální partnery OEM/ODM.",
+    "footer_products": "Produkty",
+    "footer_company": "Společnost",
+    "footer_contact": "Kontakt",
+    "footer_rights": "Všechna práva vyhrazena.",
+    "modal_specs_title": "Technické specifikace",
+    "modal_btn_wa": "Dotaz přes WhatsApp",
+    "modal_btn_email": "Dotaz přes E-mail"
+  },
+  "categories": {
+    "Filter Cartridge": "Filtrační kartuše",
+    "Filter Housing": "Pouzdro filtru",
+    "Flat Cap Filter": "Filtr s plochým víčkem",
+    "Industrial Filter": "Průmyslový filtr",
+    "Inline Filter": "Lineární filtr",
+    "RO System": "RO systém",
+    "Water Dispenser": "Výdejník vody",
+    "Water Purifier": "Čistička vody"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Zlatý výdejník vody MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Nástěnný potrubní výdejník vody s 5 stupni objemu (150 ml–850 ml) a 5 úrovněmi teploty (25 °C–100 °C). Topné těleso z titanově zlaté nerezové oceli 316L. Dětská pojistka. Prémiový zlatý skleněný panel.",
+      "specs": {
+        "Výkon": "2200W",
+        "Objem": "5 stupňů 150–850 ml",
+        "Teplota": "25–100 °C",
+        "Materiál": "316L nerezová ocel"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Bílý výdejník vody MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Nástěnný potrubní výdejník vody se jmenovitým výkonem 2200 W. Rychlý 3sekundový výdej horké vody. 5stupňové nastavení objemu a teploty vody. Bílý skleněný panel.",
+      "specs": {
+        "Výkon": "2200W",
+        "Horká voda": "3 sekundy",
+        "Barva": "Bílý skleněný panel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Tmavě zelený výdejník vody MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Nástěnný potrubní výdejník vody s elegantním moderním designem v unikátní tmavě zelené barvě. Šetří místo na podlaze a poskytuje nepřetržitou dodávku čisté vody.",
+      "specs": {
+        "Montáž": "Nástěnná",
+        "Barva": "Tmavě zelená",
+        "Výkon": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Černý výdejník vody MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Nástěnný potrubní výdejník vody o výkonu 2200 W a rychlým 3sekundovým ohřevem. Celoskleněný panel s matně stříkanými plastovými díly.",
+      "specs": {
+        "Výkon": "2200W",
+        "Horká voda": "3 sekundy",
+        "Barva": "Černý skleněný panel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Nástěnný výdejník vody MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Černobílý dvoubarevný nástěnný potrubní výdejník vody. Kompaktní, energeticky úsporný, s vícestupňovým výdejem vody.",
+      "specs": {
+        "Montáž": "Nástěnná",
+        "Barva": "Černá/Bílá"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W vertikální výdejník vody MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Vysoce výkonný vertikální výdejník vody s nádrží z nerezové oceli 304 a topným výkonem 1 kW. Digitální LED obrazovka.",
+      "specs": {
+        "Výkon": "1000W",
+        "Nádrž": "304 nerezová ocel",
+        "Displej": "Digitální LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Vertikální výdejník vody MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Vertikální volně stojící výdejník vody s nádrží z nerezové oceli 304 a více možnostmi výstupu vody. Design černá/bílá.",
+      "specs": {
+        "Typ": "Vertikální",
+        "Nádrž": "304 nerezová ocel",
+        "Barva": "Černá/Bílá"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Vodní filtr s reverzní osmózou pod dřez",
+      "category": "RO System",
+      "desc": "RO systém s volným průtokem, který využívá vstupní tlak vody k protlačení vody přes RO membránu. Vícestupňový: sedimentační filtr, uhlíkový filtr, RO membrána.",
+      "specs": {
+        "Stupně": "Vícestupňový",
+        "Typ": "Čerpadlo není vyžadováno",
+        "Membrána": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30palcový třístupňový vodní filtr Big Blue",
+      "category": "Filter Housing",
+      "desc": "Třístupňová filtrace: PP filtr (velké částice), RO membrána (těžké kovy, bakterie, viry), CTO uhlíkový blok (chlor, chuť).",
+      "specs": {
+        "Velikost": "30 palců",
+        "Stupně": "3",
+        "Typ": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Třístupňová čistička vody plus UV",
+      "category": "Water Purifier",
+      "desc": "Třístupňový systém čištění vody vylepšený o UV sterilizaci pro vynikající bezpečnost vody.",
+      "specs": {
+        "Stupně": "3 + UV",
+        "Sterilizace": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Středně velký vodní filtr s měděnou přípojkou",
+      "category": "Filter Cartridge",
+      "desc": "Středně velká filtrační kartuše s měděnou přípojkou pro robustní instalaci a výkon.",
+      "specs": {
+        "Velikost": "Střední",
+        "Přípojka": "Měď"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Pouzdrový filtr Eco Express Water",
+      "category": "Filter Housing",
+      "desc": "Uhlíkový blokový filtr využívající aktivní uhlí slisované do bloku. Odstraňuje chlor, chloraminy, pesticidy a pachy.",
+      "specs": {
+        "Typ": "Pouzdro na uhlíkový blok",
+        "Přípojka": "Různé"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Uhlíkový blokový filtr (kokosová skořápka)",
+      "category": "Filter Cartridge",
+      "desc": "Aktivní uhlí z kokosových skořápek s vysokým jodovým číslem (1000) pro efektivní čištění. Délka 10 palců, vnější průměr 2,5 palce.",
+      "specs": {
+        "Jodové číslo": "1000",
+        "Materiál": "Kokosový uhlík",
+        "Velikost": "10×2,5 palce"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun sedimentační filtr",
+      "category": "Filter Cartridge",
+      "desc": "Tavené mikrovlákno ze 100% čistého polypropylenu. Odstraňuje rez, kal, vodní kámen, sediment, nečistoty. Dostupné v rozměrech 10/20/30/40 palců.",
+      "specs": {
+        "Materiál": "100% polypropylen",
+        "Velikosti": "10–40 palců",
+        "Odstraňuje": "Sediment 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF granulovaný filtr s aktivním uhlím",
+      "category": "Filter Cartridge",
+      "desc": "Standardní 10palcový GAC filtr z uhlí s vysokým jodovým číslem. Snižuje chlor, organické chemikálie, nepřirozené chutě a pachy.",
+      "specs": {
+        "Typ": "GAC",
+        "Velikost": "10 palců",
+        "Jodové číslo": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Keramická filtrační kartuše",
+      "category": "Filter Cartridge",
+      "desc": "Vysoce kvalitní keramická filtrační kartuše pro odstranění jemných částic a bakterií.",
+      "specs": {
+        "Filtrace": "0,2μm",
+        "Typ": "Keramický"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Filtr s iontoměničovou pryskyřicí",
+      "category": "Filter Cartridge",
+      "desc": "Iontoměničová pryskyřičná kartuše pro změkčování vody a odstraňování těžkých kovů.",
+      "specs": {
+        "Funkce": "Změkčování vody",
+        "Odstraňuje": "Ca/Mg/Těžké kovy"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltrační (UF) kartuše",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltrační membránová kartuše s dutými vlákny pro odstranění bakterií, virů a koloidních látek.",
+      "specs": {
+        "Membrána": "Duté vlákno",
+        "Filtrace": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Lineární filtr s kamenem Maifan",
+      "category": "Inline Filter",
+      "desc": "Lineární filtr obsahující kameny Maifan pro mineralizaci vody a zlepšení chuti.",
+      "specs": {
+        "Minerál": "Kámen Maifan",
+        "Funkce": "Mineralizace"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Lineární minerální filtr",
+      "category": "Inline Filter",
+      "desc": "Dodává základní minerály zpět do vyčištěné vody pro zvýšení zdravotních přínosů a zlepšení chuti.",
+      "specs": {
+        "Funkce": "Mineralizace",
+        "Dodává": "Minerály Ca/Mg/K"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "Membránová filtrační kartuše RO",
+      "category": "Filter Cartridge",
+      "desc": "Membránová kartuše pro reverzní osmózu – klíčová součást RO systémů pro odsolování a čištění.",
+      "specs": {
+        "Typ": "RO TFC membrána",
+        "Kapacita": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Kombinace vícestupňových filtračních kartuší",
+      "category": "Filter Cartridge",
+      "desc": "Kombinace různých filtračních kartuší navržená pro vícestupňové čištění.",
+      "specs": {
+        "Stupně": "3–5",
+        "Kombinace": "Vlastní"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Lineární uhlíkový filtr Post T33",
+      "category": "Inline Filter",
+      "desc": "Lineární uhlíkový filtr pro závěrečnou úpravu chuti vody a odstranění zbytkových pachů.",
+      "specs": {
+        "Pozice": "Závěrečný stupeň",
+        "Materiál": "Aktivní uhlí"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Lineární PP kartuše",
+      "category": "Inline Filter",
+      "desc": "Lineární polypropylenový sedimentační filtr pro kompaktní systémy čištění vody.",
+      "specs": {
+        "Materiál": "Polypropylen",
+        "Filtrace": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF polypropylenová vláknová kartuše",
+      "category": "Filter Cartridge",
+      "desc": "Filtrační kartuše z polypropylenových vláken pro odstranění sedimentů.",
+      "specs": {
+        "Materiál": "PP vlákno",
+        "Funkce": "Sediment"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF aktivní uhlíková kartuše",
+      "category": "Filter Cartridge",
+      "desc": "Granulovaná aktivní uhlíková kartuše pro předfiltraci k ochraně následných membrán.",
+      "specs": {
+        "Pozice": "Předfiltr",
+        "Materiál": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 post-filtrační kartuše",
+      "category": "Inline Filter",
+      "desc": "Vysoce kvalitní post-uhlíkový filtr pro čištění v posledním stupni.",
+      "specs": {
+        "Pozice": "Post-filtr",
+        "Funkce": "Leštění"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film filtrační kartuše",
+      "category": "Filter Cartridge",
+      "desc": "Pokročilá ultrafiltrační filmová kartuše pro vysoce účinnou filtraci.",
+      "specs": {
+        "Typ": "Ultra Film",
+        "Filtrace": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF filtr s dutými vlákny",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltrační kartuše pro odstranění jemných suspendovaných pevných látek.",
+      "specs": {
+        "Materiál": "Duté vlákno",
+        "Odstraňuje": "Bakterie"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Průmyslový PP filtr (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Průmyslový tavený PP filtr dostupný v konfiguracích SOE (Single Open End) a DOE (Double Open End).",
+      "specs": {
+        "Typ": "SOE/DOE",
+        "Materiál": "Polypropylen",
+        "Průmysl": "Průmyslový"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP filtr s Fin víčkem",
+      "category": "Industrial Filter",
+      "desc": "Průmyslová PP kartuše s koncovým víčkem ve stylu \"fin\" pro bezpečné usazení v pouzdrech bez úniků.",
+      "specs": {
+        "Víčko": "Typ Fin",
+        "Materiál": "Polypropylen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP filtr se silikonovým kroužkem",
+      "category": "Industrial Filter",
+      "desc": "PP filtrační kartuše vybavená potravinářským silikonovým těsnicím kroužkem pro vysokou spolehlivost těsnění.",
+      "specs": {
+        "Kroužek": "Potravinářský silikon",
+        "Materiál": "Polypropylen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Průmyslový uhlíkový blokový filtr",
+      "category": "Industrial Filter",
+      "desc": "Průmyslový filtr s aktivním uhlíkovým blokem pro aplikace s vysokým průtokem a chemickou absorpcí.",
+      "specs": {
+        "Typ": "Uhlíkový blok",
+        "Průmysl": "Průmyslový"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Lisovaný aktivní uhlíkový blok",
+      "category": "Industrial Filter",
+      "desc": "Lisovaný uhlíkový blok s vysokou hustotou pro vynikající odstranění chloru a VOC látek.",
+      "specs": {
+        "Hustota": "Vysoká",
+        "Odstraňuje": "Chlor, VOC"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Mineralizovaný malý T33 lineární vodní filtr",
+      "category": "Inline Filter",
+      "desc": "Zlepšuje chuť a vůni tím, že odstraňuje chlor a přidává do vody prospěšné minerály pro lepší zdraví a hydrataci.",
+      "specs": {
+        "Funkce": "Mineralizace + Leštění",
+        "Přípojka": "Rychlospojka"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Nízkomolekulární antibakteriální mineralizační filtr",
+      "category": "Inline Filter",
+      "desc": "Pokročilá filtrace odstraňující škodlivé bakterie a viry a zároveň přidávající do vody prospěšné minerály.",
+      "specs": {
+        "Funkce": "Antibakteriální + Mineralizace",
+        "Přípojka": "Rychlospojka"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakteriální mineralizační filtrační kartuše",
+      "category": "Inline Filter",
+      "desc": "Účinně odstraňuje škodlivé bakterie a viry a přidává prospěšné minerály.",
+      "specs": {
+        "Funkce": "Antibakteriální + Mineralizace"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Lineární kartuše s katexovou pryskyřicí",
+      "category": "Inline Filter",
+      "desc": "Změkčuje vodu odstraněním tvrdých minerálů, jako je vápník a hořčík, a snižuje usazování vodního kamene ve spotřebičích.",
+      "specs": {
+        "Funkce": "Změkčování vody",
+        "Pryskyřice": "Katexová výměna"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "Lineární filtr T33 s uhlíkem z kokosových skořápek",
+      "category": "Inline Filter",
+      "desc": "Post-filtrační lineární kartuše T33 s prémiovým aktivním uhlím z kokosových skořápek pro úpravu chuti.",
+      "specs": {
+        "Uhlík": "Kokosová skořápka",
+        "Pozice": "Post-filtr"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "Vysokoprůtoková RO membrána 400 GPD",
+      "category": "RO System",
+      "desc": "Vysokokapacitní membrána pro reverzní osmózu pro rezidenční a lehké komerční čištění vody.",
+      "specs": {
+        "Kapacita": "400 GPD",
+        "Typ": "Suchá membrána"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Mineralizační čistička s kamenem Maifan",
+      "category": "Water Purifier",
+      "desc": "Vícestupňová čistička s kamenem Maifan pro mineralizaci a zlepšení kvality vody.",
+      "specs": {
+        "Minerál": "Kámen Maifan",
+        "Stupně": "5stupňová"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Systém čističky alkalické vody",
+      "category": "Water Purifier",
+      "desc": "Produkuje alkalickou vodu zvýšením hladiny pH a přidáním základních minerálů.",
+      "specs": {
+        "Typ": "Alkalický",
+        "Rozsah pH": "8,5 - 9,5"
+      }
+    }
+  ]
+}

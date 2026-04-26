@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Bosh sahifa",
+    "nav_products": "Mahsulotlar",
+    "nav_about": "Biz haqimizda",
+    "nav_workshop": "Sex",
+    "nav_exhibition": "Ko'rgazmalar",
+    "nav_contact": "Aloqa",
+    "cta_whatsapp": "WhatsApp orqali yozish",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "Butunjahon OEM/ODM · 1998 yildan beri",
+    "hero_eyebrow": "✦ 1998 yildan beri ishonchli suv filtrlash ishlab chiqaruvchisi",
+    "hero_title": "Sanoat darajasidagi suvni filtrlash yechimlari",
+    "hero_desc": "PP, ko'mir bloki, GAC, T33, RO membranalari va suv dispenserlarini ishlab chiqarishga ixtisoslashgan. NSF · ISO · CE · Halol sertifikatlangan. 50 dan ortiq mamlakatlardagi OEM/ODM hamkorlari.",
+    "hero_btn_explore": "Mahsulotlarni ko'rish",
+    "hero_btn_quote": "Narxni olish",
+    "stats_years": "Yillik tajriba",
+    "stats_models": "Mahsulot modellari",
+    "stats_countries": "Xizmat ko'rsatilgan davlatlar",
+    "stats_area": "Ishlab chiqarish maydoni",
+    "about_eyebrow": "Biz haqimizda",
+    "about_title": "Suvni filtrlash sohasida 20 yildan ortiq mukammallik",
+    "about_desc": "Eco Express Water — suvni tozalash uchun filtr materiallari va filtr uskunalariga ixtisoslashgan yuqori texnologiyali atrof-muhitni muhofaza qilish korxonasi. 1998 yilda tashkil etilgan bo'lib, mahsulotlarimiz tadqiqot va ishlanmalar, ishlab chiqarish, marketing va texnik qo'llab-quvvatlashgacha bo'lgan to'liq jarayonni birlashtiradi. Kompaniyamiz Zhejiang provinsiyasi, Haining shahri, Yuanhua shaharchasida joylashgan. Bizda birinchi darajali texnik ekspertlar jamoasi, integratsiyalashgan funksional o'rta sinov/kengaytirish sinovi va keng ko'lamli ishlab chiqarish markazi mavjud. Biz Malayziya, Indoneziya va boshqa musulmon mamlakatlaridagi musulmon iste'molchilarining o'ziga xos ehtiyojlari va talablarini qondiradigan halol suv filtrlarining sertifikatlangan yetkazib beruvchisimiz.",
+    "about_feat_1": "1998 yilda tashkil etilgan – Yigirma yildan ortiq ishlab chiqarish tajribasi",
+    "about_feat_2": "To'liq vertikal \"integratsiya\": R&D, ishlab chiqarish, QC, logistika",
+    "about_feat_3": "NSF, ISO, CE va Halol sertifikatlangan ishlab chiqarish liniyalari",
+    "about_feat_4": "50 dan ortiq mamlakatlardagi global brendlar uchun OEM/ODM xizmati",
+    "about_feat_5": "Xitoyning suv filtrlash markazi — Zhejiangning Haining shahrida joylashgan",
+    "why_eyebrow": "Nima uchun bizni tanlash kerak",
+    "why_title": "Ishonchli ishlab chiqarish hamkori",
+    "why_desc": "Xom ashyodan tortib yakuniy tekshiruvgacha har bir mahsulot bizning qat'iy sifat nazorati tizimidan o'tadi.",
+    "why_card1_title": "Sertifikatlangan sifat",
+    "why_card1_desc": "Biz ishlab chiqarayotgan har bir partiya NSF / ISO / CE / Halol sertifikatlari bilan tasdiqlangan.",
+    "why_card2_title": "OEM / ODM tayyor",
+    "why_card2_desc": "Bozoringizga mos keladigan shaxsiy brending, qadoqlash va mahsulot xususiyatlari.",
+    "why_card3_title": "O'z ishlab chiqarishimiz",
+    "why_card3_desc": "PP, ko'mir, tez ulanadigan va sizib chiqishni sinash uchun 4 ta maxsus ishlab chiqarish liniyasi.",
+    "why_card4_title": "Butunjahon yetkazib berish",
+    "why_card4_desc": "50 dan ortiq mamlakatlarga yo'lga qo'yilgan eksport logistikasi bilan yetkazib berish muddati 7–15 kun.",
+    "products_eyebrow": "Mahsulotlarimiz",
+    "products_title": "To'liq suv filtrlash portfeli",
+    "products_desc": "8 ta toifa bo'yicha 42 ta model – ixcham kartrijlardan tortib vertikal dispenserlar va to'liq RO tizimlarigacha.",
+    "cat_all": "Barcha mahsulotlar",
+    "product_view_details": "Tafsilotlarni ko'rish",
+    "workshop_eyebrow": "Ishlab chiqarish",
+    "workshop_title": "Seximiz ichida",
+    "workshop_desc": "4 ta ixtisoslashgan ishlab chiqarish liniyasi: PP filtri, ko'mir bloki, tez ulanadigan filtr va avtomatik sizib chiqishni aniqlash.",
+    "workshop_pp": "PP filtri ishlab chiqarish liniyasi",
+    "workshop_carbon": "Ko'mir bloki filtri ishlab chiqarish",
+    "workshop_quick": "Tez ulanadigan filtrlar ishlab chiqarish",
+    "workshop_leak": "Avtomatik sizib chiqishni sinash",
+    "exhibition_eyebrow": "Ko'rgazmalar",
+    "exhibition_title": "Global ko'rgazmalar",
+    "exhibition_desc": "Bizning jamoamiz bilan AquaTech Shanghai va boshqa yirik sanoat tadbirlarida uchrashing.",
+    "exhibition_aqua1": "AquaTech Shanghai stendi",
+    "exhibition_aqua2": "AquaTech Shanghai eksponati",
+    "exhibition_show": "Ko'rgazma stendi",
+    "exhibition_customers": "Ko'rgazma mijozlari",
+    "contact_eyebrow": "Biz bilan bog'laning",
+    "contact_title": "Birgalikda quramiz",
+    "contact_desc": "Loyihangiz haqida bizga aytib bering. Bizning savdo muhandislarimiz 24 soat ichida javob berishadi.",
+    "contact_address_label": "Zavod manzili",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "Elektron pochta manzili",
+    "form_title": "So'rov yuborish",
+    "form_sub": "Sizning xususiyatlaringiz bo'yicha batafsil kotirovka oling.",
+    "form_name": "Ismingiz",
+    "form_email": "Elektron pochta manzili",
+    "form_company": "Kompaniya nomi",
+    "form_msg": "Xabar / Texnik xususiyatlar",
+    "form_btn": "So'rov yuborish",
+    "footer_brand_desc": "1998 yildan beri suvni filtrlash yechimlarining ishonchli ishlab chiqaruvchisi. Global OEM/ODM hamkorlari uchun PP, ko'mir bloki, GAC, T33, RO membranalari va suv dispenserlari.",
+    "footer_products": "Mahsulotlar",
+    "footer_company": "Kompaniya",
+    "footer_contact": "Aloqa",
+    "footer_rights": "Barcha huquqlar himoyalangan.",
+    "modal_specs_title": "Texnik xususiyatlari",
+    "modal_btn_wa": "WhatsApp orqali so'rov",
+    "modal_btn_email": "Email orqali so'rov"
+  },
+  "categories": {
+    "Filter Cartridge": "Filtr kartriji",
+    "Filter Housing": "Filtr korpusi",
+    "Flat Cap Filter": "Yassi qopqoqli filtr",
+    "Industrial Filter": "Sanoat filtri",
+    "Inline Filter": "O'rnatilgan (inline) filtr",
+    "RO System": "Teskari osmos tizimi",
+    "Water Dispenser": "Suv dispenseri",
+    "Water Purifier": "Suv tozalagich"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Oltin rangli suv dispenseri MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Devorga o'rnatiladigan quvurli suv dispenseri, 5 xil suv hajmi (150ml–850ml) va 5 xil suv harorati (25°C–100°C) bilan. 316L titanli oltin zanglamaydigan po'latdan yasalgan isitish elementi. Bolalar xavfsizligi qulfi. Premium oltin shisha paneli.",
+      "specs": {
+        "Power": "2200W",
+        "Volume": "5 bosqich 150–850ml",
+        "Temperature": "25–100°C",
+        "Material": "316L Zanglamaydigan po'lat"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Oq rangli suv dispenseri MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Nominal quvvati 2200W bo'lgan devorga o'rnatiladigan quvurli suv dispenseri. 3 soniyada tez qaynoq suv chiqarish. 5 bosqichli suv hajmi va haroratini sozlash. Oq shisha paneli.",
+      "specs": {
+        "Power": "2200W",
+        "Hot Output": "3 soniya",
+        "Color": "Oq shisha paneli"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "To'q yashil suv dispenseri MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "O'ziga xos to'q yashil rangdagi zamonaviy dizaynga ega devorga o'rnatiladigan quvurli suv dispenseri. Joyni tejaydi va doimiy toza suv bilan ta'minlaydi.",
+      "specs": {
+        "Mount": "Devorga o'rnatiladigan",
+        "Color": "To'q yashil",
+        "Power": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Qora rangli suv dispenseri MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Nominal quvvati 2200W va 3 soniyada tez isitish imkoniyatiga ega devorga o'rnatiladigan quvurli suv dispenseri. Mot purkagichli plastik qismlarga ega to'liq shisha panel.",
+      "specs": {
+        "Power": "2200W",
+        "Hot Output": "3 soniya",
+        "Color": "Qora shisha paneli"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Devorga o'rnatiladigan suv dispenseri MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Qora va oq rangli devorga o'rnatiladigan quvurli suv dispenseri. Ixcham, energiya tejovchi, ko'p bosqichli suv chiqarish imkoniyati bilan.",
+      "specs": {
+        "Mount": "Devorga o'rnatiladigan",
+        "Color": "Qora/Oq"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W Vertikal suv dispenseri MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "304 zanglamaydigan po'latdan yasalgan idish va 1 kVt isitish quvvatiga ega yuqori quvvatli vertikal suv dispenseri. LED raqamli ekran.",
+      "specs": {
+        "Power": "1000W",
+        "Tank": "304 Zanglamaydigan po'lat",
+        "Display": "LED raqamli"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Vertikal suv dispenseri MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "304 zanglamaydigan po'latdan yasalgan suv idishi va bir nechta suv chiqarish variantlariga ega vertikal suv dispenseri. Qora/Oq dizayn.",
+      "specs": {
+        "Type": "Vertikal",
+        "Tank": "304 Zanglamaydigan po'lat",
+        "Color": "Qora/Oq"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Rakovina ostidagi teskari osmos suv filtri",
+      "category": "RO System",
+      "desc": "Suvni teskari osmos membranasi orqali o'tkazish uchun kirish suv bosimiga tayanadigan gravitatsion RO tizimi. Ko'p bosqichli: cho'kindi filtri, ko'mir filtri, RO membranasi.",
+      "specs": {
+        "Stages": "Ko'p bosqichli",
+        "Type": "Nasos talab qilinmaydi",
+        "Membrane": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30 dyuymli uch bosqichli Big Blue suv filtri",
+      "category": "Filter Housing",
+      "desc": "Uch bosqichli filtrlash: PP filtri (yirik zarralar), RO membranasi (og'ir metallar, bakteriyalar, viruslar), CTO ko'mir bloki (xlor, ta'm).",
+      "specs": {
+        "Size": "30 dyuym",
+        "Stages": "3",
+        "Type": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Uch bosqichli va UB suv tozalagichi",
+      "category": "Water Purifier",
+      "desc": "Suv xavfsizligini oshirish uchun UB sterilizatsiyasi bilan jihozlangan uch bosqichli suv tozalash tizimi.",
+      "specs": {
+        "Stages": "3 + UB",
+        "Sterilization": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Mis konnektorli o'rtacha o'lchamdagi suv filtri",
+      "category": "Filter Cartridge",
+      "desc": "Mustahkam o'rnatish va ishlash uchun mis konnektorga ega o'rtacha o'lchamdagi suv filtri kartriji.",
+      "specs": {
+        "Size": "O'rtacha",
+        "Connector": "Mis"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water korpusli filtri",
+      "category": "Filter Housing",
+      "desc": "Blokka siqilgan faollashtirilgan ko'mirdan foydalanadigan ko'mir blokli filtr. Xlor, xloraminlar, pestitsidlar va hidlarni yo'qotadi.",
+      "specs": {
+        "Type": "Ko'mir blokli korpus",
+        "Connector": "Har xil"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Ko'mir bloki filtri (kokos qobig'i)",
+      "category": "Filter Cartridge",
+      "desc": "Samarali tozalash uchun yod qiymati yuqori (1000) kokos qobig'i faollashtirilgan ko'miri. Uzunligi 10 dyuym, tashqi diametri 2,5 dyuym.",
+      "specs": {
+        "Iodine": "1000",
+        "Material": "Kokos ko'miri",
+        "Size": "10×2,5 dyuym"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun cho'kindi filtri",
+      "category": "Filter Cartridge",
+      "desc": "100% toza polipropilen mikro-tolalari. Zang, loy, quyqa, cho'kindi va kirlarni yo'qotadi. 10/20/30/40 dyuym o'lchamlarida mavjud.",
+      "specs": {
+        "Material": "100% Polipropilen",
+        "Sizes": "10–40 dyuym",
+        "Removes": "Cho'kindi 5mkm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF donador faollashtirilgan ko'mir filtri",
+      "category": "Filter Cartridge",
+      "desc": "Yod qiymati yuqori ko'mirdan tayyorlangan standart 10 dyuymli GAC filtri. Xlor, organik kimyoviy moddalar, g'ayritabiiy ta'm va hidlarni kamaytiradi.",
+      "specs": {
+        "Type": "GAC",
+        "Size": "10 dyuym",
+        "Iodine": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Keramik filtr kartriji",
+      "category": "Filter Cartridge",
+      "desc": "Mayda zarralar va bakteriyalarni olib tashlash uchun yuqori sifatli keramik filtr kartriji.",
+      "specs": {
+        "Filtration": "0.2mkm",
+        "Type": "Keramik"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Ion almashinadigan smola filtri",
+      "category": "Filter Cartridge",
+      "desc": "Suvni yumshatish va og'ir metallarni olib tashlash uchun ion almashinadigan smola kartriji.",
+      "specs": {
+        "Function": "Suvni yumshatish",
+        "Removes": "Ca/Mg/Og'ir metallar"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafi ltratsiya (UF) kartriji",
+      "category": "Filter Cartridge",
+      "desc": "Bakteriyalar, viruslar va kolloid moddalarni olib tashlash uchun ichi bo'sh tolali ultrafiltratsiya membrana kartriji.",
+      "specs": {
+        "Membrane": "Ichi bo'sh tola",
+        "Filtration": "0.01mkm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan toshli inline filtr",
+      "category": "Inline Filter",
+      "desc": "Suvni minerallashtirish va ta'mini yaxshilash uchun Maifan toshlari bo'lgan inline filtr.",
+      "specs": {
+        "Mineral": "Maifan toshi",
+        "Function": "Minerallashtirish"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline mineral filtri",
+      "category": "Inline Filter",
+      "desc": "Salomatlik uchun foydani va ta'mni yaxshilash uchun tozalangan suvga muhim minerallarni qayta qo'shadi.",
+      "specs": {
+        "Function": "Minerallashtirish",
+        "Adds": "Ca/Mg/K minerallari"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO membrana filtr kartriji",
+      "category": "Filter Cartridge",
+      "desc": "Teskari osmos membrana kartriji — tuzsizlantirish va tozalash uchun RO tizimlarining asosiy komponenti.",
+      "specs": {
+        "Type": "RO TFC membranasi",
+        "Capacity": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Ko'p bosqichli filtr kartrijlari kombinatsiyasi",
+      "category": "Filter Cartridge",
+      "desc": "Ko'p bosqichli tozalash uchun mo'ljallangan turli xil filtr kartrijlarining kombinatsiyasi.",
+      "specs": {
+        "Stages": "3–5",
+        "Combination": "Maxsus"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 inline ko'mir filtri",
+      "category": "Inline Filter",
+      "desc": "Suv ta'mini yaxshilash va qoldiq hidlarni yo'qotish uchun filtrlashdan keyingi inline ko'mir filtri.",
+      "specs": {
+        "Position": "Yakuniy bosqich",
+        "Material": "Faollashtirilgan ko'mir"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline PP kartriji",
+      "category": "Inline Filter",
+      "desc": "Ixcham suv tozalash tizimlari uchun inline polipropilen cho'kindi filtri.",
+      "specs": {
+        "Material": "Polipropilen",
+        "Filtration": "5mkm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF polipropilen tolali kartrij",
+      "category": "Filter Cartridge",
+      "desc": "Cho'kindilarni olib tashlash uchun polipropilen tolali filtr kartriji.",
+      "specs": {
+        "Material": "PP tolasi",
+        "Function": "Cho'kindi"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF faollashtirilgan ko'mir kartriji",
+      "category": "Filter Cartridge",
+      "desc": "Pastki oqimdagi membranalarni himoya qilish uchun oldindan filtrlaydigan donador faollashtirilgan ko'mir kartriji.",
+      "specs": {
+        "Position": "Old filtr",
+        "Material": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 yakuniy filtr kartriji",
+      "category": "Inline Filter",
+      "desc": "Yakuniy bosqichda tozalash uchun yuqori sifatli ko'mirdan keyingi filtr.",
+      "specs": {
+        "Position": "Yakuniy filtr",
+        "Function": "Ta'mni yaxshilash"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film filtr kartriji",
+      "category": "Filter Cartridge",
+      "desc": "Yuqori samarali filtrlash uchun ilg'or ultrafiltratsiya plyonkali kartrij.",
+      "specs": {
+        "Type": "Ultra Film",
+        "Filtration": "0.01mkm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF ichi bo'sh tolali filtr",
+      "category": "Filter Cartridge",
+      "desc": "Mayda muallaq qattiq moddalarni olib tashlash uchun ultrafiltratsiya kartriji.",
+      "specs": {
+        "Material": "Ichi bo'sh tola",
+        "Removes": "Bakteriyalar"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Sanoat PP filtri (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "SOE (bir uchi ochiq) va DOE (ikki uchi ochiq) konfiguratsiyalarida mavjud bo'lgan sanoat darajasidagi PP eritilgan filtr.",
+      "specs": {
+        "Type": "SOE/DOE",
+        "Material": "Polipropilen",
+        "Industry": "Sanoat"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "Qopqoqli PP filtri",
+      "category": "Industrial Filter",
+      "desc": "Korpus bloklariga xavfsiz va sizib chiqmaydigan qilib o'rnatish uchun maxsus qopqoqli sanoat PP kartriji.",
+      "specs": {
+        "End Cap": "Fin turi",
+        "Material": "Polipropilen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "Silikon halqali PP filtri",
+      "category": "Industrial Filter",
+      "desc": "Yuqori ishonchlilik bilan zichlash uchun oziq-ovqat mahsulotlariga mo'ljallangan silikon zichlagich halqasi bilan jihozlangan PP filtr kartriji.",
+      "specs": {
+        "Ring": "Oziq-ovqat silikoni",
+        "Material": "Polipropilen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Sanoat ko'mir bloki filtri",
+      "category": "Industrial Filter",
+      "desc": "Yuqori oqimli kimyoviy absorbsiya ilovalari uchun mo'ljallangan sanoat darajasidagi faollashtirilgan ko'mir bloki filtri.",
+      "specs": {
+        "Type": "Ko'mir bloki",
+        "Industry": "Sanoat"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Siqilgan faollashtirilgan ko'mir bloki",
+      "category": "Industrial Filter",
+      "desc": "Xlor va uchuvchi organik birikmalarni (VOC) samarali yo'qotish uchun yuqori zichlikdagi siqilgan ko'mir bloki.",
+      "specs": {
+        "Density": "Yuqori",
+        "Removes": "Xlor, VOC"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Minerallashgan kichik T33 inline suv filtri",
+      "category": "Inline Filter",
+      "desc": "Xlorning yo'qotilishi va suvga foydali minerallarning qo'shilishi orqali ta'm va hidni yaxshilaydi, gidratatsiyani kuchaytiradi.",
+      "specs": {
+        "Function": "Minerallashtirish + Tozalash",
+        "Connector": "Tez ulanadigan"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Kichik molekulali antibakterial minerallashuv filtri",
+      "category": "Inline Filter",
+      "desc": "Zararli bakteriyalar va viruslarni yo'q qilgan holda suvga foydali minerallarni qo'shadigan ilg'or filtrlash.",
+      "specs": {
+        "Function": "Antibakterial + Minerallashtirish",
+        "Connector": "Tez ulanadigan"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakterial minerallashuv filtr kartriji",
+      "category": "Inline Filter",
+      "desc": "Zararli bakteriyalar va viruslarni samarali yo'q qiladi va foydali minerallarni qo'shadi.",
+      "specs": {
+        "Function": "Antibakterial + Minerallashtirish"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Inline kation smola filtr kartriji",
+      "category": "Inline Filter",
+      "desc": "Kalsiy va magniy kabi qattiq minerallarni olib tashlash orqali suvni yumshatadi, maishiy texnikada quyqa to'planishini kamaytiradi.",
+      "specs": {
+        "Function": "Suvni yumshatish",
+        "Resin": "Kation almashinuvi"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 kokos qobig'i ko'mirli inline filtr",
+      "category": "Inline Filter",
+      "desc": "Ta'mni yaxshilash uchun premium kokos qobig'i faollashtirilgan ko'miriga ega T33 inline kartriji.",
+      "specs": {
+        "Carbon": "Kokos qobig'i",
+        "Position": "Yakuniy filtr"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD yuqori oqimli RO membranasi",
+      "category": "RO System",
+      "desc": "Turar joy va yengil tijorat suvini tozalash uchun mo'ljallangan yuqori quvvatli teskari osmos membranasi.",
+      "specs": {
+        "Capacity": "400 GPD",
+        "Type": "Quruq membrana"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan toshli minerallashtiruvchi tozalagich",
+      "category": "Water Purifier",
+      "desc": "Minerallashtirish va suv sifatini yaxshilash uchun Maifan toshidan foydalanadigan ko'p bosqichli tozalagich.",
+      "specs": {
+        "Mineral": "Maifan toshi",
+        "Stages": "5 bosqichli"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Ishqorli suv tozalash tizimi",
+      "category": "Water Purifier",
+      "desc": "pH darajasini oshirish va muhim minerallarni qo'shish orqali ishqorli suv ishlab chiqaradi.",
+      "specs": {
+        "Type": "Ishqorli",
+        "pH range": "8.5 - 9.5"
+      }
+    }
+  ]
+}

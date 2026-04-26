@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Ana Sayfa",
+    "nav_products": "Ürünler",
+    "nav_about": "Hakkımızda",
+    "nav_workshop": "Atölye",
+    "nav_exhibition": "Fuarlar",
+    "nav_contact": "İletişim",
+    "cta_whatsapp": "WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "Dünya Çapında OEM/ODM · 1998'den Beri",
+    "hero_eyebrow": "✦ 1998'den Beri Güvenilir Su Filtrasyon Üreticisi",
+    "hero_title": "Endüstriyel Sınıf Su Filtrasyon Çözümleri",
+    "hero_desc": "PP, Karbon Blok, GAC, T33, RO membranları ve su sebili üretiminde uzmanlaşmıştır. NSF · ISO · CE · Helal sertifikalı. 50'den fazla ülkede OEM/ODM ortakları.",
+    "hero_btn_explore": "Ürünleri Keşfedin",
+    "hero_btn_quote": "Teklif Alın",
+    "stats_years": "Yıllık Deneyim",
+    "stats_models": "Ürün Modelleri",
+    "stats_countries": "Hizmet Verilen Ülkeler",
+    "stats_area": "Üretim Alanı",
+    "about_eyebrow": "Hakkımızda",
+    "about_title": "Su Filtrasyonunda 20 Yılı Aşkın Mükemmellik",
+    "about_desc": "Eco Express Water, su arıtma için filtre malzemeleri ve filtre ekipmanları konusunda uzmanlaşmış yüksek teknolojiye sahip bir çevre koruma kuruluşudur. 1998 yılında kurulan ürünlerimiz; araştırma ve geliştirme, üretim, pazarlamadan teknik desteğe kadar tüm süreci entegre eder. Şirketimiz Zhejiang Eyaleti, Haining Şehri, Yuanhua Kasabası'nda yer almaktadır. Birinci sınıf teknik uzman ekibimiz, entegre fonksiyonel orta test/genişletme testi ve büyük ölçekli bir üretim merkezimiz bulunmaktadır. Malezya, Endonezya ve diğer Müslüman ülkelerdeki Müslüman tüketicilerin benzersiz ihtiyaçlarını karşılayan sertifikalı bir Helal su filtresi tedarikçisiyiz.",
+    "about_feat_1": "1998'de Kuruldu – Yirmi yılı aşkın üretim uzmanlığı",
+    "about_feat_2": "Tam dikey entegrasyon: Ar-Ge, Üretim, Kalite Kontrol, Lojistik",
+    "about_feat_3": "NSF, ISO, CE ve Helal sertifikalı üretim hatları",
+    "about_feat_4": "50'den fazla ülkede küresel markalar için OEM/ODM hizmeti",
+    "about_feat_5": "Haining, Zhejiang'da yerleşik – Çin'in su filtrasyon merkezi",
+    "why_eyebrow": "Neden Biz?",
+    "why_title": "Güvenilir Üretim Ortağı",
+    "why_desc": "Hammaddeden son kontrole kadar her ürün, titiz kalite kontrol sistemimizden geçer.",
+    "why_card1_title": "Sertifikalı Kalite",
+    "why_card1_desc": "Ürettiğimiz her parti tarafından desteklenen NSF / ISO / CE / Helal sertifikaları.",
+    "why_card2_title": "OEM / ODM Hazır",
+    "why_card2_desc": "Pazarınıza uygun özel markalama, paketleme ve ürün özellikleri.",
+    "why_card3_title": "Tesis İçi Üretim",
+    "why_card3_desc": "PP, Karbon, Hızlı bağlantı ve Sızdırmazlık Testini kapsayan 4 özel üretim hattı.",
+    "why_card4_title": "Dünya Çapında Nakliye",
+    "why_card4_desc": "50'den fazla ülkeye yerleşik ihracat lojistiği ile 7-15 gün teslim süresi.",
+    "products_eyebrow": "Ürünlerimiz",
+    "products_title": "Eksiksiz Su Filtrasyon Portföyü",
+    "products_desc": "İnline kartuşlardan dikey sebillere ve eksiksiz RO sistemlerine kadar 8 kategoride 42 model.",
+    "cat_all": "Tüm Ürünler",
+    "product_view_details": "Detayları Görüntüle",
+    "workshop_eyebrow": "Üretim",
+    "workshop_title": "Atölyemizin İçinden",
+    "workshop_desc": "4 özel üretim hattı: PP filtre, Karbon blok, Hızlı bağlantı inline ve otomatik sızıntı tespiti.",
+    "workshop_pp": "PP Filtre Üretim Hattı",
+    "workshop_carbon": "Karbon Blok Filtre Üretimi",
+    "workshop_quick": "Hızlı Bağlantı Filtre Üretimi",
+    "workshop_leak": "Otomatik Sızıntı Testi",
+    "exhibition_eyebrow": "Fuarlar",
+    "exhibition_title": "Küresel Fuarlar",
+    "exhibition_desc": "AquaTech Shanghai ve diğer önemli sektör etkinliklerinde ekibimizle tanışın.",
+    "exhibition_aqua1": "AquaTech Shanghai Standı",
+    "exhibition_aqua2": "AquaTech Shanghai Sergisi",
+    "exhibition_show": "Ticaret Fuarı Standı",
+    "exhibition_customers": "Fuar Müşterileri",
+    "contact_eyebrow": "İletişime Geçin",
+    "contact_title": "Birlikte İnşa Edelim",
+    "contact_desc": "Bize projenizden bahsedin. Satış mühendislerimiz 24 saat içinde yanıt verir.",
+    "contact_address_label": "Fabrika Adresi",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "E-posta Adresi",
+    "form_title": "Soru Gönder",
+    "form_sub": "Özellikleriniz için detaylı bir teklif alın.",
+    "form_name": "Adınız",
+    "form_email": "E-posta Adresi",
+    "form_company": "Şirket Adı",
+    "form_msg": "Mesaj / Özellikler",
+    "form_btn": "Soru Gönder",
+    "footer_brand_desc": "1998'den beri güvenilir su filtrasyon çözümleri üreticisi. Küresel OEM/ODM ortakları için PP, Karbon Blok, GAC, T33, RO membranları ve su sebilleri.",
+    "footer_products": "Ürünler",
+    "footer_company": "Şirket",
+    "footer_contact": "İletişim",
+    "footer_rights": "Tüm hakları saklıdır.",
+    "modal_specs_title": "Teknik Özellikler",
+    "modal_btn_wa": "WhatsApp ile Sor",
+    "modal_btn_email": "E-posta ile Sor"
+  },
+  "categories": {
+    "Filter Cartridge": "Filtre Kartuşu",
+    "Filter Housing": "Filtre Kabı",
+    "Flat Cap Filter": "Düz Kapaklı Filtre",
+    "Industrial Filter": "Endüstriyel Filtre",
+    "Inline Filter": "İnline Filtre",
+    "RO System": "RO Sistemi",
+    "Water Dispenser": "Su Sebili",
+    "Water Purifier": "Su Arıtma Cihazı"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Altın Renkli Su Sebili MT-900G",
+      "category": "Water Dispenser",
+      "desc": "5 kademeli su hacmi (150ml–850ml) ve 5 kademeli su sıcaklığı (25°C–100°C) özelliklerine sahip duvara monte boru tipi su sebili. 316L titanyum altın paslanmaz çelik ısıtma elemanı. Çocuk güvenlik kilidi. Birinci sınıf altın cam panel.",
+      "specs": {
+        "Güç": "2200W",
+        "Hacim": "5 kademe 150–850ml",
+        "Sıcaklık": "25–100°C",
+        "Malzeme": "316L Paslanmaz Çelik"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Beyaz Renkli Su Sebili MT-S800",
+      "category": "Water Dispenser",
+      "desc": "2200W nominal güce sahip duvara monte boru tipi su sebili. 3 saniyede hızlı sıcak su çıkışı. 5 kademeli su hacmi ve sıcaklık ayarı. Beyaz cam panel.",
+      "specs": {
+        "Güç": "2200W",
+        "Sıcak Çıkış": "3 saniye",
+        "Renk": "Beyaz Cam Panel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Koyu Yeşil Su Sebili MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Benzersiz koyu yeşil rengiyle şık ve modern bir tasarıma sahip duvara monte boru tipi su sebili. Yerden tasarruf sağlar ve sürekli temiz su kaynağı sunar.",
+      "specs": {
+        "Montaj": "Duvara Monte",
+        "Renk": "Koyu Yeşil",
+        "Güç": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Siyah Renkli Su Sebili MT-B600",
+      "category": "Water Dispenser",
+      "desc": "2200W nominal güce ve 3 saniyede hızlı ısıtmaya sahip duvara monte boru tipi su sebili. Mat püskürtme plastik parçalı tam cam panel.",
+      "specs": {
+        "Güç": "2200W",
+        "Sıcak Çıkış": "3 saniye",
+        "Renk": "Siyah Cam Panel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Duvar Tipi Su Sebili MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Siyah ve beyaz çift renkli duvara monte boru tipi su sebili. Kompakt, enerji tasarruflu, çok kademeli su çıkışlı.",
+      "specs": {
+        "Montaj": "Duvara Monte",
+        "Renk": "Siyah/Beyaz"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W Dikey Su Sebili MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "304 paslanmaz çelik tanklı ve 1KW ısıtma gücüne sahip yüksek güçlü dikey su sebili. LED dijital ekran.",
+      "specs": {
+        "Güç": "1000W",
+        "Tank": "304 Paslanmaz Çelik",
+        "Ekran": "LED Dijital"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Dikey Su Sebili MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "304 paslanmaz çelik su tanklı ve çoklu su çıkış seçeneklerine sahip dikey, zemine oturan su sebili. Siyah/beyaz tasarım.",
+      "specs": {
+        "Tip": "Dikey",
+        "Tank": "304 Paslanmaz Çelik",
+        "Renk": "Siyah/Beyaz"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Tezgah Altı Ters Ozmoz Su Filtresi",
+      "category": "RO System",
+      "desc": "Suyu RO membranından geçirmek için gelen su basıncına dayanan yerçekimi beslemeli ters ozmoz sistemi. Çok aşamalı: tortu filtresi, karbon filtre, RO membranı.",
+      "specs": {
+        "Aşamalar": "Çok Aşamalı",
+        "Tip": "Pompa Gerektirmez",
+        "Membran": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30 İnç Üç Aşamalı Big Blue Su Filtresi",
+      "category": "Filter Housing",
+      "desc": "Üç aşamalı filtrasyon: PP filtre (büyük parçacıklar), RO membranı (ağır metaller, bakteriler, virüsler), CTO karbon blok (klor, tat).",
+      "specs": {
+        "Boyut": "30 inç",
+        "Aşamalar": "3",
+        "Tip": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Üç Aşamalı Artı UV Su Arıtma Cihazı",
+      "category": "Water Purifier",
+      "desc": "Üstün su güvenliği için UV sterilizasyonu ile geliştirilmiş üç aşamalı su arıtma sistemi.",
+      "specs": {
+        "Aşamalar": "3 + UV",
+        "Sterilizasyon": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Bakır Konnektörlü Orta Boy Su Filtresi",
+      "category": "Filter Cartridge",
+      "desc": "Sağlam kurulum ve performans için bakır konnektöre sahip orta boy su filtresi kartuşu.",
+      "specs": {
+        "Boyut": "Orta",
+        "Konnektör": "Bakır"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water Filtre Kabı",
+      "category": "Filter Housing",
+      "desc": "Sıkıştırılmış aktif karbon blok filtre. Klor, kloramin, pestisit ve kokuları giderir.",
+      "specs": {
+        "Tip": "Karbon Blok Housing",
+        "Konnektör": "Çeşitli"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Karbon Blok Filtre (Hindistan Cevizi Kabuğu)",
+      "category": "Filter Cartridge",
+      "desc": "Etkili arıtma için yüksek iyot değerine (1000) sahip Hindistan cevizi kabuğu aktif karbonu. 10 inç uzunluk, 2,5 inç dış çap.",
+      "specs": {
+        "İyot": "1000",
+        "Malzeme": "Hindistan Cevizi Karbonu",
+        "Boyut": "10×2,5 inç"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun Tortu Filtresi",
+      "category": "Filter Cartridge",
+      "desc": "Melt-blown %100 saf polipropilen mikrolifler. Pas, silt, kireç, tortu ve kiri giderir. 10/20/30/40 inç seçenekleri mevcuttur.",
+      "specs": {
+        "Malzeme": "%100 Polipropilen",
+        "Boyutlar": "10–40 inç",
+        "Giderdikleri": "Tortu 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF Granül Aktif Karbon Filtre",
+      "category": "Filter Cartridge",
+      "desc": "Yüksek iyot değerli karbondan yapılmış standart 10 inç GAC filtre. Kloru, organik kimyasalları, doğal olmayan tat ve kokuları azaltır.",
+      "specs": {
+        "Tip": "GAC",
+        "Boyut": "10 inç",
+        "İyot": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Seramik Filtre Kartuşu",
+      "category": "Filter Cartridge",
+      "desc": "İnce parçacıkları ve bakterileri gidermek için yüksek kaliteli seramik filtre kartuşu.",
+      "specs": {
+        "Filtrasyon": "0,2μm",
+        "Tip": "Seramik"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "İyon Değiştirici Reçine Filtre",
+      "category": "Filter Cartridge",
+      "desc": "Su yumuşatma ve ağır metal giderimi için iyon değiştirici reçine kartuşu.",
+      "specs": {
+        "İşlev": "Su Yumuşatma",
+        "Giderdikleri": "Ca/Mg/Ağır Metaller"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltrasyon (UF) Kartuşu",
+      "category": "Filter Cartridge",
+      "desc": "Bakterileri, virüsleri ve koloidal maddeleri gidermek için içi boş fiber ultrafiltrasyon membran kartuşu.",
+      "specs": {
+        "Membran": "Hollow Fiber",
+        "Filtrasyon": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan Taşı İnline Filtre",
+      "category": "Inline Filter",
+      "desc": "Suyu mineralize etmek ve tadını iyileştirmek için Maifan taşları içeren sıralı filtre.",
+      "specs": {
+        "Mineral": "Maifan Taşı",
+        "İşlev": "Mineralizasyon"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "İnline Mineral Filtre",
+      "category": "Inline Filter",
+      "desc": "Sağlık faydalarını ve tadı artırmak için arıtılmış suya temel mineralleri geri ekler.",
+      "specs": {
+        "İşlev": "Mineralizasyon",
+        "Ekledikleri": "Ca/Mg/K Mineralleri"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO Membran Filtre Kartuşu",
+      "category": "Filter Cartridge",
+      "desc": "Ters ozmoz membran kartuşu — tuz giderme ve arıtma için RO sistemlerinin temel bileşeni.",
+      "specs": {
+        "Tip": "RO TFC Membran",
+        "Kapasite": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Çok Aşamalı Filtre Kartuşu Kombinasyonu",
+      "category": "Filter Cartridge",
+      "desc": "Çok aşamalı arıtma için tasarlanmış çeşitli filtre kartuşlarının kombinasyonu.",
+      "specs": {
+        "Aşamalar": "3–5",
+        "Kombinasyon": "Özel"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 İnline Karbon Filtre",
+      "category": "Inline Filter",
+      "desc": "Su tadını iyileştirmek ve kalıntı kokuları gidermek için son filtrasyon sıralı karbon filtre.",
+      "specs": {
+        "Konum": "Son Aşama",
+        "Malzeme": "Aktif Karbon"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "İnline PP Kartuş",
+      "category": "Inline Filter",
+      "desc": "Kompakt su arıtma sistemleri için sıralı polipropilen tortu filtresi.",
+      "specs": {
+        "Malzeme": "Polipropilen",
+        "Filtrasyon": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF Polipropilen Elyaf Kartuş",
+      "category": "Filter Cartridge",
+      "desc": "Tortu giderme için polipropilen elyaf filtre kartuşu.",
+      "specs": {
+        "Malzeme": "PP Elyaf",
+        "İşlev": "Tortu"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF Aktif Karbon Kartuşu",
+      "category": "Filter Cartridge",
+      "desc": "Sonraki aşamadaki membranları korumak için ön filtrasyon granül aktif karbon kartuşu.",
+      "specs": {
+        "Konum": "Ön filtre",
+        "Malzeme": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 Post Filtre Kartuşu",
+      "category": "Inline Filter",
+      "desc": "Son arıtma aşaması için yüksek kaliteli post karbon filtre.",
+      "specs": {
+        "Konum": "Post-filtre",
+        "İşlev": "Tat İyileştirme"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film Filtre Kartuşu",
+      "category": "Filter Cartridge",
+      "desc": "Yüksek verimli filtrasyon için gelişmiş ultrafiltrasyon film kartuşu.",
+      "specs": {
+        "Tip": "Ultra Film",
+        "Filtrasyon": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF Hollow Fiber Filtre",
+      "category": "Filter Cartridge",
+      "desc": "İnce askıda katı maddelerin giderilmesi için ultrafiltrasyon kartuşu.",
+      "specs": {
+        "Malzeme": "Hollow Fiber",
+        "Giderdikleri": "Bakteriler"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Endüstriyel PP Filtre (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "SOE (Tek tarafı açık) ve DOE (İki tarafı açık) konfigürasyonlarında mevcut, endüstriyel sınıf PP melt-blown filtre.",
+      "specs": {
+        "Tip": "SOE/DOE",
+        "Malzeme": "Polipropilen",
+        "Sektör": "Endüstriyel"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "Fin Uç Kapaklı PP Filtre",
+      "category": "Industrial Filter",
+      "desc": "Housing ünitelerine güvenli ve sızdırmaz yerleşim için fin tipi uç kapağa sahip endüstriyel PP kartuş.",
+      "specs": {
+        "Uç Kapak": "Fin Tipi",
+        "Malzeme": "Polipropilen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "Silikon Halkalı PP Filtre",
+      "category": "Industrial Filter",
+      "desc": "Yüksek sızdırmazlık güvenilirliği için gıda sınıfı silikon sızdırmazlık halkası ile donatılmış PP filtre kartuşu.",
+      "specs": {
+        "Halka": "Gıda Sınıfı Silikon",
+        "Malzeme": "Polipropilen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Endüstriyel Karbon Blok Filtre",
+      "category": "Industrial Filter",
+      "desc": "Yüksek akışlı kimyasal absorpsiyon uygulamaları için endüstriyel sınıf aktif karbon blok filtre.",
+      "specs": {
+        "Tip": "Karbon Blok",
+        "Sektör": "Endüstriyel"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Sıkıştırılmış Aktif Karbon Blok",
+      "category": "Industrial Filter",
+      "desc": "Üstün klor ve VOC giderimi için yüksek yoğunluklu sıkıştırılmış karbon blok.",
+      "specs": {
+        "Yoğunluk": "Yüksek",
+        "Giderdikleri": "Klor, VOC'lar"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Mineralize Küçük T33 İnline Su Filtresi",
+      "category": "Inline Filter",
+      "desc": "Kloru gidererek ve daha iyi sağlık ve hidrasyon için suya faydalı mineraller ekleyerek tadı ve kokuyu iyileştirir.",
+      "specs": {
+        "İşlev": "Mineralizasyon + Tat İyileştirme",
+        "Konnektör": "Hızlı bağlantı"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Küçük Moleküllü Antibakteriyel Mineralizasyon Filtresi",
+      "category": "Inline Filter",
+      "desc": "Zararlı bakteri ve virüsleri giderirken suya faydalı mineraller ekleyen gelişmiş filtrasyon.",
+      "specs": {
+        "İşlev": "Antibakteriyel + Mineralizasyon",
+        "Konnektör": "Hızlı bağlantı"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakteriyel Mineralizasyon Filtre Kartuşu",
+      "category": "Inline Filter",
+      "desc": "Zararlı bakteri ve virüsleri etkili bir şekilde giderir ve faydalı mineraller ekler.",
+      "specs": {
+        "İşlev": "Antibakteriyel + Mineralizasyon"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "İnline Katyonik Reçine Filtre Kartuşu",
+      "category": "Inline Filter",
+      "desc": "Kalsiyum ve magnezyum gibi sert mineralleri gidererek suyu yumuşatır, cihazlarda kireç birikimini azaltır.",
+      "specs": {
+        "İşlev": "Su Yumuşatma",
+        "Reçine": "Katyon Değişimi"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 Hindistan Cevizi Kabuğu Karbon İnline Filtre",
+      "category": "Inline Filter",
+      "desc": "Tat iyileştirme için birinci sınıf Hindistan cevizi kabuğu aktif karbonlu post-filtre T33 sıralı kartuş.",
+      "specs": {
+        "Karbon": "Hindistan Cevizi Kabuğu",
+        "Konum": "Post-filtre"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD Yüksek Akışlı RO Membran",
+      "category": "RO System",
+      "desc": "Konut ve hafif ticari su arıtma için yüksek kapasiteli ters ozmoz membranı.",
+      "specs": {
+        "Kapasite": "400 GPD",
+        "Tip": "Kuru Membran"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan Taşı Mineralize Edici Arıtıcı",
+      "category": "Water Purifier",
+      "desc": "Mineralizasyon ve iyileştirilmiş su kalitesi için Maifan taşı içeren çok aşamalı arıtıcı.",
+      "specs": {
+        "Mineral": "Maifan Taşı",
+        "Aşamalar": "5 Aşamalı"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Alkali Su Arıtma Sistemi",
+      "category": "Water Purifier",
+      "desc": "pH seviyelerini artırarak ve temel mineralleri ekleyerek alkali su üretir.",
+      "specs": {
+        "Tip": "Alkali",
+        "pH aralığı": "8.5 - 9.5"
+      }
+    }
+  ]
+}

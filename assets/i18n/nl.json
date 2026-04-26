@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Home",
+    "nav_products": "Producten",
+    "nav_about": "Over ons",
+    "nav_workshop": "Werkplaats",
+    "nav_exhibition": "Beurzen",
+    "nav_contact": "Contact",
+    "cta_whatsapp": "WhatsApp ons",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "Wereldwijd OEM/ODM · Sinds 1998",
+    "hero_eyebrow": "✦ Vertrouwde fabrikant van waterfiltratie sinds 1998",
+    "hero_title": "Industriële waterfiltratie-oplossingen",
+    "hero_desc": "Gespecialiseerd in de productie van PP, koolstofblokken, GAC, T33, omgekeerde osmose membranen en waterdispensers. NSF · ISO · CE · Halal gecertificeerd. OEM/ODM-partners in meer dan 50 landen.",
+    "hero_btn_explore": "Ontdek producten",
+    "hero_btn_quote": "Vraag een offerte aan",
+    "stats_years": "Jaar ervaring",
+    "stats_models": "Productmodellen",
+    "stats_countries": "Landen bediend",
+    "stats_area": "Productieoppervlakte",
+    "about_eyebrow": "Over ons",
+    "about_title": "Meer dan 20 jaar uitmuntendheid in waterfiltratie",
+    "about_desc": "Eco Express Water is een hightech milieubeschermingsonderneming gespecialiseerd in filtermaterialen en filterapparatuur voor waterzuivering. Onze producten, opgericht in 1998, integreren de volledige stroom van onderzoek en ontwikkeling, productie, marketing tot technische ondersteuning. Ons bedrijf is gevestigd in Yuanhua Town, Haining City, provincie Zhejiang. We hebben een eersteklas technisch expertteam, geïntegreerde functionele middelste testen/uitbreidingstesten en een grootschalig productiecentrum. Wij zijn een gecertificeerde leverancier van halal waterfilters, die voldoet aan de unieke behoeften van moslimconsumenten in Maleisië, Indonesië en andere moslimlanden.",
+    "about_feat_1": "Opgericht in 1998 – Meer dan twee decennia productie-expertise",
+    "about_feat_2": "Volledige verticale integratie: R&D, productie, QC, logistiek",
+    "about_feat_3": "NSF, ISO, CE en Halal gecertificeerde productielijnen",
+    "about_feat_4": "OEM/ODM-service voor wereldwijde merken in meer dan 50 landen",
+    "about_feat_5": "Gevestigd in Haining, Zhejiang – Het waterfiltratiecentrum van China",
+    "why_eyebrow": "Waarom voor ons kiezen",
+    "why_title": "Vertrouwde productiepartner",
+    "why_desc": "Van grondstoffen tot eindinspectie, elk product doorloopt ons strenge kwaliteitscontrolesysteem.",
+    "why_card1_title": "Gecertificeerde kwaliteit",
+    "why_card1_desc": "NSF / ISO / CE / Halal certificeringen ondersteund door elke batch die we produceren.",
+    "why_card2_title": "Klaar voor OEM / ODM",
+    "why_card2_desc": "Aangepaste branding, verpakking en productspecificaties om aan uw markt te voldoen.",
+    "why_card3_title": "In-house productie",
+    "why_card3_desc": "4 speciale productielijnen voor PP, koolstof, snelkoppeling en lektest.",
+    "why_card4_title": "Wereldwijde verzending",
+    "why_card4_desc": "Levertijd 7-15 dagen met gevestigde exportlogistiek naar meer dan 50 landen.",
+    "products_eyebrow": "Onze producten",
+    "products_title": "Compleet waterfiltratieportfolio",
+    "products_desc": "42 modellen in 8 categorieën – van inline patronen tot verticale dispensers en complete RO-systemen.",
+    "cat_all": "Alle producten",
+    "product_view_details": "Bekijk details",
+    "workshop_eyebrow": "Productie",
+    "workshop_title": "Binnen in onze werkplaats",
+    "workshop_desc": "4 gespecialiseerde productielijnen: PP-filter, koolstofblok, snelkoppeling inline en automatische lekdetectie.",
+    "workshop_pp": "PP-filter productielijn",
+    "workshop_carbon": "Productie van koolstofblokfilters",
+    "workshop_quick": "Productie van snelkoppelingsfilters",
+    "workshop_leak": "Automatische lektest",
+    "exhibition_eyebrow": "Vakbeurzen",
+    "exhibition_title": "Wereldwijde tentoonstellingen",
+    "exhibition_desc": "Ontmoet ons team op AquaTech Shanghai en andere belangrijke branche-evenementen.",
+    "exhibition_aqua1": "AquaTech Shanghai stand",
+    "exhibition_aqua2": "AquaTech Shanghai presentatie",
+    "exhibition_show": "Stand op de vakbeurs",
+    "exhibition_customers": "Klanten op de beurs",
+    "contact_eyebrow": "Neem contact op",
+    "contact_title": "Laten we samen bouwen",
+    "contact_desc": "Vertel ons over uw project. Onze verkoopingenieurs reageren binnen 24 uur.",
+    "contact_address_label": "Fabrieksadres",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Telefoon / WhatsApp",
+    "contact_email_label": "E-mailadres",
+    "form_title": "Stuur een aanvraag",
+    "form_sub": "Ontvang een gedetailleerde offerte voor uw specificaties.",
+    "form_name": "Uw naam",
+    "form_email": "E-mailadres",
+    "form_company": "Bedrijfsnaam",
+    "form_msg": "Bericht / Specificaties",
+    "form_btn": "Stuur aanvraag",
+    "footer_brand_desc": "Vertrouwde fabrikant van waterfiltratie-oplossingen sinds 1998. PP, koolstofblokken, GAC, T33, RO-membranen en waterdispensers voor wereldwijde OEM/ODM-partners.",
+    "footer_products": "Producten",
+    "footer_company": "Bedrijf",
+    "footer_contact": "Contact",
+    "footer_rights": "Alle rechten voorbehouden.",
+    "modal_specs_title": "Technische specificaties",
+    "modal_btn_wa": "Aanvraag via WhatsApp",
+    "modal_btn_email": "Aanvraag via e-mail"
+  },
+  "categories": {
+    "Filter Cartridge": "Filterpatroon",
+    "Filter Housing": "Filterbehuizing",
+    "Flat Cap Filter": "Vlakke kap filter",
+    "Industrial Filter": "Industrieel filter",
+    "Inline Filter": "Inline-filter",
+    "RO System": "RO-systeem",
+    "Water Dispenser": "Waterdispenser",
+    "Water Purifier": "Waterzuiveraar"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Gouden waterdispenser MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Aan de muur gemonteerde waterdispenser met 5 fasen watervolume (150ml-850ml) and 5 fasen watertemperatuur (25°C-100°C). 316L titanium goud roestvrijstalen verwarmingselement. Kinderslot. Premium gouden glaspaneel.",
+      "specs": {
+        "Vermogen": "2200W",
+        "Volume": "5 fasen 150-850ml",
+        "Temperatuur": "25-100°C",
+        "Materiaal": "316L roestvrij staal"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Witte waterdispenser MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Aan de muur gemonteerde waterdispenser met 2200W nominaal vermogen. Snelle warmwaterafgifte in 3 seconden. 5 fasen instelling van watervolume en temperatuur. Wit glaspaneel.",
+      "specs": {
+        "Vermogen": "2200W",
+        "Hete afgifte": "3 seconden",
+        "Kleur": "Wit glaspaneel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Donkergroene waterdispenser MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Aan de muur gemonteerde waterdispenser met een strak modern ontwerp in een unieke donkergroene kleur. Bespaart vloeroppervlak en zorgt voor een continue toevoer van schoon water.",
+      "specs": {
+        "Montage": "Muurbevestiging",
+        "Kleur": "Donkergroen",
+        "Vermogen": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Zwarte waterdispenser MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Aan de muur gemonteerde waterdispenser met 2200W nominaal vermogen en snelle verwarming in 3 seconden. Volledig glaspaneel met matte kunststof onderdelen.",
+      "specs": {
+        "Vermogen": "2200W",
+        "Hete afgifte": "3 seconden",
+        "Kleur": "Zwart glaspaneel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Muur waterdispenser MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Zwart-wit tweekleurige muur waterdispenser. Compact, energiezuinig, met meertraps waterafgifte.",
+      "specs": {
+        "Montage": "Muurbevestiging",
+        "Kleur": "Zwart/Wit"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "Verticale waterdispenser 1000W MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Krachtige verticale waterdispenser met 304 roestvrijstalen tank en 1KW verwarmingsvermogen. LED digitaal scherm.",
+      "specs": {
+        "Vermogen": "1000W",
+        "Tank": "304 roestvrij staal",
+        "Scherm": "LED digitaal"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Verticale waterdispenser MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Verticale vloerstaande waterdispenser met 304 roestvrijstalen watertank en meerdere wateruitlaatopties. Zwart/wit ontwerp.",
+      "specs": {
+        "Type": "Verticaal",
+        "Tank": "304 roestvrij staal",
+        "Kleur": "Zwart/Wit"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Reverse Osmosis waterfilter onder de gootsteen",
+      "category": "RO System",
+      "desc": "Zwaartekracht gevoed RO-systeem dat vertrouwt op de inkomende waterdruk om water door het RO-membraan te duwen. Meertraps: sedimentfilter, koolstoffilter, RO-membraan.",
+      "specs": {
+        "Fasen": "Meertraps",
+        "Type": "Geen pomp nodig",
+        "Membraan": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30-inch Big Blue waterfilter in drie fasen",
+      "category": "Filter Housing",
+      "desc": "Driefasige filtratie: PP-filter (grote deeltjes), RO-membraan (zware metalen, bacteriën, virussen), CTO-koolstofblok (chloor, smaak).",
+      "specs": {
+        "Maat": "30 inch",
+        "Fasen": "3",
+        "Type": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Driefasige plus UV-waterzuiveraar",
+      "category": "Water Purifier",
+      "desc": "Driefasig waterzuiveringssysteem verbeterd met UV-sterilisatie voor superieure waterveiligheid.",
+      "specs": {
+        "Fasen": "3 + UV",
+        "Sterilisatie": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Middelgroot waterfilter met koperen connector",
+      "category": "Filter Cartridge",
+      "desc": "Middelgroot waterfilterpatroon met een koperen connector voor robuuste installatie en prestaties.",
+      "specs": {
+        "Maat": "Middel",
+        "Connector": "Koper"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express waterbehuizingsfilter",
+      "category": "Filter Housing",
+      "desc": "Koolstofblokfilter met actieve kool geperst tot een blok. Verwijdert chloor, chlooramines, pesticiden en geuren.",
+      "specs": {
+        "Type": "Koolstofblokbehuizing",
+        "Connector": "Diverse"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Koolstofblokfilter (kokosnootschil)",
+      "category": "Filter Cartridge",
+      "desc": "Actieve kool van kokosnootschillen met een hoge jodiumwaarde (1000) voor effectieve zuivering. 10 inch lang, 2,5 inch buitendiameter.",
+      "specs": {
+        "Jodium": "1000",
+        "Materiaal": "Kokosnootkool",
+        "Maat": "10x2,5 inch"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun sedimentfilter",
+      "category": "Filter Cartridge",
+      "desc": "Melt-blown 100% puur polypropyleen microvezels. Verwijdert roest, slib, kalk, sediment en vuil. Beschikbaar in 10/20/30/40 inch.",
+      "specs": {
+        "Materiaal": "100% Polypropyleen",
+        "Maten": "10-40 inch",
+        "Verwijdert": "Sediment 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF granulaire actieve koolfilter",
+      "category": "Filter Cartridge",
+      "desc": "Standaard 10-inch GAC-filter van koolstof met een hoge jodiumwaarde. Vermindert chloor, organische chemicaliën, onnatuurlijke smaken en geuren.",
+      "specs": {
+        "Type": "GAC",
+        "Maat": "10 inch",
+        "Jodium": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Keramisch filterpatroon",
+      "category": "Filter Cartridge",
+      "desc": "Hoogwaardig keramisch filterpatroon voor het verwijderen van fijne deeltjes en bacteriën.",
+      "specs": {
+        "Filtratie": "0,2μm",
+        "Type": "Keramisch"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Ionenaustausch-harsfilter",
+      "category": "Filter Cartridge",
+      "desc": "Ionenaustausch-harsfilter voor waterontharding en verwijdering van zware metalen.",
+      "specs": {
+        "Functie": "Waterontharding",
+        "Verwijdert": "Ca/Mg/Zware metalen"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltratie (UF) patroon",
+      "category": "Filter Cartridge",
+      "desc": "Hollow-fiber ultrafiltratiemembraan voor het verwijderen van bacteriën, virussen en colloïdale materie.",
+      "specs": {
+        "Membraan": "Hollow Fiber",
+        "Filtratie": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan steen inline-filter",
+      "category": "Inline Filter",
+      "desc": "Inline-filter met Maifan stenen om water te mineraliseren en de smaak te verbeteren.",
+      "specs": {
+        "Mineraal": "Maifan steen",
+        "Functie": "Mineralisatie"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline-mineraalfilter",
+      "category": "Inline Filter",
+      "desc": "Voegt essentiële mineralen toe aan gezuiverd water om de gezondheidsvoordelen en de smaak te verbeteren.",
+      "specs": {
+        "Functie": "Mineralisatie",
+        "Voegt toe": "Ca/Mg/K mineralen"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO-membraan filterpatroon",
+      "category": "Filter Cartridge",
+      "desc": "Omgekeerde osmose membraan — het kerncomponent van RO-systemen voor ontzilting en zuivering.",
+      "specs": {
+        "Type": "RO TFC-membraan",
+        "Capaciteit": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Meertraps filterpatroon combinatie",
+      "category": "Filter Cartridge",
+      "desc": "Combinatie van verschillende filterpatronen ontworpen voor meertraps zuivering.",
+      "specs": {
+        "Fasen": "3-5",
+        "Combinatie": "Aangepast"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 inline-koolstoffilter",
+      "category": "Inline Filter",
+      "desc": "Inline-koolstoffilter voor nafiltratie om de smaak van het water te polijsten en resterende geuren te verwijderen.",
+      "specs": {
+        "Positie": "Laatste fase",
+        "Materiaal": "Actieve kool"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline-PP patroon",
+      "category": "Inline Filter",
+      "desc": "Inline polypropyleen sedimentfilter voor compacte waterzuiveringssystemen.",
+      "specs": {
+        "Materiaal": "Polypropyleen",
+        "Filtratie": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF polypropyleenvezel patroon",
+      "category": "Filter Cartridge",
+      "desc": "Polypropyleenvezel filterpatroon voor sedimentverwijdering.",
+      "specs": {
+        "Materiaal": "PP-vezel",
+        "Functie": "Sediment"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF actieve koolpatroon",
+      "category": "Filter Cartridge",
+      "desc": "Voorfiltratie granulaire actieve koolpatroon om stroomafwaartse membranen te beschermen.",
+      "specs": {
+        "Positie": "Voorfilter",
+        "Materiaal": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 na-filterpatroon",
+      "category": "Inline Filter",
+      "desc": "Hoogwaardig na-koolstoffilter voor de laatste fase van zuivering.",
+      "specs": {
+        "Positie": "Na-filter",
+        "Functie": "Polijsten"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra-film filterpatroon",
+      "category": "Filter Cartridge",
+      "desc": "Geavanceerd ultrafiltratie filmpatroon voor zeer efficiënte filtratie.",
+      "specs": {
+        "Type": "Ultra Film",
+        "Filtratie": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF holle vezelfilter",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltratiepatroon voor het verwijderen van fijne zwevende deeltjes.",
+      "specs": {
+        "Materiaal": "Holle vezel",
+        "Verwijdert": "Bacteriën"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Industrieel PP-filter (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Industriële kwaliteit PP melt-blown filter, beschikbaar in SOE (Single Open End) en DOE (Double Open End) configuraties.",
+      "specs": {
+        "Type": "SOE/DOE",
+        "Materiaal": "Polypropyleen",
+        "Industrie": "Industrieel"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP-filter met vin-eindkap",
+      "category": "Industrial Filter",
+      "desc": "Industrieel PP-patroon met een vin-stijl eindkap voor veilige, lekvrije plaatsing in behuizingen.",
+      "specs": {
+        "Eindkap": "Vin-type",
+        "Materiaal": "Polypropyleen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP-filter met siliconen ring",
+      "category": "Industrial Filter",
+      "desc": "PP-filterpatroon uitgerust met voedselveilige siliconen afdichtingsring voor hoge betrouwbaarheid van de afdichting.",
+      "specs": {
+        "Ring": "Voedselveilige siliconen",
+        "Materiaal": "Polypropyleen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Industrieel koolstofblokfilter",
+      "category": "Industrial Filter",
+      "desc": "Industriële kwaliteit actieve koolblokfilter voor chemische absorptietoepassingen met hoog debiet.",
+      "specs": {
+        "Type": "Koolstofblok",
+        "Industrie": "Industrieel"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Geperst actieve koolblok",
+      "category": "Industrial Filter",
+      "desc": "Gecomprimeerd koolstofblok met hoge dichtheid voor superieure verwijdering van chloor en VOS.",
+      "specs": {
+        "Dichtheid": "Hoog",
+        "Verwijdert": "Chloor, VOS"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Gemineraliseerd klein T33 inline-waterfilter",
+      "category": "Inline Filter",
+      "desc": "Verbetert smaak en geur door chloor te verwijderen en gunstige mineralen aan water toe te voegen voor een betere gezondheid en hydratatie.",
+      "specs": {
+        "Functie": "Mineralisatie + Polijsten",
+        "Connector": "Snelkoppeling"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Antibacterieel mineralisatiefilter voor kleine moleculen",
+      "category": "Inline Filter",
+      "desc": "Geavanceerde filtratie die schadelijke bacteriën en virussen verwijdert en gunstige mineralen aan water toevoegt.",
+      "specs": {
+        "Functie": "Antibacterieel + Mineralisatie",
+        "Connector": "Snelkoppeling"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibacterieel mineralisatiefilterpatroon",
+      "category": "Inline Filter",
+      "desc": "Verwijdert effectief schadelijke bacteriën en virussen en voegt gunstige mineralen toe.",
+      "specs": {
+        "Functie": "Antibacterieel + Mineralisatie"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Inline-kationhars filterpatroon",
+      "category": "Inline Filter",
+      "desc": "Onthardt water door harde mineralen zoals calcium en magnesium te verwijderen, waardoor kalkaanslag in apparaten wordt verminderd.",
+      "specs": {
+        "Functie": "Waterontharding",
+        "Hars": "Kationenuitwisseling"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 kokosnootschil koolstof inline-filter",
+      "category": "Inline Filter",
+      "desc": "Na-filter T33 inline-patroon met premium kokosnootschil actieve kool voor smaakpolijsting.",
+      "specs": {
+        "Koolstof": "Kokosnootschil",
+        "Positie": "Na-filter"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD High Flow RO-membraan",
+      "category": "RO System",
+      "desc": "Reverse osmosis membraan met hoge capaciteit voor residentiële en licht commerciële waterzuivering.",
+      "specs": {
+        "Capaciteit": "400 GPD",
+        "Type": "Droog membraan"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan steen mineraliserende zuiveraar",
+      "category": "Water Purifier",
+      "desc": "Meertraps zuiveraar met Maifan steen voor mineralisatie en verbeterde waterkwaliteit.",
+      "specs": {
+        "Mineraal": "Maifan steen",
+        "Fasen": "5-fasen"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Alkalisch waterzuiveringssysteem",
+      "category": "Water Purifier",
+      "desc": "Produceert alkalisch water door de pH-waarde te verhogen en essentiële mineralen toe te voegen.",
+      "specs": {
+        "Type": "Alkalisch",
+        "pH-bereik": "8,5 - 9,5"
+      }
+    }
+  ]
+}

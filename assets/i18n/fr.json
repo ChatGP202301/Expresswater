@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Accueil",
+    "nav_products": "Produits",
+    "nav_about": "À propos",
+    "nav_workshop": "Atelier",
+    "nav_exhibition": "Expositions",
+    "nav_contact": "Contact",
+    "cta_whatsapp": "WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM Monde · Depuis 1998",
+    "hero_eyebrow": "✦ Fabricant de filtration d'eau de confiance depuis 1998",
+    "hero_title": "Solutions de filtration d'eau de qualité industrielle",
+    "hero_desc": "Spécialisé dans la fabrication de PP, de blocs de charbon, de GAC, de T33, de membranes d'osmose inverse et de distributeurs d'eau. Certifié NSF · ISO · CE · Halal. Partenaires OEM/ODM dans plus de 50 pays.",
+    "hero_btn_explore": "Explorer les produits",
+    "hero_btn_quote": "Obtenir un devis",
+    "stats_years": "Années d'expérience",
+    "stats_models": "Modèles de produits",
+    "stats_countries": "Pays desservis",
+    "stats_area": "Surface de fabrication",
+    "about_eyebrow": "À propos",
+    "about_title": "Plus de 20 ans d'excellence en filtration d'eau",
+    "about_desc": "Eco Express Water est une entreprise de protection de l'environnement de haute technologie spécialisée dans les matériaux et les équipements de filtration pour la purification de l'eau. Fondés en 1998, nos produits intègrent l'ensemble du flux, de la recherche et du développement à la fabrication, au marketing et au support technique. Notre entreprise est située dans la ville de Yuanhua, Haining, province du Zhejiang. Nous disposons d'une équipe d'experts techniques de premier ordre, de tests fonctionnels intégrés et d'un centre de fabrication à grande échelle. Nous sommes un fournisseur certifié de filtres à eau halal, répondant aux besoins uniques des consommateurs musulmans en Malaisie, en Indonésie et dans d'autres pays musulmans.",
+    "about_feat_1": "Fondé en 1998 – Plus de deux décennies d'expertise en fabrication",
+    "about_feat_2": "Intégration verticale complète : R&D, fabrication, CQ, logistique",
+    "about_feat_3": "Lignes de production certifiées NSF, ISO, CE et Halal",
+    "about_feat_4": "Service OEM/ODM pour les marques mondiales dans plus de 50 pays",
+    "about_feat_5": "Situé à Haining, Zhejiang – Le hub chinois de la filtration d'eau",
+    "why_eyebrow": "Pourquoi nous choisir",
+    "why_title": "Partenaire de fabrication de confiance",
+    "why_desc": "Des matières premières à l'inspection finale, chaque produit passe par notre système rigoureux de contrôle de qualité.",
+    "why_card1_title": "Qualité certifiée",
+    "why_card1_desc": "Certifications NSF / ISO / CE / Halal pour chaque lot que nous produisons.",
+    "why_card2_title": "Prêt pour OEM / ODM",
+    "why_card2_desc": "Marque, emballage et spécifications de produits personnalisés pour s'adapter à votre marché.",
+    "why_card3_title": "Production interne",
+    "why_card3_desc": "4 lignes de production dédiées couvrant le PP, le charbon, la connexion rapide et le test d'étanchéité.",
+    "why_card4_title": "Expédition mondiale",
+    "why_card4_desc": "Délai de livraison de 7 à 15 jours avec une logistique d'exportation établie vers plus de 50 pays.",
+    "products_eyebrow": "Nos produits",
+    "products_title": "Portefeuille complet de filtration d'eau",
+    "products_desc": "42 modèles dans 8 catégories – des cartouches en ligne aux distributeurs verticaux et aux systèmes d'osmose inverse complets.",
+    "cat_all": "Tous les produits",
+    "product_view_details": "Voir les détails",
+    "workshop_eyebrow": "Fabrication",
+    "workshop_title": "À l'intérieur de notre atelier",
+    "workshop_desc": "4 lignes de production spécialisées : filtre PP, bloc de charbon, filtre en ligne à connexion rapide et détection automatique des fuites.",
+    "workshop_pp": "Ligne de production de filtres PP",
+    "workshop_carbon": "Production de filtres à bloc de charbon",
+    "workshop_quick": "Production de filtres à connexion rapide",
+    "workshop_leak": "Tests d'étanchéité automatiques",
+    "exhibition_eyebrow": "Salons professionnels",
+    "exhibition_title": "Expositions mondiales",
+    "exhibition_desc": "Rencontrez notre équipe à AquaTech Shanghai et lors d'autres événements majeurs du secteur.",
+    "exhibition_aqua1": "Stand AquaTech Shanghai",
+    "exhibition_aqua2": "Présentation AquaTech Shanghai",
+    "exhibition_show": "Stand de salon professionnel",
+    "exhibition_customers": "Clients du salon",
+    "contact_eyebrow": "Contactez-nous",
+    "contact_title": "Construisons ensemble",
+    "contact_desc": "Parlez-nous de votre projet. Nos ingénieurs commerciaux répondent sous 24 heures.",
+    "contact_address_label": "Adresse de l'usine",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Téléphone / WhatsApp",
+    "contact_email_label": "Adresse e-mail",
+    "form_title": "Envoyer une demande",
+    "form_sub": "Obtenez un devis détaillé pour vos spécifications.",
+    "form_name": "Votre nom",
+    "form_email": "Adresse e-mail",
+    "form_company": "Nom de l'entreprise",
+    "form_msg": "Message / Spécifications",
+    "form_btn": "Envoyer la demande",
+    "footer_brand_desc": "Fabricant de confiance de solutions de filtration d'eau depuis 1998. PP, blocs de charbon, GAC, T33, membranes d'osmose inverse et distributeurs d'eau pour les partenaires OEM/ODM mondiaux.",
+    "footer_products": "Produits",
+    "footer_company": "Entreprise",
+    "footer_contact": "Contact",
+    "footer_rights": "Tous droits réservés.",
+    "modal_specs_title": "Spécifications techniques",
+    "modal_btn_wa": "Demande via WhatsApp",
+    "modal_btn_email": "Demande via E-mail"
+  },
+  "categories": {
+    "Filter Cartridge": "Cartouche filtrante",
+    "Filter Housing": "Porte-filtre",
+    "Flat Cap Filter": "Filtre à bouchon plat",
+    "Industrial Filter": "Filtre industriel",
+    "Inline Filter": "Filtre en ligne",
+    "RO System": "Système d'osmose inverse",
+    "Water Dispenser": "Distributeur d'eau",
+    "Water Purifier": "Purificateur d'eau"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Distributeur d'eau couleur dorée MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Distributeur d'eau mural avec 5 niveaux de volume d'eau (150 ml–850 ml) et 5 niveaux de température de l'eau (25 °C–100 °C). Élément chauffant en acier inoxydable or titane 316L. Sécurité enfant. Panneau en verre doré premium.",
+      "specs": {
+        "Puissance": "2200W",
+        "Volume": "5 niveaux 150–850 ml",
+        "Température": "25–100 °C",
+        "Matériau": "Acier inoxydable 316L"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Distributeur d'eau couleur blanche MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Distributeur d'eau mural avec une puissance nominale de 2200 W. Sortie d'eau chaude rapide en 3 secondes. 5 niveaux de réglage du volume et de la température. Panneau en verre blanc.",
+      "specs": {
+        "Puissance": "2200W",
+        "Sortie chaude": "3 secondes",
+        "Couleur": "Panneau en verre blanc"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Distributeur d'eau vert foncé MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Distributeur d'eau mural avec un design moderne et élégant dans une couleur vert foncé unique. Gain de place et fourniture continue d'eau propre.",
+      "specs": {
+        "Montage": "Mural",
+        "Couleur": "Vert foncé",
+        "Puissance": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Distributeur d'eau couleur noire MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Distributeur d'eau mural avec une puissance nominale de 2200 W et un chauffage rapide en 3 secondes. Panneau en verre intégral avec pièces en plastique mat.",
+      "specs": {
+        "Puissance": "2200W",
+        "Sortie chaude": "3 secondes",
+        "Couleur": "Panneau en verre noir"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Distributeur d'eau mural MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Distributeur d'eau mural bicolore noir et blanc. Compact, économe en énergie, avec sortie d'eau à plusieurs niveaux.",
+      "specs": {
+        "Montage": "Mural",
+        "Couleur": "Noir/Blanc"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "Distributeur d'eau vertical 1000W MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Distributeur d'eau vertical haute puissance avec réservoir en acier inoxydable 304 et puissance de chauffage de 1 kW. Écran numérique LED.",
+      "specs": {
+        "Puissance": "1000W",
+        "Réservoir": "Acier inoxydable 304",
+        "Écran": "Numérique LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Distributeur d'eau vertical MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Distributeur d'eau vertical sur socle avec réservoir d'eau en acier inoxydable 304 et plusieurs options de sortie d'eau. Design noir/blanc.",
+      "specs": {
+        "Type": "Vertical",
+        "Réservoir": "Acier inoxydable 304",
+        "Couleur": "Noir/Blanc"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Filtre à eau par osmose inverse sous évier",
+      "category": "RO System",
+      "desc": "Système d'osmose inverse alimenté par gravité s'appuyant sur la pression de l'eau entrante pour pousser l'eau à travers la membrane RO. Multi-étapes : filtre à sédiments, filtre à charbon, membrane RO.",
+      "specs": {
+        "Étapes": "Multi-étapes",
+        "Type": "Sans pompe",
+        "Membrane": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "Filtre à eau Big Blue 30 pouces à trois étapes",
+      "category": "Filter Housing",
+      "desc": "Filtration à trois étapes : filtre PP (grosses particules), membrane RO (métaux lourds, bactéries, virus), bloc de charbon CTO (chlore, goût).",
+      "specs": {
+        "Taille": "30 pouces",
+        "Étapes": "3",
+        "Type": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Purificateur d'eau à trois étapes plus UV",
+      "category": "Water Purifier",
+      "desc": "Système de purification d'eau à trois étapes renforcé par une stérilisation UV pour une sécurité de l'eau supérieure.",
+      "specs": {
+        "Étapes": "3 + UV",
+        "Stérilisation": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Filtre à eau de taille moyenne avec connecteur en cuivre",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche filtrante de taille moyenne dotée d'un connecteur en cuivre pour une installation et des performances robustes.",
+      "specs": {
+        "Taille": "Moyenne",
+        "Connecteur": "Cuivre"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Filtre porte-filtre Eco Express Water",
+      "category": "Filter Housing",
+      "desc": "Filtre à bloc de charbon utilisant du charbon actif compressé. Élimine le chlore, les chloramines, les pesticides et les odeurs.",
+      "specs": {
+        "Type": "Porte-filtre bloc charbon",
+        "Connecteur": "Divers"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Filtre bloc de charbon (coque de noix de coco)",
+      "category": "Filter Cartridge",
+      "desc": "Charbon actif de coque de noix de coco avec un indice d'iode élevé (1000) pour une purification efficace. Longueur 10 pouces, diamètre extérieur 2,5 pouces.",
+      "specs": {
+        "Iode": "1000",
+        "Matériau": "Charbon de coco",
+        "Taille": "10×2,5 pouces"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "Filtre à sédiments PP Spun",
+      "category": "Filter Cartridge",
+      "desc": "Microfibres de polypropylène 100 % pur extrudées-soufflées. Élimine la rouille, le limon, le tartre, les sédiments, la saleté. Disponible en 10/20/30/40 pouces.",
+      "specs": {
+        "Matériau": "100 % polypropylène",
+        "Tailles": "10–40 pouces",
+        "Élimine": "Sédiments 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "Filtre à charbon actif granulaire UDF",
+      "category": "Filter Cartridge",
+      "desc": "Filtre GAC standard de 10 pouces à partir de charbon à indice d'iode élevé. Réduit le chlore, les produits chimiques organiques, les goûts et odeurs anormaux.",
+      "specs": {
+        "Type": "GAC",
+        "Taille": "10 pouces",
+        "Iode": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Cartouche filtrante céramique",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche filtrante en céramique de haute qualité pour éliminer les particules fines et les bactéries.",
+      "specs": {
+        "Filtration": "0,2μm",
+        "Type": "Céramique"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Filtre en résine échangeuse d'ions",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche de résine échangeuse d'ions pour l'adoucissement de l'eau et l'élimination des métaux lourds.",
+      "specs": {
+        "Fonction": "Adoucissement de l'eau",
+        "Élimine": "Ca/Mg/Métaux lourds"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Cartouche d'ultrafiltration (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche à membrane d'ultrafiltration à fibres creuses pour éliminer les bactéries, les virus et les matières colloïdales.",
+      "specs": {
+        "Membrane": "Fibre creuse",
+        "Filtration": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Filtre en ligne en pierre de Maifan",
+      "category": "Inline Filter",
+      "desc": "Filtre en ligne contenant des pierres de Maifan pour minéraliser l'eau et en améliorer le goût.",
+      "specs": {
+        "Minéral": "Pierre de Maifan",
+        "Fonction": "Minéralisation"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Filtre minéral en ligne",
+      "category": "Inline Filter",
+      "desc": "Réintroduit des minéraux essentiels dans l'eau purifiée pour améliorer les bienfaits pour la santé et le goût.",
+      "specs": {
+        "Fonction": "Minéralisation",
+        "Ajoute": "Minéraux Ca/Mg/K"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "Cartouche filtrante à membrane RO",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche à membrane d'osmose inverse — le composant central des systèmes RO pour le dessalement et la purification.",
+      "specs": {
+        "Type": "Membrane RO TFC",
+        "Capacité": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Combinaison de cartouches filtrantes multi-étapes",
+      "category": "Filter Cartridge",
+      "desc": "Combinaison de diverses cartouches filtrantes conçues pour une purification multi-étapes.",
+      "specs": {
+        "Étapes": "3–5",
+        "Combinaison": "Personnalisée"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Filtre à charbon en ligne Post T33",
+      "category": "Inline Filter",
+      "desc": "Filtre à charbon en ligne de post-filtration pour affiner le goût de l'eau et éliminer les odeurs résiduelles.",
+      "specs": {
+        "Position": "Étape finale",
+        "Matériau": "Charbon actif"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Cartouche PP en ligne",
+      "category": "Inline Filter",
+      "desc": "Filtre à sédiments en polypropylène en ligne pour les systèmes de purification d'eau compacts.",
+      "specs": {
+        "Matériau": "Polypropylène",
+        "Filtration": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "Cartouche en fibre de polypropylène PPF",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche filtrante en fibre de polypropylène pour l'élimination des sédiments.",
+      "specs": {
+        "Matériau": "Fibre PP",
+        "Fonction": "Sédiments"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Cartouche de charbon actif Pre-UDF",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche de charbon actif granulaire de pré-filtration pour protéger les membranes en aval.",
+      "specs": {
+        "Position": "Pré-filtre",
+        "Matériau": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "Cartouche filtrante Post T33",
+      "category": "Inline Filter",
+      "desc": "Filtre post-charbon de haute qualité pour la purification finale.",
+      "specs": {
+        "Position": "Post-filtre",
+        "Fonction": "Affinement"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Cartouche filtrante Ultra Film",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche à film d'ultrafiltration avancée pour une filtration à haute efficacité.",
+      "specs": {
+        "Type": "Ultra Film",
+        "Filtration": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "Filtre à fibres creuses UF",
+      "category": "Filter Cartridge",
+      "desc": "Cartouche d'ultrafiltration pour l'élimination des solides en suspension fins.",
+      "specs": {
+        "Matériau": "Fibre creuse",
+        "Élimine": "Bactéries"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Filtre PP industriel (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Filtre PP extrudé-soufflé de qualité industrielle, disponible en configurations SOE (embout ouvert simple) et DOE (embout ouvert double).",
+      "specs": {
+        "Type": "SOE/DOE",
+        "Matériau": "Polypropylène",
+        "Industrie": "Industriel"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "Filtre PP avec embout à ailette",
+      "category": "Industrial Filter",
+      "desc": "Cartouche PP industrielle avec un embout de type ailette pour une assise sûre et sans fuite dans les porte-filtres.",
+      "specs": {
+        "Embout": "Type ailette",
+        "Matériau": "Polypropylène"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "Filtre PP avec joint en silicone",
+      "category": "Industrial Filter",
+      "desc": "Cartouche filtrante en PP équipée d'un joint d'étanchéité en silicone de qualité alimentaire pour une étanchéité de haute fiabilité.",
+      "specs": {
+        "Joint": "Silicone alimentaire",
+        "Matériau": "Polypropylène"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Filtre bloc de charbon industriel",
+      "category": "Industrial Filter",
+      "desc": "Filtre bloc de charbon actif de qualité industrielle pour les applications d'absorption chimique à haut débit.",
+      "specs": {
+        "Type": "Bloc de charbon",
+        "Industrie": "Industriel"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Bloc de charbon actif compressé",
+      "category": "Industrial Filter",
+      "desc": "Bloc de charbon compressé haute densité pour une élimination supérieure du chlore et des COV.",
+      "specs": {
+        "Densité": "Élevée",
+        "Élimine": "Chlore, COV"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Petit filtre en ligne T33 minéralisé",
+      "category": "Inline Filter",
+      "desc": "Améliore le goût et l'odeur en éliminant le chlore et en ajoutant des minéraux bénéfiques à l'eau pour une meilleure santé et hydratation.",
+      "specs": {
+        "Fonction": "Minéralisation + Affinement",
+        "Connecteur": "Connexion rapide"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Filtre de minéralisation antibactérien à petites molécules",
+      "category": "Inline Filter",
+      "desc": "Filtration avancée éliminant les bactéries et virus nocifs tout en ajoutant des minéraux bénéfiques à l'eau.",
+      "specs": {
+        "Fonction": "Antibactérien + Minéralisation",
+        "Connecteur": "Connexion rapide"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Cartouche filtrante de minéralisation antibactérienne",
+      "category": "Inline Filter",
+      "desc": "Élimine efficacement les bactéries et virus nocifs et ajoute des minéraux bénéfiques.",
+      "specs": {
+        "Fonction": "Antibactérien + Minéralisation"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Cartouche filtrante en résine cationique en ligne",
+      "category": "Inline Filter",
+      "desc": "Adoucit l'eau en éliminant les minéraux durs tels que le calcium et le magnésium, réduisant ainsi l'entartrage des appareils.",
+      "specs": {
+        "Fonction": "Adoucissement de l'eau",
+        "Résine": "Échange de cations"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "Filtre en ligne au charbon de coque de coco T33",
+      "category": "Inline Filter",
+      "desc": "Cartouche en ligne T33 post-filtre avec charbon actif de coque de noix de coco premium pour l'affinement du goût.",
+      "specs": {
+        "Charbon": "Coque de noix de coco",
+        "Position": "Post-filtre"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "Membrane RO à haut débit 400GPD",
+      "category": "RO System",
+      "desc": "Membrane d'osmose inverse haute capacité pour la purification de l'eau résidentielle et commerciale légère.",
+      "specs": {
+        "Capacité": "400 GPD",
+        "Type": "Membrane sèche"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Purificateur minéralisant à la pierre de Maifan",
+      "category": "Water Purifier",
+      "desc": "Purificateur multi-étapes utilisant la pierre de Maifan pour la minéralisation et l'amélioration de la qualité de l'eau.",
+      "specs": {
+        "Minéral": "Pierre de Maifan",
+        "Étapes": "5 étapes"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Système de purification d'eau alcaline",
+      "category": "Water Purifier",
+      "desc": "Produit de l'eau alcaline en augmentant les niveaux de pH et en ajoutant des minéraux essentiels.",
+      "specs": {
+        "Type": "Alcalin",
+        "Plage de pH": "8,5 - 9,5"
+      }
+    }
+  ]
+}

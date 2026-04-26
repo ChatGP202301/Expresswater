@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Beranda",
+    "nav_products": "Produk",
+    "nav_about": "Tentang Kami",
+    "nav_workshop": "Bengkel",
+    "nav_exhibition": "Pameran",
+    "nav_contact": "Kontak",
+    "cta_whatsapp": "WhatsApp Kami",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM Seluruh Dunia · Sejak 1998",
+    "hero_eyebrow": "✦ Produsen Filtrasi Air Terpercaya Sejak 1998",
+    "hero_title": "Solusi Filtrasi Air Kelas Industri",
+    "hero_desc": "Spesialisasi dalam pembuatan membran PP, Carbon Block, GAC, T33, RO, dan dispenser air. Bersertifikat NSF · ISO · CE · Halal. Mitra OEM/ODM di 50+ negara.",
+    "hero_btn_explore": "Jelajahi Produk",
+    "hero_btn_quote": "Dapatkan Penawaran",
+    "stats_years": "Tahun Pengalaman",
+    "stats_models": "Model Produk",
+    "stats_countries": "Negara yang Dilayani",
+    "stats_area": "Area Manufaktur",
+    "about_eyebrow": "Tentang Kami",
+    "about_title": "20+ Tahun Keunggulan Filtrasi Air",
+    "about_desc": "Eco Express Water adalah perusahaan perlindungan lingkungan teknologi tinggi yang mengkhususkan diri dalam bahan filter dan peralatan filter untuk pemurnian air. Didirikan pada tahun 1998, produk kami mengintegrasikan aliran penuh dari penelitian dan pengembangan, manufaktur, pemasaran hingga dukungan teknis. Perusahaan kami berlokasi di Kota Yuanhua, Kota Haining, Provinsi Zhejiang. Kami memiliki tim ahli teknis kelas satu, uji tengah/uji perluasan fungsional terintegrasi, dan pusat manufaktur skala besar. Kami adalah pemasok filter air halal bersertifikat, melayani kebutuhan dan persyaratan unik konsumen Muslim di Malaysia, Indonesia, dan negara-negara Muslim lainnya.",
+    "about_feat_1": "Didirikan pada tahun 1998 – Lebih dari dua dekade keahlian manufaktur",
+    "about_feat_2": "Integrasi vertikal penuh: R&D, Manufaktur, QC, Logistik",
+    "about_feat_3": "Lini produksi bersertifikat NSF, ISO, CE, dan Halal",
+    "about_feat_4": "Layanan OEM/ODM untuk merek global di 50+ negara",
+    "about_feat_5": "Berlokasi di Haining, Zhejiang – Pusat filtrasi air China",
+    "why_eyebrow": "Mengapa Memilih Kami",
+    "why_title": "Mitra Manufaktur Terpercaya",
+    "why_desc": "Dari bahan baku hingga pemeriksaan akhir, setiap produk melewati sistem kontrol kualitas kami yang ketat.",
+    "why_card1_title": "Kualitas Bersertifikat",
+    "why_card1_desc": "Sertifikasi NSF / ISO / CE / Halal didukung oleh setiap batch yang kami produksi.",
+    "why_card2_title": "Siap OEM / ODM",
+    "why_card2_desc": "Branding, kemasan, dan spesifikasi produk khusus untuk menyesuaikan dengan pasar Anda.",
+    "why_card3_title": "Produksi In-House",
+    "why_card3_desc": "4 lini produksi khusus mencakup PP, Karbon, Quick-connect, dan Leak Test.",
+    "why_card4_title": "Pengiriman Seluruh Dunia",
+    "why_card4_desc": "Waktu tunggu 7–15 hari dengan logistik ekspor mapan ke 50+ negara.",
+    "products_eyebrow": "Produk Kami",
+    "products_title": "Portofolio Filtrasi Air Lengkap",
+    "products_desc": "42 model di 8 kategori – dari katrid inline hingga dispenser vertikal dan sistem RO lengkap.",
+    "cat_all": "Semua Produk",
+    "product_view_details": "Lihat Detail",
+    "workshop_eyebrow": "Manufaktur",
+    "workshop_title": "Di Dalam Bengkel Kami",
+    "workshop_desc": "4 lini produksi khusus: filter PP, blok Karbon, inline Quick-connect, dan deteksi kebocoran otomatis.",
+    "workshop_pp": "Lini Produksi Filter PP",
+    "workshop_carbon": "Produksi Filter Carbon Block",
+    "workshop_quick": "Produksi Filter Quick-Connect",
+    "workshop_leak": "Pengujian Kebocoran Otomatis",
+    "exhibition_eyebrow": "Pameran Dagang",
+    "exhibition_title": "Pameran Global",
+    "exhibition_desc": "Temui tim kami di AquaTech Shanghai dan acara industri besar lainnya.",
+    "exhibition_aqua1": "Booth AquaTech Shanghai",
+    "exhibition_aqua2": "Tampilan AquaTech Shanghai",
+    "exhibition_show": "Booth Pameran Dagang",
+    "exhibition_customers": "Pelanggan Pameran Dagang",
+    "contact_eyebrow": "Hubungi Kami",
+    "contact_title": "Mari Membangun Bersama",
+    "contact_desc": "Beri tahu kami tentang proyek Anda. Insinyur penjualan kami menanggapi dalam waktu 24 jam.",
+    "contact_address_label": "Alamat Pabrik",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Telepon / WhatsApp",
+    "contact_email_label": "Alamat Email",
+    "form_title": "Kirim Pertanyaan",
+    "form_sub": "Dapatkan penawaran terperinci untuk spesifikasi Anda.",
+    "form_name": "Nama Anda",
+    "form_email": "Alamat Email",
+    "form_company": "Nama Perusahaan",
+    "form_msg": "Pesan / Spesifikasi",
+    "form_btn": "Kirim Pertanyaan",
+    "footer_brand_desc": "Produsen solusi filtrasi air terpercaya sejak 1998. PP, Carbon Block, GAC, T33, membran RO, dan dispenser air untuk mitra OEM/ODM global.",
+    "footer_products": "Produk",
+    "footer_company": "Perusahaan",
+    "footer_contact": "Kontak",
+    "footer_rights": "Seluruh hak cipta.",
+    "modal_specs_title": "Spesifikasi Teknis",
+    "modal_btn_wa": "Pertanyaan via WhatsApp",
+    "modal_btn_email": "Pertanyaan via Email"
+  },
+  "categories": {
+    "Filter Cartridge": "Katrid Filter",
+    "Filter Housing": "Wadah Filter",
+    "Flat Cap Filter": "Filter Tutup Datar",
+    "Industrial Filter": "Filter Industri",
+    "Inline Filter": "Filter Inline",
+    "RO System": "Sistem RO",
+    "Water Dispenser": "Dispenser Air",
+    "Water Purifier": "Pemurni Air"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Dispenser Air Warna Emas MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air pipa dipasang di dinding dengan 5 tahap volume air (150ml–850ml) dan 5 tingkat suhu air (25°C–100°C). Elemen pemanas baja tahan karat emas titanium 316L. Kunci pengaman anak. Panel kaca emas premium.",
+      "specs": {
+        "Daya": "2200W",
+        "Volume": "5 tahap 150–850ml",
+        "Suhu": "25–100°C",
+        "Bahan": "Baja Tahan Karat 316L"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Dispenser Air Warna Putih MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air pipa dipasang di dinding dengan daya terukur 2200W. Output air panas cepat 3 detik. Penyesuaian volume dan suhu air 5 tahap. Panel kaca putih.",
+      "specs": {
+        "Daya": "2200W",
+        "Output Panas": "3 detik",
+        "Warna": "Panel Kaca Putih"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Dispenser Air Hijau Tua MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air pipa dipasang di dinding dengan desain modern yang ramping dalam warna hijau tua yang unik. Menghemat ruang lantai dan menyediakan pasokan air bersih terus-menerus.",
+      "specs": {
+        "Pemasangan": "Dinding",
+        "Warna": "Hijau Tua",
+        "Daya": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Dispenser Air Warna Hitam MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air pipa dipasang di dinding dengan daya terukur 2200W dan pemanasan cepat 3 detik. Panel kaca utuh dengan bagian plastik semprot matte.",
+      "specs": {
+        "Daya": "2200W",
+        "Output Panas": "3 detik",
+        "Warna": "Panel Kaca Hitam"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Dispenser Air Dipasang di Dinding MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air pipa dipasang di dinding dua warna hitam & putih. Kompak, hemat energi, dengan output air multi-tahap.",
+      "specs": {
+        "Pemasangan": "Dinding",
+        "Warna": "Hitam/Putih"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "Dispenser Air Vertikal 1000W MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air vertikal daya tinggi dengan tangki baja tahan karat 304 dan daya pemanas 1KW. Layar digital LED.",
+      "specs": {
+        "Daya": "1000W",
+        "Tangki": "Baja Tahan Karat 304",
+        "Layar": "Digital LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Dispenser Air Vertikal MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air vertikal berdiri di lantai dengan tangki air baja tahan karat 304 dan berbagai pilihan outlet air. Desain Hitam/Putih.",
+      "specs": {
+        "Tipe": "Vertikal",
+        "Tangki": "Baja Tahan Karat 304",
+        "Warna": "Hitam/Putih"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Filter Air Reverse Osmosis Bawah Bak Cuci",
+      "category": "RO System",
+      "desc": "Sistem RO bertenaga gravitasi yang mengandalkan tekanan air masuk untuk mendorong air melalui membran RO. Multi-tahap: filter sedimen, filter karbon, membran RO.",
+      "specs": {
+        "Tahapan": "Multi-tahap",
+        "Tipe": "Tidak Butuh Pompa",
+        "Membran": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "Filter Air Big Blue Tiga Tahap 30 inci",
+      "category": "Filter Housing",
+      "desc": "Filtrasi tiga tahap: filter PP (partikel besar), membran RO (logam berat, bakteri, virus), Carbon Block CTO (klorin, rasa).",
+      "specs": {
+        "Ukuran": "30 inci",
+        "Tahapan": "3",
+        "Tipe": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Pemurni Air Tiga Tahap Plus UV",
+      "category": "Water Purifier",
+      "desc": "Sistem pemurnian air tiga tahap yang ditingkatkan dengan sterilisasi UV untuk keamanan air yang unggul.",
+      "specs": {
+        "Tahapan": "3 + UV",
+        "Sterilisasi": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Filter Air Ukuran Sedang dengan Konektor Tembaga",
+      "category": "Filter Cartridge",
+      "desc": "Katrid filter air berukuran sedang yang dilengkapi konektor tembaga untuk pemasangan dan performa yang kokoh.",
+      "specs": {
+        "Ukuran": "Sedang",
+        "Konektor": "Tembaga"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Filter Housing Eco Express Water",
+      "category": "Filter Housing",
+      "desc": "Filter blok karbon menggunakan karbon aktif yang dikompresi menjadi blok. Menghilangkan klorin, kloramin, pestisida, dan bau.",
+      "specs": {
+        "Tipe": "Wadah Carbon Block",
+        "Konektor": "Berbagai"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Filter Carbon Block (Tempurung Kelapa)",
+      "category": "Filter Cartridge",
+      "desc": "Karbon aktif tempurung kelapa dengan nilai iodin tinggi (1000) untuk pemurnian efektif. Panjang 10 inci, diameter luar 2,5 inci.",
+      "specs": {
+        "Iodin": "1000",
+        "Bahan": "Karbon Kelapa",
+        "Ukuran": "10×2,5 inci"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "Filter Sedimen PP Spun",
+      "category": "Filter Cartridge",
+      "desc": "Mikrofiber polipropilena murni 100% melt-blown. Menghilangkan karat, lanau, kerak, sedimen, kotoran. Tersedia dalam 10/20/30/40 inci.",
+      "specs": {
+        "Bahan": "100% Polipropilena",
+        "Ukuran": "10–40 inci",
+        "Menghilangkan": "Sedimen 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "Filter Karbon Aktif Granular UDF",
+      "category": "Filter Cartridge",
+      "desc": "Filter GAC standar 10 inci dari karbon nilai iodin tinggi. Mengurangi klorin, bahan kimia organik, rasa dan bau tidak wajar.",
+      "specs": {
+        "Tipe": "GAC",
+        "Ukuran": "10 inci",
+        "Iodin": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Katrid Filter Keramik",
+      "category": "Filter Cartridge",
+      "desc": "Katrid filter keramik berkualitas tinggi untuk menghilangkan partikel halus dan bakteri.",
+      "specs": {
+        "Filtrasi": "0,2μm",
+        "Tipe": "Keramik"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Filter Resin Pertukaran Ion",
+      "category": "Filter Cartridge",
+      "desc": "Katrid resin pertukaran ion untuk pelunakan air dan penghilangan logam berat.",
+      "specs": {
+        "Fungsi": "Pelunakan Air",
+        "Menghilangkan": "Ca/Mg/Logam Berat"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Katrid Ultrafiltrasi (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Katrid membran ultrafiltrasi serat berongga untuk menghilangkan bakteri, virus, dan materi koloid.",
+      "specs": {
+        "Membran": "Serat Berongga",
+        "Filtrasi": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Filter Inline Batu Maifan",
+      "category": "Inline Filter",
+      "desc": "Filter inline yang mengandung batu Maifan untuk memineralisasi air dan meningkatkan rasa.",
+      "specs": {
+        "Mineral": "Batu Maifan",
+        "Fungsi": "Mineralisasi"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Filter Mineral Inline",
+      "category": "Inline Filter",
+      "desc": "Menambahkan kembali mineral penting ke dalam air murni untuk meningkatkan manfaat kesehatan dan rasa.",
+      "specs": {
+        "Fungsi": "Mineralisasi",
+        "Menambahkan": "Mineral Ca/Mg/K"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "Katrid Filter Membran RO",
+      "category": "Filter Cartridge",
+      "desc": "Katrid membran reverse osmosis — komponen inti sistem RO untuk desalinasi dan pemurnian.",
+      "specs": {
+        "Tipe": "Membran RO TFC",
+        "Kapasitas": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Kombinasi Katrid Filter Multi-Tahap",
+      "category": "Filter Cartridge",
+      "desc": "Kombinasi berbagai katrid filter yang dirancang untuk pemurnian multi-tahap.",
+      "specs": {
+        "Tahapan": "3–5",
+        "Kombinasi": "Kustom"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Filter Karbon Inline Post T33",
+      "category": "Inline Filter",
+      "desc": "Filter karbon inline pasca-filtrasi untuk memoles rasa air dan menghilangkan bau sisa.",
+      "specs": {
+        "Posisi": "Tahap akhir",
+        "Bahan": "Karbon Aktif"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Katrid PP Inline",
+      "category": "Inline Filter",
+      "desc": "Filter sedimen polipropilena inline untuk sistem pemurnian air yang kompak.",
+      "specs": {
+        "Bahan": "Polipropilena",
+        "Filtrasi": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "Katrid Serat Polipropilena PPF",
+      "category": "Filter Cartridge",
+      "desc": "Katrid filter serat polipropilena untuk penghilangan sedimen.",
+      "specs": {
+        "Bahan": "Serat PP",
+        "Fungsi": "Sedimen"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Katrid Karbon Aktif Pre-UDF",
+      "category": "Filter Cartridge",
+      "desc": "Katrid karbon aktif granular pra-filtrasi untuk melindungi membran di hilir.",
+      "specs": {
+        "Posisi": "Pra-filter",
+        "Bahan": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "Katrid Filter Pasca T33",
+      "category": "Inline Filter",
+      "desc": "Filter pasca-karbon berkualitas tinggi untuk pemurnian tahap akhir.",
+      "specs": {
+        "Posisi": "Pasca-filter",
+        "Fungsi": "Pemolesan"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Katrid Filter Ultra Film",
+      "category": "Filter Cartridge",
+      "desc": "Katrid film ultrafiltrasi canggih untuk filtrasi efisiensi tinggi.",
+      "specs": {
+        "Tipe": "Ultra Film",
+        "Filtrasi": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "Filter Serat Berongga UF",
+      "category": "Filter Cartridge",
+      "desc": "Katrid ultrafiltrasi untuk penghilangan padatan tersuspensi halus.",
+      "specs": {
+        "Bahan": "Serat Berongga",
+        "Menghilangkan": "Bakteri"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Filter PP Industri (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Filter melt-blown PP kelas industri, tersedia dalam konfigurasi SOE (Single Open End) dan DOE (Double Open End).",
+      "specs": {
+        "Tipe": "SOE/DOE",
+        "Bahan": "Polipropilena",
+        "Industri": "Industri"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "Filter PP dengan Tutup Ujung Sirip",
+      "category": "Industrial Filter",
+      "desc": "Katrid PP industri dengan tutup ujung gaya sirip untuk dudukan yang aman dan bebas kebocoran di unit wadah.",
+      "specs": {
+        "Tutup Ujung": "Tipe Sirip",
+        "Bahan": "Polipropilena"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "Filter PP dengan Cincin Silikon",
+      "category": "Industrial Filter",
+      "desc": "Katrid filter PP yang dilengkapi dengan cincin penyegel silikon food-grade untuk penyegelan keandalan tinggi.",
+      "specs": {
+        "Cincin": "Silikon Food-grade",
+        "Bahan": "Polipropilena"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Filter Carbon Block Industri",
+      "category": "Industrial Filter",
+      "desc": "Filter blok karbon aktif kelas industri untuk aplikasi penyerapan kimia aliran tinggi.",
+      "specs": {
+        "Tipe": "Carbon Block",
+        "Industri": "Industri"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Blok Karbon Aktif Terkompresi",
+      "category": "Industrial Filter",
+      "desc": "Blok karbon terkompresi densitas tinggi untuk penghilangan klorin dan VOC yang unggul.",
+      "specs": {
+        "Densitas": "Tinggi",
+        "Menghilangkan": "Klorin, VOC"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Filter Air Inline T33 Kecil Mineralisasi",
+      "category": "Inline Filter",
+      "desc": "Meningkatkan rasa dan bau dengan menghilangkan klorin dan menambahkan mineral bermanfaat ke air untuk meningkatkan kesehatan dan hidrasi.",
+      "specs": {
+        "Fungsi": "Mineralisasi + Pemolesan",
+        "Konektor": "Quick-connect"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Filter Mineralisasi Antibakteri Molekul Kecil",
+      "category": "Inline Filter",
+      "desc": "Filtrasi canggih menghilangkan bakteri dan virus berbahaya sambil menambahkan mineral bermanfaat ke air.",
+      "specs": {
+        "Fungsi": "Antibakteri + Mineralisasi",
+        "Konektor": "Quick-connect"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Katrid Filter Mineralisasi Antibakteri",
+      "category": "Inline Filter",
+      "desc": "Secara efektif menghilangkan bakteri dan virus berbahaya dan menambahkan mineral bermanfaat.",
+      "specs": {
+        "Fungsi": "Antibakteri + Mineralisasi"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Katrid Filter Resin Kation Inline",
+      "category": "Inline Filter",
+      "desc": "Melunakkan air dengan menghilangkan mineral keras seperti kalsium dan magnesium, mengurangi penumpukan kerak pada peralatan.",
+      "specs": {
+        "Fungsi": "Pelunakan Air",
+        "Resin": "Pertukaran Kation"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "Filter Inline Karbon Tempurung Kelapa T33",
+      "category": "Inline Filter",
+      "desc": "Katrid inline T33 pasca-filter dengan karbon aktif tempurung kelapa premium untuk pemolesan rasa.",
+      "specs": {
+        "Karbon": "Tempurung Kelapa",
+        "Posisi": "Pasca-filter"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "Membran RO Aliran Tinggi 400GPD",
+      "category": "RO System",
+      "desc": "Membran reverse osmosis kapasitas tinggi untuk pemurnian air perumahan dan komersial ringan.",
+      "specs": {
+        "Kapasitas": "400 GPD",
+        "Tipe": "Membran Kering"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Pemurni Mineralisasi Batu Maifan",
+      "category": "Water Purifier",
+      "desc": "Pemurni multi-tahap yang menampilkan batu Maifan untuk mineralisasi dan peningkatan kualitas air.",
+      "specs": {
+        "Mineral": "Batu Maifan",
+        "Tahapan": "5-Tahap"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Sistem Pemurni Air Alkali",
+      "category": "Water Purifier",
+      "desc": "Menghasilkan air alkali dengan meningkatkan kadar pH dan menambahkan mineral penting.",
+      "specs": {
+        "Tipe": "Alkali",
+        "Rentang pH": "8,5 - 9,5"
+      }
+    }
+  ]
+}

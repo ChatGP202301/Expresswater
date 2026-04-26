@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Hem",
+    "nav_products": "Produkter",
+    "nav_about": "Om oss",
+    "nav_workshop": "Verkstad",
+    "nav_exhibition": "Utställningar",
+    "nav_contact": "Kontakt",
+    "cta_whatsapp": "WhatsAppa oss",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM över hela världen · Sedan 1998",
+    "hero_eyebrow": "✦ Pålitlig tillverkare av vattenfiltrering sedan 1998",
+    "hero_title": "Vattenfiltreringslösningar av industriell kvalitet",
+    "hero_desc": "Specialiserad på tillverkning av PP, kolblock, GAC, T33, RO-membran och vattenautomater. NSF · ISO · CE · Halal-certifierad. OEM/ODM-partners i över 50 länder.",
+    "hero_btn_explore": "Utforska produkter",
+    "hero_btn_quote": "Få en offert",
+    "stats_years": "Års erfarenhet",
+    "stats_models": "Produktmodeller",
+    "stats_countries": "Länder som betjänas",
+    "stats_area": "Tillverkningsyta",
+    "about_eyebrow": "Om oss",
+    "about_title": "20+ år av expertis inom vattenfiltrering",
+    "about_desc": "Eco Express Water är ett högteknologiskt miljöskyddsföretag specialiserat på filtermaterial och filterutrustning för vattenrening. Etablerat 1998 integrerar vårt företag hela flödet från forskning och utveckling, tillverkning, marknadsföring till teknisk support. Vårt företag är beläget i Yuanhua Town, Haining City, Zhejiang-provinsen. Vi har ett förstklassigt tekniskt expertteam, integrerat funktionellt mellantest/utvidgningstest och ett storskaligt tillverkningscenter. Vi är en certifierad leverantör av halal-vattenfilter, som tillgodoser de unika behoven och kraven hos muslimska konsumenter i Malaysia, Indonesien och andra muslimska länder.",
+    "about_feat_1": "Etablerat 1998 – Över två decennier av tillverkningskompetens",
+    "about_feat_2": "Full vertikal integration: FoU, tillverkning, kvalitetskontroll, logistik",
+    "about_feat_3": "NSF-, ISO-, CE- och Halal-certifierade produktionslinjer",
+    "about_feat_4": "OEM/ODM-tjänst för globala varumärken i över 50 länder",
+    "about_feat_5": "Beläget i Haining, Zhejiang – Kinas nav för vattenfiltrering",
+    "why_eyebrow": "Varför välja oss",
+    "why_title": "Pålitlig tillverkningspartner",
+    "why_desc": "Från råmaterial till slutinspektion passerar varje produkt vårt rigorösa kvalitetskontrollsystem.",
+    "why_card1_title": "Certifierad kvalitet",
+    "why_card1_desc": "NSF / ISO / CE / Halal-certifieringar som backas upp av varje batch vi producerar.",
+    "why_card2_title": "Redo för OEM / ODM",
+    "why_card2_desc": "Anpassat varumärke, förpackning och produktspecifikationer för att matcha din marknad.",
+    "why_card3_title": "Egen produktion",
+    "why_card3_desc": "4 dedikerade produktionslinjer som täcker PP, kol, snabbkoppling och läckagetest.",
+    "why_card4_title": "Världsomspännande frakt",
+    "why_card4_desc": "Ledtid 7–15 dagar med etablerad exportlogistik till 50+ länder.",
+    "products_eyebrow": "Våra produkter",
+    "products_title": "Komplett portfölj för vattenfiltrering",
+    "products_desc": "42 modeller i 8 kategorier – från inline-patroner till vertikala automater och kompletta RO-system.",
+    "cat_all": "Alla produkter",
+    "product_view_details": "Visa detaljer",
+    "workshop_eyebrow": "Tillverkning",
+    "workshop_title": "Inne i vår verkstad",
+    "workshop_desc": "4 specialiserade produktionslinjer: PP-filter, kolblock, snabbkopplad inline och automatisk läckagedetektering.",
+    "workshop_pp": "Produktionslinje för PP-filter",
+    "workshop_carbon": "Produktion av kolblocksfilter",
+    "workshop_quick": "Produktion av snabbkopplade filter",
+    "workshop_leak": "Automatisk läckagetestning",
+    "exhibition_eyebrow": "Mässor",
+    "exhibition_title": "Globala utställningar",
+    "exhibition_desc": "Träffa vårt team på AquaTech Shanghai och andra stora branschevenemang.",
+    "exhibition_aqua1": "AquaTech Shanghai-monter",
+    "exhibition_aqua2": "AquaTech Shanghai-utställning",
+    "exhibition_show": "Mässmonter",
+    "exhibition_customers": "Mässkunder",
+    "contact_eyebrow": "Hör av dig",
+    "contact_title": "Låt oss bygga tillsammans",
+    "contact_desc": "Berätta om ditt projekt. Våra försäljningsingenjörer svarar inom 24 timmar.",
+    "contact_address_label": "Fabriksadress",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, Kina",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "E-postadress",
+    "form_title": "Skicka förfrågan",
+    "form_sub": "Få en detaljerad offert för dina specifikationer.",
+    "form_name": "Ditt namn",
+    "form_email": "E-postadress",
+    "form_company": "Företagsnamn",
+    "form_msg": "Meddelande / Specifikationer",
+    "form_btn": "Skicka förfrågan",
+    "footer_brand_desc": "Pålitlig tillverkare av vattenfiltreringslösningar sedan 1998. PP, kolblock, GAC, T33, RO-membran och vattenautomater för globala OEM/ODM-partners.",
+    "footer_products": "Produkter",
+    "footer_company": "Företag",
+    "footer_contact": "Kontakt",
+    "footer_rights": "Alla rättigheter förbehållna.",
+    "modal_specs_title": "Tekniska specifikationer",
+    "modal_btn_wa": "Förfrågan via WhatsApp",
+    "modal_btn_email": "Förfrågan via e-post"
+  },
+  "categories": {
+    "Filter Cartridge": "Filterpatron",
+    "Filter Housing": "Filterhus",
+    "Flat Cap Filter": "Plattlocksfilter",
+    "Industrial Filter": "Industrifilter",
+    "Inline Filter": "Inline-filter",
+    "RO System": "RO-system",
+    "Water Dispenser": "Vattenautomat",
+    "Water Purifier": "Vattenrenare"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Guldfärgad vattenautomat MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Väggmonterad rörledningsvattenautomat med 5 volymsteg (150 ml–850 ml) och 5 temperaturnivåer (25°C–100°C). 316L titanguld rostfritt stål värmeelement. Barnlås. Premium gyllene glaspanel.",
+      "specs": {
+        "Effekt": "2200W",
+        "Volym": "5 steg 150–850ml",
+        "Temperatur": "25–100°C",
+        "Material": "316L rostfritt stål"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Vit vattenautomat MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Väggmonterad rörledningsvattenautomat med 2200W märkeffekt. Snabb 3-sekunders varmvattenutmatning. 5 stegs volym- och temperaturjustering. Vit glaspanel.",
+      "specs": {
+        "Effekt": "2200W",
+        "Varmvatten": "3 sekunder",
+        "Färg": "Vit glaspanel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Mörkgrön vattenautomat MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Väggmonterad rörledningsvattenautomat med elegant modern design i unik mörkgrön färg. Sparar golvyta och ger kontinuerlig tillförsel av rent vatten.",
+      "specs": {
+        "Montering": "Väggmonterad",
+        "Färg": "Mörkgrön",
+        "Effekt": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Svart vattenautomat MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Väggmonterad rörledningsvattenautomat med 2200W märkeffekt och snabb 3-sekunders uppvärmning. Helglaspanel med mattsprayade plastdelar.",
+      "specs": {
+        "Effekt": "2200W",
+        "Varmvatten": "3 sekunder",
+        "Färg": "Svart glaspanel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Väggmonterad vattenautomat MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Svartvit tvåfärgad väggmonterad rörledningsvattenautomat. Kompakt, energibesparande, med flerstegs vattenutmatning.",
+      "specs": {
+        "Montering": "Väggmonterad",
+        "Färg": "Svart/Vit"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W vertikal vattenautomat MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Högpresterande vertikal vattenautomat med 304 rostfri ståltank och 1KW värmeeffekt. Digital LED-skärm.",
+      "specs": {
+        "Effekt": "1000W",
+        "Tank": "304 rostfritt stål",
+        "Display": "Digital LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Vertikal vattenautomat MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Vertikal golvstående vattenautomat med 304 rostfri ståltank och flera vattenutloppsalternativ. Svart/vit design.",
+      "specs": {
+        "Typ": "Vertikal",
+        "Tank": "304 rostfritt stål",
+        "Färg": "Svart/Vit"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Vattenfilter för omvänd osmos under diskbänk",
+      "category": "RO System",
+      "desc": "Gravitationsmatat RO-system som förlitar sig på inkommande vattentryck för att pressa vatten genom RO-membranet. Flerstegs: sedimentfilter, kolfilter, RO-membran.",
+      "specs": {
+        "Steg": "Flerstegs",
+        "Typ": "Ingen pump krävs",
+        "Membran": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30-tums trestegs Big Blue-vattenfilter",
+      "category": "Filter Housing",
+      "desc": "Trestegsfiltrering: PP-filter (stora partiklar), RO-membran (tungmetaller, bakterier, virus), CTO-kolblock (klor, smak).",
+      "specs": {
+        "Storlek": "30 tum",
+        "Steg": "3",
+        "Typ": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Trestegs plus UV-vattenrenare",
+      "category": "Water Purifier",
+      "desc": "Trestegs vattenreningssystem förstärkt med UV-sterilisering för överlägsen vattensäkerhet.",
+      "specs": {
+        "Steg": "3 + UV",
+        "Sterilisering": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Vattenfilter i mellanstorlek med kopparkoppling",
+      "category": "Filter Cartridge",
+      "desc": "Vattenfilterpatron i mellanstorlek med en kopparkoppling för robust installation och prestanda.",
+      "specs": {
+        "Storlek": "Mellan",
+        "Koppling": "Koppar"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water Husfilter",
+      "category": "Filter Housing",
+      "desc": "Kolblocksfilter som använder aktivt kol komprimerat till ett block. Tar bort klor, kloraminer, bekämpningsmedel och lukt.",
+      "specs": {
+        "Typ": "Kolblockshus",
+        "Koppling": "Diverse"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Kolblocksfilter (kokosnötsskal)",
+      "category": "Filter Cartridge",
+      "desc": "Aktivt kol från kokosnötsskal med högt jodvärde (1000) för effektiv rening. 10 tum lång, 2,5 tum ytterdiameter.",
+      "specs": {
+        "Jodvärde": "1000",
+        "Material": "Kokosnötskol",
+        "Storlek": "10×2,5 tum"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Spun sedimentfilter",
+      "category": "Filter Cartridge",
+      "desc": "Smältblåsta mikrofibrer av 100 % ren polypropen. Tar bort rost, slam, kalk, sediment, smuts. Finns i 10/20/30/40 tum.",
+      "specs": {
+        "Material": "100 % polypropen",
+        "Storlekar": "10–40 tum",
+        "Tar bort": "Sediment 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF granulerat aktivt kolfilter",
+      "category": "Filter Cartridge",
+      "desc": "Standard 10-tums GAC-filter av kol med högt jodvärde. Minskar klor, organiska kemikalier, onaturliga smaker och lukter.",
+      "specs": {
+        "Typ": "GAC",
+        "Storlek": "10 tum",
+        "Jodvärde": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Keramisk filterpatron",
+      "category": "Filter Cartridge",
+      "desc": "Högkvalitativ keramisk filterpatron för borttagning av fina partiklar och bakterier.",
+      "specs": {
+        "Filtrering": "0,2μm",
+        "Typ": "Keramisk"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Jonbytarhartsfilter",
+      "category": "Filter Cartridge",
+      "desc": "Jonbytarhartspatron för vattenmjukgöring och borttagning av tungmetaller.",
+      "specs": {
+        "Funktion": "Vattenmjukgöring",
+        "Tar bort": "Ca/Mg/tungmetaller"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltreringspatron (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltreringsmembranpatron med ihåliga fibrer för borttagning av bakterier, virus och kolloidalt material.",
+      "specs": {
+        "Membran": "Ihåliga fibrer",
+        "Filtrering": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan-sten inline-filter",
+      "category": "Inline Filter",
+      "desc": "Inline-filter som innehåller Maifan-stenar för att mineralisera vatten och förbättra smaken.",
+      "specs": {
+        "Mineral": "Maifan-sten",
+        "Funktion": "Mineralisering"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline mineralfilter",
+      "category": "Inline Filter",
+      "desc": "Tillsätter viktiga mineraler till renat vatten för att förbättra hälsofördelar och smak.",
+      "specs": {
+        "Funktion": "Mineralisering",
+        "Tillsätter": "Ca/Mg/K-mineraler"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO-membranfilterpatron",
+      "category": "Filter Cartridge",
+      "desc": "Omvänd osmosmembranpatron – kärnkomponenten i RO-system för avsaltning och rening.",
+      "specs": {
+        "Typ": "RO TFC-membran",
+        "Kapacitet": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Kombination av flerstegsfilterpatroner",
+      "category": "Filter Cartridge",
+      "desc": "Kombination av olika filterpatroner utformade för flerstegsrening.",
+      "specs": {
+        "Steg": "3–5",
+        "Kombination": "Anpassad"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 inline-kolfilter",
+      "category": "Inline Filter",
+      "desc": "Inline-kolfilter för efterfiltrering för att polera vattensmaken och ta bort resterande lukter.",
+      "specs": {
+        "Position": "Sista steget",
+        "Material": "Aktivt kol"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline PP-patron",
+      "category": "Inline Filter",
+      "desc": "Inline-polypropen sedimentfilter för kompakta vattenreningssystem.",
+      "specs": {
+        "Material": "Polypropen",
+        "Filtrering": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF polypropenfiberpatron",
+      "category": "Filter Cartridge",
+      "desc": "Filterpatron av polypropenfiber för borttagning av sediment.",
+      "specs": {
+        "Material": "PP-fiber",
+        "Funktion": "Sediment"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF aktivt kolpatron",
+      "category": "Filter Cartridge",
+      "desc": "Granulerad aktiv kolpatron för förfiltrering för att skydda nedströms membran.",
+      "specs": {
+        "Position": "Förfilter",
+        "Material": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 efterfilterpatron",
+      "category": "Inline Filter",
+      "desc": "Högkvalitativt efterkolfilter för sista stegets rening.",
+      "specs": {
+        "Position": "Efterfilter",
+        "Funktion": "Polering"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film filterpatron",
+      "category": "Filter Cartridge",
+      "desc": "Avancerad ultrafiltreringsfilmpatron för högeffektiv filtrering.",
+      "specs": {
+        "Type": "Ultra Film",
+        "Filtrering": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF ihåligt fiberfilter",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltreringspatron för borttagning av fina suspenderade ämnen.",
+      "specs": {
+        "Material": "Ihåliga fibrer",
+        "Tar bort": "Bakterier"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Industriellt PP-filter (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "PP-smältblåst filter av industriell kvalitet, tillgängligt i SOE (Single Open End) och DOE (Double Open End) konfigurationer.",
+      "specs": {
+        "Typ": "SOE/DOE",
+        "Material": "Polypropen",
+        "Industri": "Industriell"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP-filter med fin-ändlock",
+      "category": "Industrial Filter",
+      "desc": "Industriell PP-patron med ett ändlock i fin-stil för säker, läckagefri placering i husenheter.",
+      "specs": {
+        "Ändlock": "Fin-typ",
+        "Material": "Polypropen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP-filter med silikonring",
+      "category": "Industrial Filter",
+      "desc": "PP-filterpatron utrustad med tätningsring i livsmedelsgodkänd silikon för hög tillförlitlighet.",
+      "specs": {
+        "Ring": "Livsmedelsgodkänd silikon",
+        "Material": "Polypropen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Industriellt kolblocksfilter",
+      "category": "Industrial Filter",
+      "desc": "Industriellt aktivt kolblocksfilter för tillämpningar med högt flöde och kemisk absorption.",
+      "specs": {
+        "Typ": "Kolblock",
+        "Industri": "Industriell"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Komprimerat aktivt kolblock",
+      "category": "Industrial Filter",
+      "desc": "Komprimerat kolblock med hög densitet för överlägsen borttagning av klor och VOC.",
+      "specs": {
+        "Densitet": "Hög",
+        "Tar bort": "Klor, VOC"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Mineraliserat litet T33 inline-vattenfilter",
+      "category": "Inline Filter",
+      "desc": "Förbättrar smak och lukt genom att ta bort klor och tillsätta nyttiga mineraler till vattnet för förbättrad hälsa och återfuktning.",
+      "specs": {
+        "Funktion": "Mineralisering + Polering",
+        "Koppling": "Snabbkoppling"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Småmolekylärt antibakteriellt mineraliseringsfilter",
+      "category": "Inline Filter",
+      "desc": "Avancerad filtrering som tar bort skadliga bakterier och virus samtidigt som nyttiga mineraler tillsätts till vattnet.",
+      "specs": {
+        "Funktion": "Antibakteriell + Mineralisering",
+        "Koppling": "Snabbkoppling"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakteriell mineraliseringsfilterpatron",
+      "category": "Inline Filter",
+      "desc": "Tar effektivt bort skadliga bakterier och virus och tillsätter nyttiga mineraler.",
+      "specs": {
+        "Funktion": "Antibakteriell + Mineralisering"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Inline katjonhartsfilterpatron",
+      "category": "Inline Filter",
+      "desc": "Mjukar upp vatten genom att ta bort hårda mineraler som kalcium och magnesium, vilket minskar kalkavlagringar i apparater.",
+      "specs": {
+        "Funktion": "Vattenmjukgöring",
+        "Harts": "Katjonbyte"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 kokosnötsskal kol inline-filter",
+      "category": "Inline Filter",
+      "desc": "Efterfilter T33 inline-patron med förstklassigt aktivt kol från kokosnötsskal för smakpolering.",
+      "specs": {
+        "Kol": "Kokosnötsskal",
+        "Position": "Efterfilter"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD högeffekts RO-membran",
+      "category": "RO System",
+      "desc": "Högkapacitets omvänd osmosmembran för bostäder och lätta kommersiella vattenreningar.",
+      "specs": {
+        "Kapacitet": "400 GPD",
+        "Typ": "Torrt membran"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan-sten mineraliseringsrenare",
+      "category": "Water Purifier",
+      "desc": "Flerstegsrenare med Maifan-sten för mineralisering och förbättrad vattenkvalitet.",
+      "specs": {
+        "Mineral": "Maifan-sten",
+        "Steg": "5-stegs"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Alkaliskt vattenreningssystem",
+      "category": "Water Purifier",
+      "desc": "Producerar alkaliskt vatten genom att höja pH-nivåerna och tillsätta viktiga mineraler.",
+      "specs": {
+        "Typ": "Alkaliskt",
+        "pH-intervall": "8,5 - 9,5"
+      }
+    }
+  ]
+}

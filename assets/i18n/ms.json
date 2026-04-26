@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Laman Utama",
+    "nav_products": "Produk",
+    "nav_about": "Tentang Kami",
+    "nav_workshop": "Bengkel",
+    "nav_exhibition": "Pameran",
+    "nav_contact": "Hubungi",
+    "cta_whatsapp": "WhatsApp Kami",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM Seluruh Dunia · Sejak 1998",
+    "hero_eyebrow": "✦ Pengeluar Penapisan Air Dipercayai Sejak 1998",
+    "hero_title": "Penyelesaian Penapisan Air Gred Industri",
+    "hero_desc": "Pakar dalam pembuatan PP, Carbon Block, GAC, T33, membran RO, dan dispenser air. Diiktiraf NSF · ISO · CE · Halal. Rakan kongsi OEM/ODM merentasi 50+ negara.",
+    "hero_btn_explore": "Teroka Produk",
+    "hero_btn_quote": "Dapatkan Sebut Harga",
+    "stats_years": "Tahun Pengalaman",
+    "stats_models": "Model Produk",
+    "stats_countries": "Negara Dilayan",
+    "stats_area": "Kawasan Pembuatan",
+    "about_eyebrow": "Tentang Kami",
+    "about_title": "Kecemerlangan Penapisan Air 20+ Tahun",
+    "about_desc": "Eco Express Water ialah perusahaan perlindungan alam sekitar berteknologi tinggi yang pakar dalam bahan penapis dan peralatan penapis untuk penulenan air. Ditubuhkan pada tahun 1998, produk kami menyepadukan aliran penuh daripada penyelidikan dan pembangunan, pembuatan, pemasaran hingga sokongan teknikal. Syarikat kami terletak di Bandar Yuanhua, Bandar Haining, Wilayah Zhejiang. Kami mempunyai pasukan pakar teknikal kelas pertama, ujian pertengahan fungsian/ujian pengembangan bersepadu, dan pusat pembuatan berskala besar. Kami adalah pembekal penapis air halal yang diperakui, memenuhi keperluan unik pengguna Muslim di Malaysia, Indonesia dan negara Islam yang lain.",
+    "about_feat_1": "Ditubuhkan pada 1998 – Lebih dua dekad kepakaran pembuatan",
+    "about_feat_2": "Integrasi menegak penuh: R&D, Pembuatan, QC, Logistik",
+    "about_feat_3": "Talian pengeluaran diiktiraf NSF, ISO, CE dan Halal",
+    "about_feat_4": "Perkhidmatan OEM/ODM untuk jenama global di 50+ negara",
+    "about_feat_5": "Terletak di Haining, Zhejiang – Hab penapisan air China",
+    "why_eyebrow": "Mengapa Memilih Kami",
+    "why_title": "Rakan Kongsi Pembuatan Dipercayai",
+    "why_desc": "Daripada bahan mentah hingga pemeriksaan akhir, setiap produk melepasi sistem kawalan kualiti kami yang ketat.",
+    "why_card1_title": "Kualiti Diiktiraf",
+    "why_card1_desc": "Pensijilan NSF / ISO / CE / Halal disokong oleh setiap kelompok yang kami hasilkan.",
+    "why_card2_title": "Sedia OEM / ODM",
+    "why_card2_desc": "Penjenamaan, pembungkusan dan spesifikasi produk tersuai untuk sepadan dengan pasaran anda.",
+    "why_card3_title": "Pengeluaran Dalaman",
+    "why_card3_desc": "4 talian pengeluaran berdedikasi meliputi PP, Karbon, Quick-connect dan Ujian Kebocoran.",
+    "why_card4_title": "Penghantaran Seluruh Dunia",
+    "why_card4_desc": "Masa utama 7–15 hari dengan logistik eksport yang mantap ke 50+ negara.",
+    "products_eyebrow": "Produk Kami",
+    "products_title": "Portfolio Penapisan Air Lengkap",
+    "products_desc": "42 model merentasi 8 kategori – daripada kartrij inline hingga dispenser menegak dan sistem RO lengkap.",
+    "cat_all": "Semua Produk",
+    "product_view_details": "Lihat Butiran",
+    "workshop_eyebrow": "Pembuatan",
+    "workshop_title": "Di Dalam Bengkel Kami",
+    "workshop_desc": "4 talian pengeluaran khusus: penapis PP, blok Karbon, inline Quick-connect dan pengesanan kebocoran automatik.",
+    "workshop_pp": "Talian Pengeluaran Penapis PP",
+    "workshop_carbon": "Pengeluaran Penapis Carbon Block",
+    "workshop_quick": "Pengeluaran Penapis Quick-Connect",
+    "workshop_leak": "Ujian Kebocoran Automatik",
+    "exhibition_eyebrow": "Pameran Perdagangan",
+    "exhibition_title": "Pameran Global",
+    "exhibition_desc": "Temui pasukan kami di AquaTech Shanghai dan acara industri utama yang lain.",
+    "exhibition_aqua1": "Ruang AquaTech Shanghai",
+    "exhibition_aqua2": "Paparan AquaTech Shanghai",
+    "exhibition_show": "Ruang Pameran Perdagangan",
+    "exhibition_customers": "Pelanggan Pameran Perdagangan",
+    "contact_eyebrow": "Hubungi Kami",
+    "contact_title": "Mari Membina Bersama",
+    "contact_desc": "Beritahu kami tentang projek anda. Jurutera jualan kami bertindak balas dalam masa 24 jam.",
+    "contact_address_label": "Alamat Kilang",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Wilayah Zhejiang, China",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "Alamat Emel",
+    "form_title": "Hantar Pertanyaan",
+    "form_sub": "Dapatkan sebut harga terperinci untuk spesifikasi anda.",
+    "form_name": "Nama Anda",
+    "form_email": "Alamat Emel",
+    "form_company": "Nama Syarikat",
+    "form_msg": "Mesej / Spesifikasi",
+    "form_btn": "Hantar Pertanyaan",
+    "footer_brand_desc": "Pengeluar penyelesaian penapisan air dipercayai sejak 1998. PP, Carbon Block, GAC, T33, membran RO dan dispenser air untuk rakan kongsi OEM/ODM global.",
+    "footer_products": "Produk",
+    "footer_company": "Syarikat",
+    "footer_contact": "Hubungi",
+    "footer_rights": "Hak cipta terpelihara.",
+    "modal_specs_title": "Spesifikasi Teknikal",
+    "modal_btn_wa": "Pertanyaan melalui WhatsApp",
+    "modal_btn_email": "Pertanyaan melalui Emel"
+  },
+  "categories": {
+    "Filter Cartridge": "Kartrij Penapis",
+    "Filter Housing": "Perumah Penapis",
+    "Flat Cap Filter": "Penapis Penutup Rata",
+    "Industrial Filter": "Penapis Industri",
+    "Inline Filter": "Penapis Inline",
+    "RO System": "Sistem RO",
+    "Water Dispenser": "Dispenser Air",
+    "Water Purifier": "Penulen Air"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Dispenser Air Warna Emas MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air saluran paip dipasang pada dinding dengan 5 peringkat volum air (150ml–850ml) dan 5 tahap suhu air (25°C–100°C). Elemen pemanas keluli tahan karat emas titanium 316L. Kunci keselamatan kanak-kanak. Panel kaca emas premium.",
+      "specs": {
+        "Kuasa": "2200W",
+        "Volum": "5 peringkat 150–850ml",
+        "Suhu": "25–100°C",
+        "Bahan": "Keluli Tahan Karat 316L"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Dispenser Air Warna Putih MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air saluran paip dipasang pada dinding dengan kuasa undian 2200W. Output air panas pantas 3 saat. Pelarasan volum dan suhu air 5 peringkat. Panel kaca putih.",
+      "specs": {
+        "Kuasa": "2200W",
+        "Output Panas": "3 saat",
+        "Warna": "Panel Kaca Putih"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Dispenser Air Hijau Gelap MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air saluran paip dipasang pada dinding dengan reka bentuk moden yang anggun dalam warna hijau gelap yang unik. Menjimatkan ruang lantai dan menyediakan bekalan air bersih yang berterusan.",
+      "specs": {
+        "Lekapan": "Dinding",
+        "Warna": "Hijau Gelap",
+        "Kuasa": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Dispenser Air Warna Hitam MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air saluran paip dipasang pada dinding dengan kuasa undian 2200W dan pemanasan pantas 3 saat. Panel kaca keseluruhan dengan bahagian plastik semburan matte.",
+      "specs": {
+        "Kuasa": "2200W",
+        "Output Panas": "3 saat",
+        "Warna": "Panel Kaca Hitam"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Dispenser Air Dipasang Dinding MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air saluran paip dipasang pada dinding dwi-warna hitam & putih. Padat, menjimatkan tenaga, dengan output air pelbagai peringkat.",
+      "specs": {
+        "Lekapan": "Dinding",
+        "Warna": "Hitam/Putih"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "Dispenser Air Menegak 1000W MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air menegak berkuasa tinggi dengan tangki keluli tahan karat 304 dan kuasa pemanasan 1KW. Skrin digital LED.",
+      "specs": {
+        "Kuasa": "1000W",
+        "Tangki": "Keluli Tahan Karat 304",
+        "Paparan": "Digital LED"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Dispenser Air Menegak MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Dispenser air menegak berdiri di lantai dengan tangki air keluli tahan karat 304 dan pelbagai pilihan saluran keluar air. Reka bentuk Hitam/Putih.",
+      "specs": {
+        "Jenis": "Menegak",
+        "Tangki": "Keluli Tahan Karat 304",
+        "Warna": "Hitam/Putih"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Penapis Air Reverse Osmosis Bawah Sinki",
+      "category": "RO System",
+      "desc": "Sistem RO suapan graviti yang bergantung pada tekanan air masuk untuk menolak air melalui membran RO. Berbilang peringkat: penapis sedimen, penapis karbon, membran RO.",
+      "specs": {
+        "Peringkat": "Berbilang peringkat",
+        "Jenis": "Tiada Pam Diperlukan",
+        "Membran": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "Penapis Air Big Blue Tiga Peringkat 30-inci",
+      "category": "Filter Housing",
+      "desc": "Penapisan tiga peringkat: penapis PP (zarah besar), membran RO (logam berat, bakteria, virus), CTO Carbon Block (klorin, rasa).",
+      "specs": {
+        "Saiz": "30 inci",
+        "Peringkat": "3",
+        "Jenis": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Penulen Air Tiga Peringkat Plus UV",
+      "category": "Water Purifier",
+      "desc": "Sistem penulenan air tiga peringkat dipertingkatkan dengan pensterilan UV untuk keselamatan air yang unggul.",
+      "specs": {
+        "Peringkat": "3 + UV",
+        "Pensterilan": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Penapis Air Saiz Sederhana w/ Penyambung Tembaga",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij penapis air bersaiz sederhana menampilkan penyambung tembaga untuk pemasangan dan prestasi yang teguh.",
+      "specs": {
+        "Saiz": "Sederhana",
+        "Penyambung": "Tembaga"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Penapis Perumah Eco Express Water",
+      "category": "Filter Housing",
+      "desc": "Penapis blok karbon menggunakan karbon aktif yang dimampatkan menjadi blok. Menghilangkan klorin, kloramin, racun perosak dan bau.",
+      "specs": {
+        "Jenis": "Perumah Carbon Block",
+        "Penyambung": "Pelbagai"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Penapis Carbon Block (Tempurung Kelapa)",
+      "category": "Filter Cartridge",
+      "desc": "Karbon aktif tempurung kelapa dengan nilai iodin tinggi (1000) untuk penulenan yang berkesan. Panjang 10 inci, diameter luar 2.5 inci.",
+      "specs": {
+        "Iodin": "1000",
+        "Bahan": "Karbon Kelapa",
+        "Saiz": "10×2.5 inci"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "Penapis Sedimen PP Spun",
+      "category": "Filter Cartridge",
+      "desc": "Mikrofiber polipropilena tulen 100% melt-blown. Menghilangkan karat, keladak, kerak, sedimen, kotoran. Tersedia dalam 10/20/30/40 inci.",
+      "specs": {
+        "Bahan": "100% Polipropilena",
+        "Saiz": "10–40 inci",
+        "Menghilangkan": "Sedimen 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "Penapis Karbon Aktif Berbutir UDF",
+      "category": "Filter Cartridge",
+      "desc": "Penapis GAC standard 10 inci daripada karbon nilai iodin tinggi. Mengurangkan klorin, bahan kimia organik, rasa dan bau yang tidak semulajadi.",
+      "specs": {
+        "Jenis": "GAC",
+        "Saiz": "10 inci",
+        "Iodin": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Kartrij Penapis Seramik",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij penapis seramik berkualiti tinggi untuk mengeluarkan zarah halus dan bakteria.",
+      "specs": {
+        "Penapisan": "0.2μm",
+        "Jenis": "Seramik"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Penapis Resin Pertukaran Ion",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij resin pertukaran ion untuk pelembutan air dan penyingkiran logam berat.",
+      "specs": {
+        "Fungsi": "Pelembutan Air",
+        "Menyingkirkan": "Ca/Mg/Logam Berat"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Kartrij Ultrafiltrasi (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij membran ultrafiltrasi gentian berongga untuk mengeluarkan bakteria, virus, dan jirim koloid.",
+      "specs": {
+        "Membran": "Gentian Berongga",
+        "Penapisan": "0.01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Penapis Inline Batu Maifan",
+      "category": "Inline Filter",
+      "desc": "Penapis inline mengandungi batu Maifan untuk memineralkan air dan menambah baik rasa.",
+      "specs": {
+        "Mineral": "Batu Maifan",
+        "Fungsi": "Peminerlan"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Penapis Mineral Inline",
+      "category": "Inline Filter",
+      "desc": "Menambah mineral penting kembali ke dalam air yang telah disucikan untuk meningkatkan manfaat kesihatan dan rasa.",
+      "specs": {
+        "Fungsi": "Peminerlan",
+        "Menambah": "Mineral Ca/Mg/K"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "Kartrij Penapis Membran RO",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij membran osmosis terbalik — komponen teras sistem RO untuk penyahgaraman dan penulenan.",
+      "specs": {
+        "Jenis": "Membran TFC RO",
+        "Kapasiti": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Gabungan Kartrij Penapis Berbilang Peringkat",
+      "category": "Filter Cartridge",
+      "desc": "Gabungan pelbagai kartrij penapis yang direka untuk penulenan berbilang peringkat.",
+      "specs": {
+        "Peringkat": "3–5",
+        "Gabungan": "Tersuai"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Penapis Karbon Inline Post T33",
+      "category": "Inline Filter",
+      "desc": "Penapis karbon inline selepas penapisan untuk mengilapkan rasa air dan menghilangkan sisa bau.",
+      "specs": {
+        "Kedudukan": "Peringkat akhir",
+        "Bahan": "Karbon Aktif"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Kartrij PP Inline",
+      "category": "Inline Filter",
+      "desc": "Penapis sedimen polipropilena inline untuk sistem penulenan air yang padat.",
+      "specs": {
+        "Bahan": "Polipropilena",
+        "Penapisan": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "Kartrij Gentian Polipropilena PPF",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij penapis gentian polipropilena untuk penyingkiran sedimen.",
+      "specs": {
+        "Bahan": "Gentian PP",
+        "Fungsi": "Sedimen"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Kartrij Karbon Aktif Pre-UDF",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij karbon aktif berbutir pra-penapisan untuk melindungi membran hiliran.",
+      "specs": {
+        "Kedudukan": "Pra-penapis",
+        "Bahan": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "Kartrij Penapis Pasca T33",
+      "category": "Inline Filter",
+      "desc": "Penapis pasca karbon berkualiti tinggi untuk penulenan peringkat akhir.",
+      "specs": {
+        "Kedudukan": "Pasca-penapis",
+        "Fungsi": "Pengilapan"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Kartrij Penapis Ultra Film",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij filem ultrafiltrasi termaju untuk penapisan kecekapan tinggi.",
+      "specs": {
+        "Jenis": "Ultra Film",
+        "Penapisan": "0.01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "Penapis Gentian Berongga UF",
+      "category": "Filter Cartridge",
+      "desc": "Kartrij ultrafiltrasi untuk penyingkiran pepejal terampai halus.",
+      "specs": {
+        "Bahan": "Gentian Berongga",
+        "Menyingkirkan": "Bakteria"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Penapis PP Industri (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Penapis PP melt-blown gred industri, tersedia dalam konfigurasi SOE (Single Open End) dan DOE (Double Open End).",
+      "specs": {
+        "Jenis": "SOE/DOE",
+        "Bahan": "Polipropilena",
+        "Industri": "Industri"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "Penapis PP dengan Penutup Hujung Fin",
+      "category": "Industrial Filter",
+      "desc": "Kartrij PP industri dengan penutup hujung gaya sirip untuk kedudukan selamat dan bebas kebocoran dalam unit perumah.",
+      "specs": {
+        "Penutup Hujung": "Jenis Fin",
+        "Bahan": "Polipropilena"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "Penapis PP dengan Cincin Silikon",
+      "category": "Industrial Filter",
+      "desc": "Kartrij penapis PP dilengkapi dengan cincin pengedap silikon gred makanan untuk pengedap kebolehpercayaan tinggi.",
+      "specs": {
+        "Cincin": "Silikon Gred Makanan",
+        "Bahan": "Polipropilena"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Penapis Carbon Block Industri",
+      "category": "Industrial Filter",
+      "desc": "Penapis blok karbon aktif gred industri untuk aplikasi penyerapan kimia aliran tinggi.",
+      "specs": {
+        "Jenis": "Carbon Block",
+        "Industri": "Industri"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Blok Karbon Aktif Termampat",
+      "category": "Industrial Filter",
+      "desc": "Blok karbon termampat berketumpatan tinggi untuk penyingkiran klorin dan VOC yang unggul.",
+      "specs": {
+        "Ketumpatan": "Tinggi",
+        "Menyingkirkan": "Klorin, VOC"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Penapis Air Inline T33 Kecil Terminerl",
+      "category": "Inline Filter",
+      "desc": "Menambah baik rasa dan bau dengan menyingkirkan klorin dan menambah mineral bermanfaat ke dalam air untuk kesihatan dan penghidratan yang lebih baik.",
+      "specs": {
+        "Fungsi": "Peminerlan + Pengilapan",
+        "Penyambung": "Sambung cepat"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Penapis Peminerlan Antibakteria Molekul Kecil",
+      "category": "Inline Filter",
+      "desc": "Penapisan termaju menyingkirkan bakteria dan virus berbahaya sambil menambah mineral bermanfaat ke dalam air.",
+      "specs": {
+        "Fungsi": "Antibakteria + Peminerlan",
+        "Penyambung": "Sambung cepat"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Kartrij Penapis Peminerlan Antibakteria",
+      "category": "Inline Filter",
+      "desc": "Berkesan menyingkirkan bakteria dan virus berbahaya serta menambah mineral bermanfaat.",
+      "specs": {
+        "Fungsi": "Antibakteria + Peminerlan"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Kartrij Penapis Resin Kation Inline",
+      "category": "Inline Filter",
+      "desc": "Melembutkan air dengan mengeluarkan mineral keras seperti kalsium dan magnesium, mengurangkan pembentukan kerak dalam peralatan.",
+      "specs": {
+        "Fungsi": "Pelembutan Air",
+        "Resin": "Pertukaran Kation"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "Penapis Inline Karbon Tempurung Kelapa T33",
+      "category": "Inline Filter",
+      "desc": "Kartrij inline T33 selepas penapis dengan karbon aktif tempurung kelapa premium untuk pengilapan rasa.",
+      "specs": {
+        "Karbon": "Tempurung Kelapa",
+        "Kedudukan": "Pasca-penapis"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "Membran RO Aliran Tinggi 400GPD",
+      "category": "RO System",
+      "desc": "Membran osmosis terbalik berkapasiti tinggi untuk penulenan air kediaman dan komersial ringan.",
+      "specs": {
+        "Kapasiti": "400 GPD",
+        "Jenis": "Membran Kering"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Penulen Peminerlan Batu Maifan",
+      "category": "Water Purifier",
+      "desc": "Penulen berbilang peringkat menampilkan batu Maifan untuk peminerlan dan peningkatan kualiti air.",
+      "specs": {
+        "Mineral": "Batu Maifan",
+        "Peringkat": "5-Peringkat"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Sistem Penulen Air Alkali",
+      "category": "Water Purifier",
+      "desc": "Menghasilkan air alkali dengan meningkatkan tahap pH dan menambah mineral penting.",
+      "specs": {
+        "Jenis": "Alkali",
+        "Julat pH": "8.5 - 9.5"
+      }
+    }
+  ]
+}

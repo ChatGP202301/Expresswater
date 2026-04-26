@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Startseite",
+    "nav_products": "Produkte",
+    "nav_about": "Über uns",
+    "nav_workshop": "Werkstatt",
+    "nav_exhibition": "Messen",
+    "nav_contact": "Kontakt",
+    "cta_whatsapp": "WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM Weltweit · Seit 1998",
+    "hero_eyebrow": "✦ Vertrauenswürdiger Hersteller von Wasserfiltration seit 1998",
+    "hero_title": "Wasserfiltrationslösungen in Industriequalität",
+    "hero_desc": "Spezialisiert auf die Herstellung von PP, Aktivkohleblöcken, GAC, T33, Umkehrosmose-Membranen und Wasserspendern. NSF · ISO · CE · Halal zertifiziert. OEM/ODM-Partner in über 50 Ländern.",
+    "hero_btn_explore": "Produkte erkunden",
+    "hero_btn_quote": "Angebot anfordern",
+    "stats_years": "Jahre Erfahrung",
+    "stats_models": "Produktmodelle",
+    "stats_countries": "Bediente Länder",
+    "stats_area": "Fertigungsfläche",
+    "about_eyebrow": "Über uns",
+    "about_title": "Über 20 Jahre Exzellenz in der Wasserfiltration",
+    "about_desc": "Eco Express Water ist ein High-Tech-Umweltschutzunternehmen, das sich auf Filtermaterialien und Filteranlagen zur Wasserreinigung spezialisiert hat. Gegründet im Jahr 1998, integrieren unsere Produkte den gesamten Prozess von Forschung und Entwicklung über Fertigung und Marketing bis hin zum technischen Support. Unser Unternehmen befindet sich in Yuanhua Town, Haining City, Provinz Zhejiang. Wir verfügen über ein erstklassiges technisches Expertenteam, integrierte funktionale Tests und ein großflächiges Fertigungszentrum. Wir sind ein zertifizierter Lieferant von Halal-Wasserfiltern und bedienen die besonderen Bedürfnisse muslimischer Verbraucher in Malaysia, Indonesien und anderen muslimischen Ländern.",
+    "about_feat_1": "Gegründet 1998 – Über zwei Jahrzehnte Fertigungskompetenz",
+    "about_feat_2": "Vollständige vertikale Integration: F&E, Fertigung, QC, Logistik",
+    "about_feat_3": "NSF, ISO, CE und Halal zertifizierte Produktionslinien",
+    "about_feat_4": "OEM/ODM-Service für globale Marken in über 50 Ländern",
+    "about_feat_5": "Standort in Haining, Zhejiang – Chinas Zentrum für Wasserfiltration",
+    "why_eyebrow": "Warum wir",
+    "why_title": "Ihr vertrauenswürdiger Fertigungspartner",
+    "why_desc": "Vom Rohmaterial bis zur Endkontrolle durchläuft jedes Produkt unser strenges Qualitätskontrollsystem.",
+    "why_card1_title": "Zertifizierte Qualität",
+    "why_card1_desc": "NSF / ISO / CE / Halal Zertifizierungen für jede von uns produzierte Charge.",
+    "why_card2_title": "OEM / ODM bereit",
+    "why_card2_desc": "Kundenspezifisches Branding, Verpackung und Produktspezifikationen passend für Ihren Markt.",
+    "why_card3_title": "Inhouse-Produktion",
+    "why_card3_desc": "4 eigene Produktionslinien für PP, Aktivkohle, Quick-Connect und Lecktests.",
+    "why_card4_title": "Weltweiter Versand",
+    "why_card4_desc": "Lieferzeit 7–15 Tage mit etablierter Exportlogistik in über 50 Länder.",
+    "products_eyebrow": "Unsere Produkte",
+    "products_title": "Komplettes Wasserfiltrationsportfolio",
+    "products_desc": "42 Modelle in 8 Kategorien – von Inline-Kartuschen bis hin zu Stand-Wasserspendern und kompletten Umkehrosmose-Systemen.",
+    "cat_all": "Alle Produkte",
+    "product_view_details": "Details anzeigen",
+    "workshop_eyebrow": "Fertigung",
+    "workshop_title": "Einblick in unsere Werkstatt",
+    "workshop_desc": "4 spezialisierte Produktionslinien: PP-Filter, Aktivkohleblock, Quick-Connect Inline und automatische Leckerkennung.",
+    "workshop_pp": "PP-Filter Produktionslinie",
+    "workshop_carbon": "Aktivkohleblock-Filterproduktion",
+    "workshop_quick": "Quick-Connect-Filterproduktion",
+    "workshop_leak": "Automatische Leckprüfung",
+    "exhibition_eyebrow": "Messen",
+    "exhibition_title": "Globale Ausstellungen",
+    "exhibition_desc": "Treffen Sie unser Team auf der AquaTech Shanghai und anderen wichtigen Branchenveranstaltungen.",
+    "exhibition_aqua1": "AquaTech Shanghai Stand",
+    "exhibition_aqua2": "AquaTech Shanghai Display",
+    "exhibition_show": "Messe-Stand",
+    "exhibition_customers": "Messe-Kunden",
+    "contact_eyebrow": "Kontakt aufnehmen",
+    "contact_title": "Lassen Sie uns gemeinsam bauen",
+    "contact_desc": "Erzählen Sie uns von Ihrem Projekt. Unsere Vertriebsingenieure antworten innerhalb von 24 Stunden.",
+    "contact_address_label": "Fabrikadresse",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Telefon / WhatsApp",
+    "contact_email_label": "E-Mail-Adresse",
+    "form_title": "Anfrage senden",
+    "form_sub": "Erhalten Sie ein detailliertes Angebot für Ihre Spezifikationen.",
+    "form_name": "Ihr Name",
+    "form_email": "E-Mail-Adresse",
+    "form_company": "Firmenname",
+    "form_msg": "Nachricht / Spezifikationen",
+    "form_btn": "Anfrage senden",
+    "footer_brand_desc": "Vertrauenswürdiger Hersteller von Wasserfiltrationslösungen seit 1998. PP, Aktivkohleblöcke, GAC, T33, Umkehrosmose-Membranen und Wasserspender für globale OEM/ODM-Partner.",
+    "footer_products": "Produkte",
+    "footer_company": "Unternehmen",
+    "footer_contact": "Kontakt",
+    "footer_rights": "Alle Rechte vorbehalten.",
+    "modal_specs_title": "Technische Spezifikationen",
+    "modal_btn_wa": "Anfrage via WhatsApp",
+    "modal_btn_email": "Anfrage via E-Mail"
+  },
+  "categories": {
+    "Filter Cartridge": "Filterkartusche",
+    "Filter Housing": "Filtergehäuse",
+    "Flat Cap Filter": "Flachkappenfilter",
+    "Industrial Filter": "Industriefilter",
+    "Inline Filter": "Inline-Filter",
+    "RO System": "Umkehrosmose-System",
+    "Water Dispenser": "Wasserspender",
+    "Water Purifier": "Wasserreiniger"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Goldener Wasserspender MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Wandmontierter Leitungs-Wasserspender mit 5 Wassermengenstufen (150 ml–850 ml) und 5 Wassertemperaturstufen (25 °C–100 °C). Heizelement aus 316L Titan-Gold-Edelstahl. Kindersicherung. Premium-Goldglas-Panel.",
+      "specs": {
+        "Leistung": "2200W",
+        "Volumen": "5 Stufen 150–850 ml",
+        "Temperatur": "25–100 °C",
+        "Material": "316L Edelstahl"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Weißer Wasserspender MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Wandmontierter Leitungs-Wasserspender mit 2200 W Nennleistung. Schnelle Heißwasserausgabe in 3 Sekunden. 5 Stufen zur Einstellung von Wassermenge und Temperatur. Weißes Glaspanel.",
+      "specs": {
+        "Leistung": "2200W",
+        "Heißausgabe": "3 Sekunden",
+        "Farbe": "Weißes Glaspanel"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Dunkelgrüner Wasserspender MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Wandmontierter Leitungs-Wasserspender mit elegantem modernem Design in einzigartigem Dunkelgrün. Spart Platz und bietet eine kontinuierliche Versorgung mit sauberem Wasser.",
+      "specs": {
+        "Montage": "Wandmontage",
+        "Farbe": "Dunkelgrün",
+        "Leistung": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Schwarzer Wasserspender MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Wandmontierter Leitungs-Wasserspender mit 2200 W Nennleistung und schneller 3-Sekunden-Erhitzung. Komplettes Glaspanel mit matt gespritzten Kunststoffteilen.",
+      "specs": {
+        "Leistung": "2200W",
+        "Heißausgabe": "3 Sekunden",
+        "Farbe": "Schwarzes Glaspanel"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Wandmontierter Wasserspender MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Schwarz-weißer zweifarbiger wandmontierter Leitungs-Wasserspender. Kompakt, energiesparend, mit mehrstufiger Wasserausgabe.",
+      "specs": {
+        "Montage": "Wandmontage",
+        "Farbe": "Schwarz/Weiß"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "Vertikaler 1000W Wasserspender MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Leistungsstarker vertikaler Wasserspender mit 304 Edelstahltank und 1 kW Heizleistung. LED-Digitalbildschirm.",
+      "specs": {
+        "Leistung": "1000W",
+        "Tank": "304 Edelstahl",
+        "Anzeige": "LED Digital"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Vertikaler Wasserspender MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Vertikaler, bodenstehender Wasserspender mit Wassertank aus 304 Edelstahl und mehreren Wasserauslassoptionen. Schwarz-weißes Design.",
+      "specs": {
+        "Typ": "Vertikal",
+        "Tank": "304 Edelstahl",
+        "Farbe": "Schwarz/Weiß"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Unterspülen-Umkehrosmose-Wasserfilter",
+      "category": "RO System",
+      "desc": "Schwerkraftgespeistes Umkehrosmose-System, das den Eingangswasserdruck nutzt, um das Wasser durch die Membran zu pressen. Mehrstufig: Sedimentfilter, Aktivkohlefilter, RO-Membran.",
+      "specs": {
+        "Stufen": "Mehrstufig",
+        "Typ": "Keine Pumpe erforderlich",
+        "Membran": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30-Zoll Big Blue Wasserfilter, dreistufig",
+      "category": "Filter Housing",
+      "desc": "Dreistufige Filtration: PP-Filter (große Partikel), RO-Membran (Schwermetalle, Bakterien, Viren), CTO-Aktivkohleblock (Chlor, Geschmack).",
+      "specs": {
+        "Größe": "30 Zoll",
+        "Stufen": "3",
+        "Typ": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Dreistufiger Wasserreiniger plus UV",
+      "category": "Water Purifier",
+      "desc": "Dreistufiges Wasserreinigungssystem, ergänzt durch UV-Sterilisation für höchste Wassersicherheit.",
+      "specs": {
+        "Stufen": "3 + UV",
+        "Sterilisation": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Mittelgroßer Wasserfilter mit Kupferanschluss",
+      "category": "Filter Cartridge",
+      "desc": "Mittelgroße Wasserfilterkartusche mit Kupferanschluss für robuste Installation und Leistung.",
+      "specs": {
+        "Größe": "Mittel",
+        "Anschluss": "Kupfer"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Wasser-Gehäusefilter",
+      "category": "Filter Housing",
+      "desc": "Aktivkohleblock-Filter aus gepresster Aktivkohle. Entfernt Chlor, Chloramine, Pestizide und Gerüche.",
+      "specs": {
+        "Typ": "Aktivkohleblock-Gehäuse",
+        "Anschluss": "Verschiedene"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Aktivkohleblock-Filter (Kokosnussschale)",
+      "category": "Filter Cartridge",
+      "desc": "Aktivkohle aus Kokosnussschalen mit hohem Jodwert (1000) für effektive Reinigung. 10 Zoll Länge, 2,5 Zoll Außendurchmesser.",
+      "specs": {
+        "Jodwert": "1000",
+        "Material": "Kokosnuss-Kohle",
+        "Größe": "10×2,5 Zoll"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP-Spun-Sedimentfilter",
+      "category": "Filter Cartridge",
+      "desc": "Schmelzgeblasene Mikrofasern aus 100 % reinem Polypropylen. Entfernt Rost, Schlick, Kesselstein, Sedimente und Schmutz. Erhältlich in 10/20/30/40 Zoll.",
+      "specs": {
+        "Material": "100 % Polypropylen",
+        "Größen": "10–40 Zoll",
+        "Entfernt": "Sedimente 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "UDF-Granulat-Aktivkohlefilter",
+      "category": "Filter Cartridge",
+      "desc": "Standardmäßiger 10-Zoll-GAC-Filter aus Kohle mit hohem Jodwert. Reduziert Chlor, organische Chemikalien sowie unnatürlichen Geschmack und Geruch.",
+      "specs": {
+        "Typ": "GAC",
+        "Größe": "10 Zoll",
+        "Jodwert": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Keramik-Filterkartusche",
+      "category": "Filter Cartridge",
+      "desc": "Hochwertige Keramik-Filterkartusche zur Entfernung von feinen Partikeln und Bakterien.",
+      "specs": {
+        "Filtration": "0,2μm",
+        "Typ": "Keramik"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Ionenaustausch-Harzfilter",
+      "category": "Filter Cartridge",
+      "desc": "Ionenaustausch-Harzkartusche zur Wasserenthärtung und Entfernung von Schwermetallen.",
+      "specs": {
+        "Funktion": "Wasserenthärtung",
+        "Entfernt": "Ca/Mg/Schwermetalle"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltrations-Kartusche (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Hohlfaser-Ultrafiltrationsmembran zur Entfernung von Bakterien, Viren und kolloidalen Stoffen.",
+      "specs": {
+        "Membran": "Hohlfaser",
+        "Filtration": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan-Stein Inline-Filter",
+      "category": "Inline Filter",
+      "desc": "Inline-Filter mit Maifan-Steinen zur Mineralisierung des Wassers und Geschmacksverbesserung.",
+      "specs": {
+        "Mineral": "Maifan-Stein",
+        "Funktion": "Mineralisierung"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline-Mineralfilter",
+      "category": "Inline Filter",
+      "desc": "Fügt dem gereinigten Wasser wichtige Mineralien hinzu, um gesundheitliche Vorteile und den Geschmack zu verbessern.",
+      "specs": {
+        "Funktion": "Mineralisierung",
+        "Fügt hinzu": "Ca/Mg/K-Mineralien"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "RO-Membran-Filterkartusche",
+      "category": "Filter Cartridge",
+      "desc": "Umkehrosmose-Membran – die Kernkomponente von RO-Systemen zur Entsalzung und Reinigung.",
+      "specs": {
+        "Typ": "RO-TFC-Membran",
+        "Kapazität": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Mehrstufige Filterkartuschen-Kombination",
+      "category": "Filter Cartridge",
+      "desc": "Kombination verschiedener Filterkartuschen für die mehrstufige Reinigung.",
+      "specs": {
+        "Stufen": "3–5",
+        "Kombination": "Kundenspezifisch"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Post-T33 Inline-Aktivkohlefilter",
+      "category": "Inline Filter",
+      "desc": "Inline-Aktivkohlefilter zur Nachfiltration, zur Geschmacksverbesserung und zur Entfernung von Restgerüchen.",
+      "specs": {
+        "Position": "Letzte Stufe",
+        "Material": "Aktivkohle"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline-PP-Kartusche",
+      "category": "Inline Filter",
+      "desc": "Inline-Sedimentfilter aus Polypropylen für kompakte Wasserreinigungssysteme.",
+      "specs": {
+        "Material": "Polypropylen",
+        "Filtration": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF-Polypropylen-Faserkartusche",
+      "category": "Filter Cartridge",
+      "desc": "Filterkartusche aus Polypropylenfasern zur Sedimententfernung.",
+      "specs": {
+        "Material": "PP-Faser",
+        "Funktion": "Sediment"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF Aktivkohlekartusche",
+      "category": "Filter Cartridge",
+      "desc": "Granulierte Aktivkohlekartusche zur Vorfiltration zum Schutz nachgeschalteter Membranen.",
+      "specs": {
+        "Position": "Vorfilter",
+        "Material": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 Nachfilter-Kartusche",
+      "category": "Inline Filter",
+      "desc": "Hochwertiger Nachaktivkohlefilter für die letzte Reinigungsstufe.",
+      "specs": {
+        "Position": "Nachfilter",
+        "Funktion": "Veredelung"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra-Film Filterkartusche",
+      "category": "Filter Cartridge",
+      "desc": "Fortschrittliche Ultrafiltrations-Folienkartusche für hocheffiziente Filtration.",
+      "specs": {
+        "Typ": "Ultra-Film",
+        "Filtration": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF-Hohlfaserfilter",
+      "category": "Filter Cartridge",
+      "desc": "Ultrafiltrations-Kartusche zur Entfernung feiner Schwebstoffe.",
+      "specs": {
+        "Material": "Hohlfaser",
+        "Entfernt": "Bakterien"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Industrie-PP-Filter (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Schmelzgeblasener PP-Filter in Industriequalität, erhältlich in SOE- (Single Open End) und DOE- (Double Open End) Konfigurationen.",
+      "specs": {
+        "Typ": "SOE/DOE",
+        "Material": "Polypropylen",
+        "Branche": "Industrie"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP-Filter mit Fin-Endkappe",
+      "category": "Industrial Filter",
+      "desc": "Industrielle PP-Kartusche mit einer Endkappe im Fin-Stil für sicheren, leckagefreien Sitz in Gehäuseeinheiten.",
+      "specs": {
+        "Endkappe": "Fin-Typ",
+        "Material": "Polypropylen"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP-Filter mit Silikonring",
+      "category": "Industrial Filter",
+      "desc": "PP-Filterkartusche mit lebensmittelechtem Silikon-Dichtungsring für hohe Dichtungszuverlässigkeit.",
+      "specs": {
+        "Ring": "Lebensmittelechtes Silikon",
+        "Material": "Polypropylen"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Industrie-Aktivkohleblock-Filter",
+      "category": "Industrial Filter",
+      "desc": "Aktivkohleblock-Filter in Industriequalität für chemische Absorptionsanwendungen mit hohem Durchfluss.",
+      "specs": {
+        "Typ": "Aktivkohleblock",
+        "Branche": "Industrie"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Gepresster Aktivkohleblock",
+      "category": "Industrial Filter",
+      "desc": "Hochverdichteter Aktivkohleblock für hervorragende Chlor- und VOC-Entfernung.",
+      "specs": {
+        "Dichte": "Hoch",
+        "Entfernt": "Chlor, VOCs"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Mineralisierter kleiner T33 Inline-Wasserfilter",
+      "category": "Inline Filter",
+      "desc": "Verbessert Geschmack und Geruch durch Entfernung von Chlor und Hinzufügung nützlicher Mineralien für bessere Gesundheit und Hydratation.",
+      "specs": {
+        "Funktion": "Mineralisierung + Veredelung",
+        "Anschluss": "Quick-Connect"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Antibakterieller Kleinmolekül-Mineralisierungsfilter",
+      "category": "Inline Filter",
+      "desc": "Fortschrittliche Filtration, die schädliche Bakterien und Viren entfernt und dem Wasser nützliche Mineralien hinzufügt.",
+      "specs": {
+        "Funktion": "Antibakteriell + Mineralisierung",
+        "Anschluss": "Quick-Connect"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Antibakterielle Mineralisierungs-Filterkartusche",
+      "category": "Inline Filter",
+      "desc": "Entfernt effektiv schädliche Bakterien und Viren und fügt nützliche Mineralien hinzu.",
+      "specs": {
+        "Funktion": "Antibakteriell + Mineralisierung"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Inline-Kationenharz-Filterkartusche",
+      "category": "Inline Filter",
+      "desc": "Enthärtet Wasser durch Entfernung harter Mineralien wie Kalzium und Magnesium und reduziert so Kalkablagerungen in Geräten.",
+      "specs": {
+        "Funktion": "Wasserenthärtung",
+        "Harz": "Kationenaustausch"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "T33 Kokosnussschalen-Aktivkohle Inline-Filter",
+      "category": "Inline Filter",
+      "desc": "T33 Inline-Nachfilterkartusche mit hochwertiger Kokosnussschalen-Aktivkohle zur Geschmacksveredelung.",
+      "specs": {
+        "Kohle": "Kokosnussschale",
+        "Position": "Nachfilter"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD High-Flow RO-Membran",
+      "category": "RO System",
+      "desc": "Umkehrosmose-Membran mit hoher Kapazität für die Wasserreinigung in Wohngebäuden und kleinen gewerblichen Bereichen.",
+      "specs": {
+        "Kapazität": "400 GPD",
+        "Typ": "Trockenmembran"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Maifan-Stein Mineralisierungsreiniger",
+      "category": "Water Purifier",
+      "desc": "Mehrstufiger Reiniger mit Maifan-Stein zur Mineralisierung und Verbesserung der Wasserqualität.",
+      "specs": {
+        "Mineral": "Maifan-Stein",
+        "Stufen": "5-stufig"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Alkalines Wasserreinigersystem",
+      "category": "Water Purifier",
+      "desc": "Erzeugt alkalisches Wasser durch Erhöhung des pH-Werts und Hinzufügung wichtiger Mineralien.",
+      "specs": {
+        "Typ": "Alkalisch",
+        "pH-Bereich": "8,5 - 9,5"
+      }
+    }
+  ]
+}

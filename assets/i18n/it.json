@@ -1,0 +1,527 @@
+{
+  "ui": {
+    "nav_home": "Home",
+    "nav_products": "Prodotti",
+    "nav_about": "Chi siamo",
+    "nav_workshop": "Officina",
+    "nav_exhibition": "Fiere",
+    "nav_contact": "Contatti",
+    "cta_whatsapp": "WhatsApp",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
+    "topbar_tag": "OEM/ODM in tutto il mondo · Dal 1998",
+    "hero_eyebrow": "✦ Produttore affidabile di filtrazione dell'acqua dal 1998",
+    "hero_title": "Soluzioni di filtrazione dell'acqua di livello industriale",
+    "hero_desc": "Specializzato nella produzione di PP, blocchi di carbone, GAC, T33, membrane a osmosi inversa ed erogatori d'acqua. Certificato NSF · ISO · CE · Halal. Partner OEM/ODM in oltre 50 paesi.",
+    "hero_btn_explore": "Esplora i prodotti",
+    "hero_btn_quote": "Richiedi un preventivo",
+    "stats_years": "Anni di esperienza",
+    "stats_models": "Modelli di prodotto",
+    "stats_countries": "Paesi serviti",
+    "stats_area": "Area di produzione",
+    "about_eyebrow": "Chi siamo",
+    "about_title": "Oltre 20 anni di eccellenza nella filtrazione dell'acqua",
+    "about_desc": "Eco Express Water è un'impresa di protezione ambientale ad alta tecnologia specializzata in materiali filtranti e apparecchiature di filtraggio per la purificazione dell'acqua. Fondata nel 1998, i nostri prodotti integrano l'intero processo dalla ricerca e sviluppo, produzione, marketing al supporto tecnico. La nostra azienda si trova nella città di Yuanhua, Haining, nella provincia di Zhejiang. Disponiamo di un team di esperti tecnici di prim'ordine, test funzionali integrati e un centro di produzione su larga scala. Siamo un fornitore certificato di filtri per l'acqua halal, che soddisfa le esigenze uniche dei consumatori musulmani in Malesia, Indonesia e altri paesi musulmani.",
+    "about_feat_1": "Fondata nel 1998 – Oltre due decenni di esperienza manifatturiera",
+    "about_feat_2": "Integrazione verticale completa: R&S, Produzione, CQ, Logistica",
+    "about_feat_3": "Linee di produzione certificate NSF, ISO, CE e Halal",
+    "about_feat_4": "Servizio OEM/ODM per marchi globali in oltre 50 paesi",
+    "about_feat_5": "Situato a Haining, Zhejiang – Il centro cinese della filtrazione dell'acqua",
+    "why_eyebrow": "Perché sceglierci",
+    "why_title": "Partner di produzione affidabile",
+    "why_desc": "Dalle materie prime all'ispezione finale, ogni prodotto passa attraverso il nostro rigoroso sistema di controllo qualità.",
+    "why_card1_title": "Qualità certificata",
+    "why_card1_desc": "Certificazioni NSF / ISO / CE / Halal supportate da ogni lotto che produciamo.",
+    "why_card2_title": "Pronto per OEM / ODM",
+    "why_card2_desc": "Branding personalizzato, imballaggio e specifiche del prodotto per adattarsi al tuo mercato.",
+    "why_card3_title": "Produzione interna",
+    "why_card3_desc": "4 linee di produzione dedicate che coprono PP, carbone, attacco rapido e test di tenuta.",
+    "why_card4_title": "Spedizioni in tutto il mondo",
+    "why_card4_desc": "Tempi di consegna 7-15 giorni con logistica di esportazione consolidata verso oltre 50 paesi.",
+    "products_eyebrow": "I nostri prodotti",
+    "products_title": "Portafoglio completo di filtrazione dell'acqua",
+    "products_desc": "42 modelli in 8 categorie: dalle cartucce in linea agli erogatori verticali e ai sistemi a osmosi inversa completi.",
+    "cat_all": "Tutti i prodotti",
+    "product_view_details": "Visualizza dettagli",
+    "workshop_eyebrow": "Produzione",
+    "workshop_title": "All'interno della nostra officina",
+    "workshop_desc": "4 linee di produzione specializzate: filtro PP, blocco di carbone, in linea ad attacco rapido e rilevamento automatico delle perdite.",
+    "workshop_pp": "Linea di produzione filtri PP",
+    "workshop_carbon": "Produzione filtri a blocco di carbone",
+    "workshop_quick": "Produzione filtri ad attacco rapido",
+    "workshop_leak": "Test di tenuta automatico",
+    "exhibition_eyebrow": "Fiere",
+    "exhibition_title": "Esposizioni globali",
+    "exhibition_desc": "Incontra il nostro team ad AquaTech Shanghai e ad altri importanti eventi del settore.",
+    "exhibition_aqua1": "Stand AquaTech Shanghai",
+    "exhibition_aqua2": "Esposizione AquaTech Shanghai",
+    "exhibition_show": "Stand fieristico",
+    "exhibition_customers": "Clienti della fiera",
+    "contact_eyebrow": "Contattaci",
+    "contact_title": "Costruiamo insieme",
+    "contact_desc": "Raccontaci il tuo progetto. I nostri ingegneri commerciali rispondono entro 24 ore.",
+    "contact_address_label": "Indirizzo della fabbrica",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_phone_label": "Telefono / WhatsApp",
+    "contact_email_label": "Indirizzo e-mail",
+    "form_title": "Invia richiesta",
+    "form_sub": "Ottieni un preventivo dettagliato per le tue specifiche.",
+    "form_name": "Il tuo nome",
+    "form_email": "Indirizzo e-mail",
+    "form_company": "Nome dell'azienda",
+    "form_msg": "Messaggio / Specifiche",
+    "form_btn": "Invia richiesta",
+    "footer_brand_desc": "Produttore affidabile di soluzioni di filtrazione dell'acqua dal 1998. PP, blocchi di carbone, GAC, T33, membrane a osmosi inversa ed erogatori d'acqua per partner OEM/ODM globali.",
+    "footer_products": "Prodotti",
+    "footer_company": "Azienda",
+    "footer_contact": "Contatti",
+    "footer_rights": "Tutti i diritti riservati.",
+    "modal_specs_title": "Specifiche tecniche",
+    "modal_btn_wa": "Richiesta via WhatsApp",
+    "modal_btn_email": "Richiesta via E-mail"
+  },
+  "categories": {
+    "Filter Cartridge": "Cartuccia filtrante",
+    "Filter Housing": "Contenitore filtro",
+    "Flat Cap Filter": "Filtro a tappo piatto",
+    "Industrial Filter": "Filtro industriale",
+    "Inline Filter": "Filtro in linea",
+    "RO System": "Sistema a osmosi inversa",
+    "Water Dispenser": "Erogatore d'acqua",
+    "Water Purifier": "Purificatore d'acqua"
+  },
+  "products": [
+    {
+      "id": "mt-900g",
+      "name": "Erogatore d'acqua color oro MT-900G",
+      "category": "Water Dispenser",
+      "desc": "Erogatore d'acqua a rete a parete con 5 stadi di volume d'acqua (150ml–850ml) e 5 livelli di temperatura dell'acqua (25°C–100°C). Elemento riscaldante in acciaio inossidabile 316L titanio oro. Blocco di sicurezza per bambini. Pannello in vetro dorato premium.",
+      "specs": {
+        "Potenza": "2200W",
+        "Volume": "5 stadi 150–850ml",
+        "Temperatura": "25–100°C",
+        "Materiale": "Acciaio inossidabile 316L"
+      }
+    },
+    {
+      "id": "mt-s800",
+      "name": "Erogatore d'acqua color bianco MT-S800",
+      "category": "Water Dispenser",
+      "desc": "Erogatore d'acqua a rete a parete con potenza nominale di 2200W. Erogazione rapida di acqua calda in 3 secondi. 5 stadi di regolazione del volume e della temperatura dell'acqua. Pannello in vetro bianco.",
+      "specs": {
+        "Potenza": "2200W",
+        "Uscita calda": "3 secondi",
+        "Colore": "Pannello in vetro bianco"
+      }
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Erogatore d'acqua verde scuro MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "Erogatore d'acqua a rete a parete con design moderno ed elegante in un esclusivo colore verde scuro. Risparmia spazio sul pavimento e fornisce una fornitura continua di acqua pulita.",
+      "specs": {
+        "Montaggio": "A parete",
+        "Colore": "Verde scuro",
+        "Potenza": "2200W"
+      }
+    },
+    {
+      "id": "mt-b600",
+      "name": "Erogatore d'acqua color nero MT-B600",
+      "category": "Water Dispenser",
+      "desc": "Erogatore d'acqua a rete a parete con potenza nominale di 2200W e riscaldamento rapido in 3 secondi. Pannello interamente in vetro con parti in plastica spray opaca.",
+      "specs": {
+        "Potenza": "2200W",
+        "Uscita calda": "3 secondi",
+        "Colore": "Pannello in vetro nero"
+      }
+    },
+    {
+      "id": "mt-e600",
+      "name": "Erogatore d'acqua a parete MT-E600",
+      "category": "Water Dispenser",
+      "desc": "Erogatore d'acqua a rete a parete bicolore bianco e nero. Compatto, a risparmio energetico, con uscita dell'acqua a più stadi.",
+      "specs": {
+        "Montaggio": "A parete",
+        "Colore": "Nero/Bianco"
+      }
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "Erogatore d'acqua verticale 1000W MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "Erogatore d'acqua verticale ad alta potenza con serbatoio in acciaio inossidabile 304 e potenza di riscaldamento di 1KW. Schermo digitale LED.",
+      "specs": {
+        "Potenza": "1000W",
+        "Serbatoio": "Acciaio inossidabile 304",
+        "Display": "LED digitale"
+      }
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Erogatore d'acqua verticale MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "Erogatore d'acqua verticale a pavimento con serbatoio dell'acqua in acciaio inossidabile 304 e molteplici opzioni di uscita dell'acqua. Design bianco/nero.",
+      "specs": {
+        "Tipo": "Verticale",
+        "Serbatoio": "Acciaio inossidabile 304",
+        "Colore": "Nero/Bianco"
+      }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Filtro acqua a osmosi inversa sottolavello",
+      "category": "RO System",
+      "desc": "Sistema a osmosi inversa alimentato a gravità che si affida alla pressione dell'acqua in entrata per spingere l'acqua attraverso la membrana RO. Multistadio: filtro sedimenti, filtro carbone, membrana RO.",
+      "specs": {
+        "Stadi": "Multistadio",
+        "Tipo": "Nessuna pompa richiesta",
+        "Membrana": "RO 75GPD"
+      }
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "Filtro acqua Big Blue da 30 pollici a tre stadi",
+      "category": "Filter Housing",
+      "desc": "Filtrazione a tre stadi: filtro PP (grandi particelle), membrana RO (metalli pesanti, batteri, virus), blocco di carbone CTO (cloro, sapore).",
+      "specs": {
+        "Dimensioni": "30 pollici",
+        "Stadi": "3",
+        "Tipo": "Big Blue"
+      }
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Purificatore d'acqua a tre stadi più UV",
+      "category": "Water Purifier",
+      "desc": "Sistema di purificazione dell'acqua a tre stadi potenziato con sterilizzazione UV per una sicurezza superiore dell'acqua.",
+      "specs": {
+        "Stadi": "3 + UV",
+        "Sterilizzazione": "UV-C"
+      }
+    },
+    {
+      "id": "mid-filter",
+      "name": "Filtro acqua di medie dimensioni con connettore in rame",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia filtrante per acqua di medie dimensioni dotata di un connettore in rame per un'installazione e prestazioni robuste.",
+      "specs": {
+        "Dimensioni": "Medie",
+        "Connettore": "Rame"
+      }
+    },
+    {
+      "id": "housing-filter",
+      "name": "Filtro contenitore Eco Express Water",
+      "category": "Filter Housing",
+      "desc": "Filtro a blocco di carbone che utilizza carbone attivo compresso in un blocco. Rimuove cloro, clorammine, pesticidi e odori.",
+      "specs": {
+        "Tipo": "Alloggiamento blocco carbone",
+        "Connettore": "Vari"
+      }
+    },
+    {
+      "id": "carbon-block",
+      "name": "Filtro a blocco di carbone (guscio di cocco)",
+      "category": "Filter Cartridge",
+      "desc": "Carbone attivo da guscio di cocco con alto valore di iodio (1000) per una purificazione efficace. Lunghezza 10 pollici, diametro esterno 2,5 pollici.",
+      "specs": {
+        "Iodio": "1000",
+        "Materiale": "Carbone di cocco",
+        "Dimensioni": "10×2,5 pollici"
+      }
+    },
+    {
+      "id": "pp-spun",
+      "name": "Filtro sedimenti PP Spun",
+      "category": "Filter Cartridge",
+      "desc": "Microfibre di polipropilene puro al 100% soffiate a fusione. Rimuove ruggine, limo, incrostazioni, sedimenti, sporco. Disponibile in 10/20/30/40 pollici.",
+      "specs": {
+        "Materiale": "100% Polipropilene",
+        "Dimensioni": "10–40 pollici",
+        "Rimuove": "Sedimenti 5μm"
+      }
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "Filtro a carbone attivo granulare UDF",
+      "category": "Filter Cartridge",
+      "desc": "Filtro GAC standard da 10 pollici da carbone ad alto valore di iodio. Riduce cloro, sostanze chimiche organiche, sapori e odori sgradevoli.",
+      "specs": {
+        "Tipo": "GAC",
+        "Dimensioni": "10 pollici",
+        "Iodio": "1000"
+      }
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Cartuccia filtrante in ceramica",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia filtrante in ceramica di alta qualità per la rimozione di particelle sottili e batteri.",
+      "specs": {
+        "Filtrazione": "0,2μm",
+        "Tipo": "Ceramica"
+      }
+    },
+    {
+      "id": "resin-filter",
+      "name": "Filtro in resina a scambio ionico",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia in resina a scambio ionico per l'addolcimento dell'acqua e la rimozione dei metalli pesanti.",
+      "specs": {
+        "Funzione": "Addolcimento dell'acqua",
+        "Rimuove": "Ca/Mg/Metalli pesanti"
+      }
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Cartuccia di ultrafiltrazione (UF)",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia a membrana per ultrafiltrazione a fibra cava per la rimozione di batteri, virus e sostanze colloidali.",
+      "specs": {
+        "Membrana": "Fibra cava",
+        "Filtrazione": "0,01μm"
+      }
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Filtro in linea in pietra Maifan",
+      "category": "Inline Filter",
+      "desc": "Filtro in linea contenente pietre Maifan per mineralizzare l'acqua e migliorarne il sapore.",
+      "specs": {
+        "Minerale": "Pietra Maifan",
+        "Funzione": "Mineralizzazione"
+      }
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Filtro minerale in linea",
+      "category": "Inline Filter",
+      "desc": "Aggiunge minerali essenziali all'acqua purificata per migliorare i benefici per la salute e il sapore.",
+      "specs": {
+        "Funzione": "Mineralizzazione",
+        "Aggiunge": "Minerali Ca/Mg/K"
+      }
+    },
+    {
+      "id": "ro-membrane",
+      "name": "Cartuccia filtrante a membrana RO",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia a membrana per osmosi inversa — il componente principale dei sistemi RO per la desalinizzazione e la purificazione.",
+      "specs": {
+        "Tipo": "Membrana RO TFC",
+        "Capacità": "75/100/400 GPD"
+      }
+    },
+    {
+      "id": "filter-combo",
+      "name": "Combinazione di cartucce filtranti multistadio",
+      "category": "Filter Cartridge",
+      "desc": "Combinazione di varie cartucce filtranti progettate per la purificazione multistadio.",
+      "specs": {
+        "Stadi": "3–5",
+        "Combinazione": "Personalizzata"
+      }
+    },
+    {
+      "id": "post-t33",
+      "name": "Filtro a carbone in linea Post T33",
+      "category": "Inline Filter",
+      "desc": "Filtro a carbone in linea post-filtrazione per affinare il sapore dell'acqua e rimuovere gli odori residui.",
+      "specs": {
+        "Posizione": "Stadio finale",
+        "Materiale": "Carbone attivo"
+      }
+    },
+    {
+      "id": "inline-pp",
+      "name": "Cartuccia PP in linea",
+      "category": "Inline Filter",
+      "desc": "Filtro sedimenti in polipropilene in linea per sistemi compatti di purificazione dell'acqua.",
+      "specs": {
+        "Materiale": "Polipropilene",
+        "Filtrazione": "5μm"
+      }
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "Cartuccia in fibra di polipropilene PPF",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia filtrante in fibra di polipropilene per la rimozione dei sedimenti.",
+      "specs": {
+        "Materiale": "Fibra PP",
+        "Funzione": "Sedimenti"
+      }
+    },
+    {
+      "id": "pre-udf",
+      "name": "Cartuccia a carbone attivo Pre-UDF",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia a carbone attivo granulare per pre-filtrazione per proteggere le membrane a valle.",
+      "specs": {
+        "Posizione": "Prefiltro",
+        "Materiale": "GAC"
+      }
+    },
+    {
+      "id": "t33-post",
+      "name": "Cartuccia filtro Post T33",
+      "category": "Inline Filter",
+      "desc": "Filtro post-carbone di alta qualità per la purificazione nella fase finale.",
+      "specs": {
+        "Posizione": "Post-filtro",
+        "Funzione": "Raffinazione"
+      }
+    },
+    {
+      "id": "ultra-film",
+      "name": "Cartuccia filtrante Ultra Film",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia a film per ultrafiltrazione avanzata per una filtrazione ad alta efficienza.",
+      "specs": {
+        "Tipo": "Ultra Film",
+        "Filtrazione": "0,01μm"
+      }
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "Filtro a fibra cava UF",
+      "category": "Filter Cartridge",
+      "desc": "Cartuccia di ultrafiltrazione per la rimozione di solidi sospesi fini.",
+      "specs": {
+        "Materiale": "Fibra cava",
+        "Rimuove": "Batteri"
+      }
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Filtro PP industriale (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "Filtro PP melt-blown di grado industriale, disponibile nelle configurazioni SOE (Single Open End) e DOE (Double Open End).",
+      "specs": {
+        "Tipo": "SOE/DOE",
+        "Materiale": "Polipropilene",
+        "Industria": "Industriale"
+      }
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "Filtro PP con tappo terminale ad aletta",
+      "category": "Industrial Filter",
+      "desc": "Cartuccia PP industriale con tappo terminale stile aletta per un alloggiamento sicuro e senza perdite nelle unità contenitore.",
+      "specs": {
+        "Tappo terminale": "Tipo aletta",
+        "Materiale": "Polipropilene"
+      }
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "Filtro PP con anello in silicone",
+      "category": "Industrial Filter",
+      "desc": "Cartuccia filtrante in PP dotata di anello di tenuta in silicone alimentare per una sigillatura ad alta affidabilità.",
+      "specs": {
+        "Anello": "Silicone alimentare",
+        "Materiale": "Polipropilene"
+      }
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Filtro a blocco di carbone industriale",
+      "category": "Industrial Filter",
+      "desc": "Filtro a blocco di carbone attivo di grado industriale per applicazioni di assorbimento chimico ad alto flusso.",
+      "specs": {
+        "Tipo": "Blocco di carbone",
+        "Industria": "Industriale"
+      }
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Blocco di carbone attivo compresso",
+      "category": "Industrial Filter",
+      "desc": "Blocco di carbone compresso ad alta densità per una rimozione superiore di cloro e COV.",
+      "specs": {
+        "Densità": "Alta",
+        "Rimuove": "Cloro, COV"
+      }
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Piccolo filtro acqua in linea T33 mineralizzato",
+      "category": "Inline Filter",
+      "desc": "Migliora il sapore e l'odore rimuovendo il cloro e aggiungendo minerali benefici all'acqua per una migliore salute e idratazione.",
+      "specs": {
+        "Funzione": "Mineralizzazione + Raffinazione",
+        "Connettore": "Attacco rapido"
+      }
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Filtro di mineralizzazione antibatterico a piccole molecole",
+      "category": "Inline Filter",
+      "desc": "Filtrazione avanzata che rimuove batteri e virus nocivi aggiungendo minerali benefici all'acqua.",
+      "specs": {
+        "Funzione": "Antibatterico + Mineralizzazione",
+        "Connettore": "Attacco rapido"
+      }
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "Cartuccia filtrante per mineralizzazione antibatterica",
+      "category": "Inline Filter",
+      "desc": "Rimuove efficacemente batteri e virus nocivi e aggiunge minerali benefici.",
+      "specs": {
+        "Funzione": "Antibatterico + Mineralizzazione"
+      }
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "Cartuccia filtrante in resina cationica in linea",
+      "category": "Inline Filter",
+      "desc": "Addolcisce l'acqua rimuovendo minerali duri come calcio e magnesio, riducendo l'accumulo di calcare negli elettrodomestici.",
+      "specs": {
+        "Funzione": "Addolcimento dell'acqua",
+        "Resina": "Scambio cationico"
+      }
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "Filtro in linea al carbone di guscio di cocco T33",
+      "category": "Inline Filter",
+      "desc": "Cartuccia in linea T33 post-filtro con carbone attivo di guscio di cocco premium per l'affinamento del sapore.",
+      "specs": {
+        "Carbone": "Guscio di cocco",
+        "Posizione": "Post-filtro"
+      }
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "Membrana RO ad alto flusso 400GPD",
+      "category": "RO System",
+      "desc": "Membrana per osmosi inversa ad alta capacità per la purificazione dell'acqua residenziale e commerciale leggera.",
+      "specs": {
+        "Capacità": "400 GPD",
+        "Tipo": "Membrana a secco"
+      }
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "Purificatore mineralizzante in pietra Maifan",
+      "category": "Water Purifier",
+      "desc": "Purificatore multistadio con pietra Maifan per la mineralizzazione e il miglioramento della qualità dell'acqua.",
+      "specs": {
+        "Minerale": "Pietra Maifan",
+        "Stadi": "5 stadi"
+      }
+    },
+    {
+      "id": "alkaline-purifier",
+      "name": "Sistema purificatore d'acqua alcalina",
+      "category": "Water Purifier",
+      "desc": "Produce acqua alcalina aumentando i livelli di pH e aggiungendo minerali essenziali.",
+      "specs": {
+        "Tipo": "Alcalino",
+        "Intervallo pH": "8.5 - 9.5"
+      }
+    }
+  ]
+}

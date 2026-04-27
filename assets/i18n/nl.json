@@ -8,11 +8,11 @@
     "nav_contact": "Contact",
     "cta_whatsapp": "WhatsApp ons",
     "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
-    "topbar_email": "✉ <a href=\"mailto:info@ecoexpresswater.com\">info@ecoexpresswater.com</a>",
-    "topbar_tag": "Wereldwijd OEM/ODM · Sinds 1998",
-    "hero_eyebrow": "✦ Vertrouwde fabrikant van waterfiltratie sinds 1998",
-    "hero_title": "Industriële waterfiltratie-oplossingen",
-    "hero_desc": "Gespecialiseerd in de productie van PP, koolstofblokken, GAC, T33, omgekeerde osmose membranen en waterdispensers. NSF · ISO · CE · Halal gecertificeerd. OEM/ODM-partners in meer dan 50 landen.",
+    "topbar_email": "✉ <a href=\"mailto:expresswater025@gmail.com\">expresswater025@gmail.com</a>",
+    "topbar_tag": "Global Bulk Wholesale · OEM/ODM Specialist · Since 1998",
+    "hero_eyebrow": "✦ Leading China Water Filter Manufacturer | NSF & ISO Certified Factory",
+    "hero_title": "Industrial-Grade Water Purification & OEM Solutions",
+    "hero_desc": "Global bulk wholesale supplier of high-performance PP Melt Blown, CTO, GAC filters, and RO membranes. Since 1998, we provide NSF/ISO certified OEM/ODM technical support for 50+ countries.",
     "hero_btn_explore": "Ontdek producten",
     "hero_btn_quote": "Vraag een offerte aan",
     "stats_years": "Jaar ervaring",
@@ -24,8 +24,8 @@
     "about_desc": "Eco Express Water is een hightech milieubeschermingsonderneming gespecialiseerd in filtermaterialen en filterapparatuur voor waterzuivering. Onze producten, opgericht in 1998, integreren de volledige stroom van onderzoek en ontwikkeling, productie, marketing tot technische ondersteuning. Ons bedrijf is gevestigd in Yuanhua Town, Haining City, provincie Zhejiang. We hebben een eersteklas technisch expertteam, geïntegreerde functionele middelste testen/uitbreidingstesten en een grootschalig productiecentrum. Wij zijn een gecertificeerde leverancier van halal waterfilters, die voldoet aan de unieke behoeften van moslimconsumenten in Maleisië, Indonesië en andere moslimlanden.",
     "about_feat_1": "Opgericht in 1998 – Meer dan twee decennia productie-expertise",
     "about_feat_2": "Volledige verticale integratie: R&D, productie, QC, logistiek",
-    "about_feat_3": "NSF, ISO, CE en Halal gecertificeerde productielijnen",
-    "about_feat_4": "OEM/ODM-service voor wereldwijde merken in meer dan 50 landen",
+    "about_feat_3": "NSF, ISO, CE, and Halal certified manufacturing center",
+    "about_feat_4": "Professional OEM/ODM technical support for global brands",
     "about_feat_5": "Gevestigd in Haining, Zhejiang – Het waterfiltratiecentrum van China",
     "why_eyebrow": "Waarom voor ons kiezen",
     "why_title": "Vertrouwde productiepartner",
@@ -71,7 +71,7 @@
     "form_company": "Bedrijfsnaam",
     "form_msg": "Bericht / Specificaties",
     "form_btn": "Stuur aanvraag",
-    "footer_brand_desc": "Vertrouwde fabrikant van waterfiltratie-oplossingen sinds 1998. PP, koolstofblokken, GAC, T33, RO-membranen en waterdispensers voor wereldwijde OEM/ODM-partners.",
+    "footer_brand_desc": "Leading China manufacturer of water filtration solutions since 1998. Specialized in PP Melt Blown, CTO Carbon Block, GAC, and RO membranes for global bulk wholesale and OEM/ODM partners.",
     "footer_products": "Producten",
     "footer_company": "Bedrijf",
     "footer_contact": "Contact",
@@ -92,435 +92,563 @@
   },
   "products": [
     {
-      "id": "mt-900g",
-      "name": "Gouden waterdispenser MT-900G",
-      "category": "Water Dispenser",
-      "desc": "Aan de muur gemonteerde waterdispenser met 5 fasen watervolume (150ml-850ml) and 5 fasen watertemperatuur (25°C-100°C). 316L titanium goud roestvrijstalen verwarmingselement. Kinderslot. Premium gouden glaspaneel.",
-      "specs": {
-        "Vermogen": "2200W",
-        "Volume": "5 fasen 150-850ml",
-        "Temperatuur": "25-100°C",
-        "Materiaal": "316L roestvrij staal"
-      }
-    },
-    {
-      "id": "mt-s800",
-      "name": "Witte waterdispenser MT-S800",
-      "category": "Water Dispenser",
-      "desc": "Aan de muur gemonteerde waterdispenser met 2200W nominaal vermogen. Snelle warmwaterafgifte in 3 seconden. 5 fasen instelling van watervolume en temperatuur. Wit glaspaneel.",
-      "specs": {
-        "Vermogen": "2200W",
-        "Hete afgifte": "3 seconden",
-        "Kleur": "Wit glaspaneel"
-      }
-    },
-    {
-      "id": "mt-600dg",
-      "name": "Donkergroene waterdispenser MT-600DG",
-      "category": "Water Dispenser",
-      "desc": "Aan de muur gemonteerde waterdispenser met een strak modern ontwerp in een unieke donkergroene kleur. Bespaart vloeroppervlak en zorgt voor een continue toevoer van schoon water.",
-      "specs": {
-        "Montage": "Muurbevestiging",
-        "Kleur": "Donkergroen",
-        "Vermogen": "2200W"
-      }
-    },
-    {
-      "id": "mt-b600",
-      "name": "Zwarte waterdispenser MT-B600",
-      "category": "Water Dispenser",
-      "desc": "Aan de muur gemonteerde waterdispenser met 2200W nominaal vermogen en snelle verwarming in 3 seconden. Volledig glaspaneel met matte kunststof onderdelen.",
-      "specs": {
-        "Vermogen": "2200W",
-        "Hete afgifte": "3 seconden",
-        "Kleur": "Zwart glaspaneel"
-      }
-    },
-    {
-      "id": "mt-e600",
-      "name": "Muur waterdispenser MT-E600",
-      "category": "Water Dispenser",
-      "desc": "Zwart-wit tweekleurige muur waterdispenser. Compact, energiezuinig, met meertraps waterafgifte.",
-      "specs": {
-        "Montage": "Muurbevestiging",
-        "Kleur": "Zwart/Wit"
-      }
-    },
-    {
-      "id": "mt-dv-e600",
-      "name": "Verticale waterdispenser 1000W MT-DV-E600",
-      "category": "Water Dispenser",
-      "desc": "Krachtige verticale waterdispenser met 304 roestvrijstalen tank en 1KW verwarmingsvermogen. LED digitaal scherm.",
-      "specs": {
-        "Vermogen": "1000W",
-        "Tank": "304 roestvrij staal",
-        "Scherm": "LED digitaal"
-      }
-    },
-    {
-      "id": "mt-v-e300a",
-      "name": "Verticale waterdispenser MT-V-E300A",
-      "category": "Water Dispenser",
-      "desc": "Verticale vloerstaande waterdispenser met 304 roestvrijstalen watertank en meerdere wateruitlaatopties. Zwart/wit ontwerp.",
-      "specs": {
-        "Type": "Verticaal",
-        "Tank": "304 roestvrij staal",
-        "Kleur": "Zwart/Wit"
-      }
-    },
-    {
-      "id": "ro-undersink",
-      "name": "Reverse Osmosis waterfilter onder de gootsteen",
-      "category": "RO System",
-      "desc": "Zwaartekracht gevoed RO-systeem dat vertrouwt op de inkomende waterdruk om water door het RO-membraan te duwen. Meertraps: sedimentfilter, koolstoffilter, RO-membraan.",
-      "specs": {
-        "Fasen": "Meertraps",
-        "Type": "Geen pomp nodig",
-        "Membraan": "RO 75GPD"
-      }
-    },
-    {
-      "id": "big-blue-3stage",
-      "name": "30-inch Big Blue waterfilter in drie fasen",
-      "category": "Filter Housing",
-      "desc": "Driefasige filtratie: PP-filter (grote deeltjes), RO-membraan (zware metalen, bacteriën, virussen), CTO-koolstofblok (chloor, smaak).",
-      "specs": {
-        "Maat": "30 inch",
-        "Fasen": "3",
-        "Type": "Big Blue"
-      }
-    },
-    {
-      "id": "uv-purifier",
-      "name": "Driefasige plus UV-waterzuiveraar",
+      "id": "alkaline-purifier",
+      "name": "Alkaline Water Purifier System",
       "category": "Water Purifier",
-      "desc": "Driefasig waterzuiveringssysteem verbeterd met UV-sterilisatie voor superieure waterveiligheid.",
+      "desc": "Produces alkaline water by increasing pH levels and adding essential minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Fasen": "3 + UV",
-        "Sterilisatie": "UV-C"
-      }
-    },
-    {
-      "id": "mid-filter",
-      "name": "Middelgroot waterfilter met koperen connector",
-      "category": "Filter Cartridge",
-      "desc": "Middelgroot waterfilterpatroon met een koperen connector voor robuuste installatie en prestaties.",
-      "specs": {
-        "Maat": "Middel",
-        "Connector": "Koper"
-      }
-    },
-    {
-      "id": "housing-filter",
-      "name": "Eco Express waterbehuizingsfilter",
-      "category": "Filter Housing",
-      "desc": "Koolstofblokfilter met actieve kool geperst tot een blok. Verwijdert chloor, chlooramines, pesticiden en geuren.",
-      "specs": {
-        "Type": "Koolstofblokbehuizing",
-        "Connector": "Diverse"
-      }
-    },
-    {
-      "id": "carbon-block",
-      "name": "Koolstofblokfilter (kokosnootschil)",
-      "category": "Filter Cartridge",
-      "desc": "Actieve kool van kokosnootschillen met een hoge jodiumwaarde (1000) voor effectieve zuivering. 10 inch lang, 2,5 inch buitendiameter.",
-      "specs": {
-        "Jodium": "1000",
-        "Materiaal": "Kokosnootkool",
-        "Maat": "10x2,5 inch"
-      }
-    },
-    {
-      "id": "pp-spun",
-      "name": "PP Spun sedimentfilter",
-      "category": "Filter Cartridge",
-      "desc": "Melt-blown 100% puur polypropyleen microvezels. Verwijdert roest, slib, kalk, sediment en vuil. Beschikbaar in 10/20/30/40 inch.",
-      "specs": {
-        "Materiaal": "100% Polypropyleen",
-        "Maten": "10-40 inch",
-        "Verwijdert": "Sediment 5μm"
-      }
-    },
-    {
-      "id": "udf-cartridge",
-      "name": "UDF granulaire actieve koolfilter",
-      "category": "Filter Cartridge",
-      "desc": "Standaard 10-inch GAC-filter van koolstof met een hoge jodiumwaarde. Vermindert chloor, organische chemicaliën, onnatuurlijke smaken en geuren.",
-      "specs": {
-        "Type": "GAC",
-        "Maat": "10 inch",
-        "Jodium": "1000"
-      }
-    },
-    {
-      "id": "ceramic-filter",
-      "name": "Keramisch filterpatroon",
-      "category": "Filter Cartridge",
-      "desc": "Hoogwaardig keramisch filterpatroon voor het verwijderen van fijne deeltjes en bacteriën.",
-      "specs": {
-        "Filtratie": "0,2μm",
-        "Type": "Keramisch"
-      }
-    },
-    {
-      "id": "resin-filter",
-      "name": "Ionenaustausch-harsfilter",
-      "category": "Filter Cartridge",
-      "desc": "Ionenaustausch-harsfilter voor waterontharding en verwijdering van zware metalen.",
-      "specs": {
-        "Functie": "Waterontharding",
-        "Verwijdert": "Ca/Mg/Zware metalen"
-      }
-    },
-    {
-      "id": "uf-cartridge",
-      "name": "Ultrafiltratie (UF) patroon",
-      "category": "Filter Cartridge",
-      "desc": "Hollow-fiber ultrafiltratiemembraan voor het verwijderen van bacteriën, virussen en colloïdale materie.",
-      "specs": {
-        "Membraan": "Hollow Fiber",
-        "Filtratie": "0,01μm"
-      }
-    },
-    {
-      "id": "maifan-inline",
-      "name": "Maifan steen inline-filter",
-      "category": "Inline Filter",
-      "desc": "Inline-filter met Maifan stenen om water te mineraliseren en de smaak te verbeteren.",
-      "specs": {
-        "Mineraal": "Maifan steen",
-        "Functie": "Mineralisatie"
-      }
-    },
-    {
-      "id": "mineral-inline",
-      "name": "Inline-mineraalfilter",
-      "category": "Inline Filter",
-      "desc": "Voegt essentiële mineralen toe aan gezuiverd water om de gezondheidsvoordelen en de smaak te verbeteren.",
-      "specs": {
-        "Functie": "Mineralisatie",
-        "Voegt toe": "Ca/Mg/K mineralen"
-      }
-    },
-    {
-      "id": "ro-membrane",
-      "name": "RO-membraan filterpatroon",
-      "category": "Filter Cartridge",
-      "desc": "Omgekeerde osmose membraan — het kerncomponent van RO-systemen voor ontzilting en zuivering.",
-      "specs": {
-        "Type": "RO TFC-membraan",
-        "Capaciteit": "75/100/400 GPD"
-      }
-    },
-    {
-      "id": "filter-combo",
-      "name": "Meertraps filterpatroon combinatie",
-      "category": "Filter Cartridge",
-      "desc": "Combinatie van verschillende filterpatronen ontworpen voor meertraps zuivering.",
-      "specs": {
-        "Fasen": "3-5",
-        "Combinatie": "Aangepast"
-      }
-    },
-    {
-      "id": "post-t33",
-      "name": "Post T33 inline-koolstoffilter",
-      "category": "Inline Filter",
-      "desc": "Inline-koolstoffilter voor nafiltratie om de smaak van het water te polijsten en resterende geuren te verwijderen.",
-      "specs": {
-        "Positie": "Laatste fase",
-        "Materiaal": "Actieve kool"
-      }
-    },
-    {
-      "id": "inline-pp",
-      "name": "Inline-PP patroon",
-      "category": "Inline Filter",
-      "desc": "Inline polypropyleen sedimentfilter voor compacte waterzuiveringssystemen.",
-      "specs": {
-        "Materiaal": "Polypropyleen",
-        "Filtratie": "5μm"
-      }
-    },
-    {
-      "id": "ppf-cartridge",
-      "name": "PPF polypropyleenvezel patroon",
-      "category": "Filter Cartridge",
-      "desc": "Polypropyleenvezel filterpatroon voor sedimentverwijdering.",
-      "specs": {
-        "Materiaal": "PP-vezel",
-        "Functie": "Sediment"
-      }
-    },
-    {
-      "id": "pre-udf",
-      "name": "Pre-UDF actieve koolpatroon",
-      "category": "Filter Cartridge",
-      "desc": "Voorfiltratie granulaire actieve koolpatroon om stroomafwaartse membranen te beschermen.",
-      "specs": {
-        "Positie": "Voorfilter",
-        "Materiaal": "GAC"
-      }
-    },
-    {
-      "id": "t33-post",
-      "name": "T33 na-filterpatroon",
-      "category": "Inline Filter",
-      "desc": "Hoogwaardig na-koolstoffilter voor de laatste fase van zuivering.",
-      "specs": {
-        "Positie": "Na-filter",
-        "Functie": "Polijsten"
-      }
-    },
-    {
-      "id": "ultra-film",
-      "name": "Ultra-film filterpatroon",
-      "category": "Filter Cartridge",
-      "desc": "Geavanceerd ultrafiltratie filmpatroon voor zeer efficiënte filtratie.",
-      "specs": {
-        "Type": "Ultra Film",
-        "Filtratie": "0,01μm"
-      }
-    },
-    {
-      "id": "uf-filter-2",
-      "name": "UF holle vezelfilter",
-      "category": "Filter Cartridge",
-      "desc": "Ultrafiltratiepatroon voor het verwijderen van fijne zwevende deeltjes.",
-      "specs": {
-        "Materiaal": "Holle vezel",
-        "Verwijdert": "Bacteriën"
-      }
-    },
-    {
-      "id": "pp-soe-doe",
-      "name": "Industrieel PP-filter (SOE/DOE)",
-      "category": "Industrial Filter",
-      "desc": "Industriële kwaliteit PP melt-blown filter, beschikbaar in SOE (Single Open End) en DOE (Double Open End) configuraties.",
-      "specs": {
-        "Type": "SOE/DOE",
-        "Materiaal": "Polypropyleen",
-        "Industrie": "Industrieel"
-      }
-    },
-    {
-      "id": "pp-fin-cap",
-      "name": "PP-filter met vin-eindkap",
-      "category": "Industrial Filter",
-      "desc": "Industrieel PP-patroon met een vin-stijl eindkap voor veilige, lekvrije plaatsing in behuizingen.",
-      "specs": {
-        "Eindkap": "Vin-type",
-        "Materiaal": "Polypropyleen"
-      }
-    },
-    {
-      "id": "pp-silicon-ring",
-      "name": "PP-filter met siliconen ring",
-      "category": "Industrial Filter",
-      "desc": "PP-filterpatroon uitgerust met voedselveilige siliconen afdichtingsring voor hoge betrouwbaarheid van de afdichting.",
-      "specs": {
-        "Ring": "Voedselveilige siliconen",
-        "Materiaal": "Polypropyleen"
-      }
-    },
-    {
-      "id": "carbon-block-industrial",
-      "name": "Industrieel koolstofblokfilter",
-      "category": "Industrial Filter",
-      "desc": "Industriële kwaliteit actieve koolblokfilter voor chemische absorptietoepassingen met hoog debiet.",
-      "specs": {
-        "Type": "Koolstofblok",
-        "Industrie": "Industrieel"
-      }
-    },
-    {
-      "id": "carbon-block-2",
-      "name": "Geperst actieve koolblok",
-      "category": "Industrial Filter",
-      "desc": "Gecomprimeerd koolstofblok met hoge dichtheid voor superieure verwijdering van chloor en VOS.",
-      "specs": {
-        "Dichtheid": "Hoog",
-        "Verwijdert": "Chloor, VOS"
-      }
-    },
-    {
-      "id": "inline-t33-mineral",
-      "name": "Gemineraliseerd klein T33 inline-waterfilter",
-      "category": "Inline Filter",
-      "desc": "Verbetert smaak en geur door chloor te verwijderen en gunstige mineralen aan water toe te voegen voor een betere gezondheid en hydratatie.",
-      "specs": {
-        "Functie": "Mineralisatie + Polijsten",
-        "Connector": "Snelkoppeling"
-      }
-    },
-    {
-      "id": "inline-small-mol",
-      "name": "Antibacterieel mineralisatiefilter voor kleine moleculen",
-      "category": "Inline Filter",
-      "desc": "Geavanceerde filtratie die schadelijke bacteriën en virussen verwijdert en gunstige mineralen aan water toevoegt.",
-      "specs": {
-        "Functie": "Antibacterieel + Mineralisatie",
-        "Connector": "Snelkoppeling"
+        "Type": "Alkaline",
+        "pH range": "8.5 - 9.5"
       }
     },
     {
       "id": "antibacterial-mineralization",
-      "name": "Antibacterieel mineralisatiefilterpatroon",
+      "name": "Antibacterial Mineralization Filter Cartridge",
       "category": "Inline Filter",
-      "desc": "Verwijdert effectief schadelijke bacteriën en virussen en voegt gunstige mineralen toe.",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.png",
+      "desc": "Effectively removes harmful bacteria and viruses and adds beneficial minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Functie": "Antibacterieel + Mineralisatie"
-      }
+        "Function": "Antibacterial + Mineralization"
+      },
+      "image_local": "assets/products/antibacterial-mineralization_antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.jpg"
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30-inch Three Stage Big Blue Water Filter",
+      "category": "Filter Housing",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/IMG_8856-scaled-768x1024.jpg",
+      "desc": "Three-stage filtration: PP filter (large particles), RO membrane (heavy metals, bacteria, viruses), CTO Carbon Block (chlorine, taste). Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Size": "30 inches",
+        "Stages": "3",
+        "Type": "Big Blue"
+      },
+      "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
+    },
+    {
+      "id": "carbon-block",
+      "name": "CTO Coconut Shell CTO Carbon Block Filter Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/carbon-block-filter-copy.jpg",
+      "desc": "Coconut shell activated carbon with high iodine value (1000) for effective purification. 10 inches length, 2.5 inch outer diameter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Iodine": "1000",
+        "Material": "Coconut Carbon",
+        "Size": "10×2.5 inch"
+      },
+      "image_local": "assets/products/carbon-block_carbon-block-filter-copy.jpg"
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "Compressed Activated CTO Carbon Block",
+      "category": "Industrial Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/wechatimg25674-mk3lrNoaEaUvnLg7.jpeg",
+      "desc": "High-density compressed carbon block for superior chlorine and VOC removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Density": "High",
+        "Removes": "Chlorine, VOCs"
+      },
+      "image_local": "assets/products/carbon-block-2_wechatimg25674-mk3lrNoaEaUvnLg7.jpeg"
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "Industrial High-Flow CTO Carbon Block Filter",
+      "category": "Industrial Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "desc": "Industrial-grade activated carbon block filter for high-flow chemical absorption applications. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "Carbon Block",
+        "Industry": "Industrial"
+      },
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "Ceramic Filter Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png",
+      "desc": "High-quality ceramic filter cartridge for removing fine particles and bacteria. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Filtration": "0.2μm",
+        "Type": "Ceramic"
+      },
+      "image_local": "assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
+    },
+    {
+      "id": "filter-combo",
+      "name": "Multi-Stage Filter Cartridge Combination",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Filter-cartridge-combination-copy.jpg",
+      "desc": "Combination of various filter cartridges designed for multi-stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Stages": "3–5",
+        "Combination": "Custom"
+      },
+      "image_local": "assets/products/filter-combo_Filter-cartridge-combination-copy.jpg"
+    },
+    {
+      "id": "flat-cap-cto",
+      "name": "Flat Cap CTO Carbon Block Filter",
+      "category": "Flat Cap Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "desc": "Compressed Activated Carbon Block filter with flat cap connection for universal compatibility with standard housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "CTO",
+        "Cap": "Flat Cap"
+      },
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+    },
+    {
+      "id": "flat-cap-gac",
+      "name": "Flat Cap GAC Filter",
+      "category": "Flat Cap Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/a13apsudf-mp8MqXBP8ptD7oab.jpg",
+      "desc": "Universal GAC filter with Flat Cap connection. Made with silicon rubber flat cap. Effectively removes chlorine, sediment, and other contaminants. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Cap": "Silicon Rubber Flat Cap",
+        "Material": "GAC"
+      },
+      "image_local": "assets/products/flat-cap-gac_a13apsudf-mp8MqXBP8ptD7oab.jpg"
+    },
+    {
+      "id": "flat-cap-pp",
+      "name": "Flat Cap PP Melt Blown Sediment Filter",
+      "category": "Flat Cap Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676799952716-A0x3EWL3l7teXEKl.jpg",
+      "desc": "Polypropylene melt-blown sediment filter with flat cap design. Designed for use in standard 10\" filter housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "PP Melt-blown",
+        "Cap": "Flat Cap"
+      },
+      "image_local": "assets/products/flat-cap-pp_1676799952716-A0x3EWL3l7teXEKl.jpg"
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water Housing Filter",
+      "category": "Filter Housing",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/IMG_5618-scaled-1024x768.jpg",
+      "desc": "Carbon block filter using activated carbon compressed into a block. Removes chlorine, chloramines, pesticides, and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "Carbon Block Housing",
+        "Connector": "Various"
+      },
+      "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
     },
     {
       "id": "inline-cation-resin",
-      "name": "Inline-kationhars filterpatroon",
+      "name": "Inline Cation Resin Filter Cartridge",
       "category": "Inline Filter",
-      "desc": "Onthardt water door harde mineralen zoals calcium en magnesium te verwijderen, waardoor kalkaanslag in apparaten wordt verminderd.",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.png",
+      "desc": "Softens water by removing hard minerals such as calcium and magnesium, reducing scale buildup in appliances. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Functie": "Waterontharding",
-        "Hars": "Kationenuitwisseling"
-      }
+        "Function": "Water Softening",
+        "Resin": "Cation Exchange"
+      },
+      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
+    },
+    {
+      "id": "inline-pp",
+      "name": "Inline PP Cartridge",
+      "category": "Inline Filter",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/PP-filter-copy.jpg",
+      "desc": "Inline polypropylene sediment filter for compact water purification systems. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Material": "Polypropylene",
+        "Filtration": "5μm"
+      },
+      "image_local": "assets/products/inline-pp_PP-filter-copy.jpg"
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "Small Molecule Antibacterial Mineralization Filter",
+      "category": "Inline Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSyVBbJ.png",
+      "desc": "Advanced filtration removing harmful bacteria and viruses while adding beneficial minerals to water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Function": "Antibacterial + Mineralization",
+        "Connector": "Quick-connect"
+      },
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-t33-coconut",
-      "name": "T33 kokosnootschil koolstof inline-filter",
+      "name": "T33 Coconut Shell Carbon Inline Filter",
       "category": "Inline Filter",
-      "desc": "Na-filter T33 inline-patroon met premium kokosnootschil actieve kool voor smaakpolijsting.",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/wechatimg25674-m7V2npvka6TLValG.jpeg",
+      "desc": "Post-filter T33 inline cartridge with premium coconut shell activated carbon for taste polishing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Koolstof": "Kokosnootschil",
-        "Positie": "Na-filter"
-      }
+        "Carbon": "Coconut Shell",
+        "Position": "Post-filter"
+      },
+      "image_local": "assets/products/inline-t33-coconut_wechatimg25674-m7V2npvka6TLValG.jpeg"
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "Mineralized Small T33 Inline Water Filter",
+      "category": "Inline Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png",
+      "desc": "Improves taste and odor by removing chlorine and adding beneficial minerals to water for improved health and hydration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Function": "Mineralization + Polishing",
+        "Connector": "Quick-connect"
+      },
+      "image_local": "assets/products/inline-t33-mineral_mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png"
+    },
+    {
+      "id": "maifan-inline",
+      "name": "Maifan Stone Inline Filter",
+      "category": "Inline Filter",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Maifan-stone-Filter-copy.jpg",
+      "desc": "Inline filter containing Maifan stones to mineralize water and improve taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Mineral": "Maifan Stone",
+        "Function": "Mineralization"
+      },
+      "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
+    },
+    {
+      "id": "mid-filter",
+      "name": "Medium Size Water Filter w/ Copper Connector",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/MG_9234-scaled.jpg",
+      "desc": "Medium-sized water filter cartridge featuring a copper connector for robust installation and performance. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Size": "Medium",
+        "Connector": "Copper"
+      },
+      "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg"
+    },
+    {
+      "id": "mineral-inline",
+      "name": "Inline Mineral Filter",
+      "category": "Inline Filter",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Mineral-Filter-copy.jpg",
+      "desc": "Adds essential minerals back into purified water to enhance health benefits and taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Function": "Mineralization",
+        "Adds": "Ca/Mg/K minerals"
+      },
+      "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg"
+    },
+    {
+      "id": "mt-600dg",
+      "name": "Dark Green Water Dispenser MT-600DG",
+      "category": "Water Dispenser",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.png",
+      "desc": "Wall-mounted pipeline water dispenser with sleek modern design in unique dark green color. Saves floor space and provides continuous supply of clean water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Mount": "Wall-mounted",
+        "Color": "Dark Green",
+        "Power": "2200W"
+      },
+      "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
+    },
+    {
+      "id": "mt-900g",
+      "name": "Golden Color Water Dispenser MT-900G",
+      "category": "Water Dispenser",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ee2ae-3-4-m5KPNbPPwluQy8no.png",
+      "desc": "Wall-mounted pipeline water dispenser with 5 stages of water volume (150ml–850ml) and 5 levels of water temperature (25°C–100°C). 316L titanium gold stainless steel heating element. Child safety lock. Premium golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Power": "2200W",
+        "Volume": "5 stages 150–850ml",
+        "Temperature": "25–100°C",
+        "Material": "316L Stainless Steel"
+      },
+      "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
+    },
+    {
+      "id": "mt-b600",
+      "name": "Black Color Water Dispenser MT-B600",
+      "category": "Water Dispenser",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/c1-2e2-1-copy-YD0r4gjVybULQ1pw.png",
+      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power and fast 3-second heating. Whole glass panel with matte spray plastic parts. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Power": "2200W",
+        "Hot Output": "3 seconds",
+        "Color": "Black Glass Panel"
+      },
+      "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W Vertical Water Dispenser MT-DV-E600",
+      "category": "Water Dispenser",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-dv-e600-mxBj0l5gB4U8pZwq.png",
+      "desc": "High-power vertical water dispenser with 304 stainless steel tank and 1KW heating power. LED digital screen. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Power": "1000W",
+        "Tank": "304 Stainless Steel",
+        "Display": "LED Digital"
+      },
+      "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
+    },
+    {
+      "id": "mt-e600",
+      "name": "Wall Mounted Water Dispenser MT-E600",
+      "category": "Water Dispenser",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/e-600-bw-dWxeGeNwMWu0NzBY.png",
+      "desc": "Black & white dual-color wall-mounted pipeline water dispenser. Compact, energy-saving, with multi-stage water output. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Mount": "Wall-mounted",
+        "Color": "Black/White"
+      },
+      "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
+    },
+    {
+      "id": "mt-s800",
+      "name": "White Color Water Dispenser MT-S800",
+      "category": "Water Dispenser",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ee2ae-3-4-copy-mePynXO7bpcqML47.png",
+      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power. Fast 3-second hot water output. 5 stages water volume and temperature adjustment. White glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Power": "2200W",
+        "Hot Output": "3 seconds",
+        "Color": "White Glass Panel"
+      },
+      "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "Vertical Water Dispenser MT-V-E300A",
+      "category": "Water Dispenser",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.png",
+      "desc": "Vertical floor-standing water dispenser with 304 stainless steel water tank and multiple water outlet options. Black/White design. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "Vertical",
+        "Tank": "304 Stainless Steel",
+        "Color": "Black/White"
+      },
+      "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
+    },
+    {
+      "id": "post-t33",
+      "name": "Post T33 Inline Carbon Filter",
+      "category": "Inline Filter",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Post-T33-Filter-copy.jpg",
+      "desc": "Post-filtration inline carbon filter for polishing water taste and removing residual odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Position": "Final stage",
+        "Material": "Activated Carbon"
+      },
+      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg"
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "PP Melt Blown Filter with Fin End Cap",
+      "category": "Industrial Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
+      "desc": "Industrial PP cartridge with a fin-style end cap for secure, leak-free seating in housing units. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "End Cap": "Fin Type",
+        "Material": "Polypropylene"
+      },
+      "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "PP Melt Blown Filter with Silicon Ring",
+      "category": "Industrial Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
+      "desc": "PP filter cartridge equipped with food-grade silicon sealing ring for high-reliability sealing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Ring": "Food-grade Silicon",
+        "Material": "Polypropylene"
+      },
+      "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "Industrial PP Melt Blown Sediment Filter (SOE/DOE)",
+      "category": "Industrial Filter",
+      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.png",
+      "desc": "Industrial-grade PP melt-blown filter, available in SOE (Single Open End) and DOE (Double Open End) configurations. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "SOE/DOE",
+        "Material": "Polypropylene",
+        "Industry": "Industrial"
+      },
+      "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP Melt Blown Sediment Filter Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/PP-Spun-Filter-copy.jpg",
+      "desc": "Melt-blown 100% pure polypropylene microfibers. Removes rust, silt, scale, sediment, dirt. Available in 10/20/30/40 inches. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Material": "100% Polypropylene",
+        "Sizes": "10–40 inch",
+        "Removes": "Sediment 5μm"
+      },
+      "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PP Melt BlownF Polypropylene Fiber Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/PPF-Filter-copy.jpg",
+      "desc": "Polypropylene fiber filter cartridge for sediment removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Material": "PP Fiber",
+        "Function": "Sediment"
+      },
+      "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
+    },
+    {
+      "id": "pre-udf",
+      "name": "Pre-UDF Activated Carbon Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Pre-UDF-Filter-copy.jpg",
+      "desc": "Pre-filtration granular activated carbon cartridge to protect downstream membranes. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Position": "Pre-filter",
+        "Material": "GAC"
+      },
+      "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
+    },
+    {
+      "id": "resin-filter",
+      "name": "Ion-Exchange Resin Filter",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png",
+      "desc": "Ion-exchange resin cartridge for water softening and removal of heavy metals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Function": "Water Softening",
+        "Removes": "Ca/Mg/Heavy Metals"
+      },
+      "image_local": "assets/products/resin-filter_WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png"
+    },
+    {
+      "id": "ro-membrane",
+      "name": "Reverse Osmosis (RO) Membrane Element Element",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/RO-Membrane-Filter-Cartridge-copy.jpg",
+      "desc": "Reverse osmosis membrane cartridge — the core component of RO systems for desalination and purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "RO TFC Membrane",
+        "Capacity": "75/100/400 GPD"
+      },
+      "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
     },
     {
       "id": "ro-membrane-400g",
-      "name": "400GPD High Flow RO-membraan",
+      "name": "400GPD High-Flow Reverse Osmosis (RO) Membrane Element",
       "category": "RO System",
-      "desc": "Reverse osmosis membraan met hoge capaciteit voor residentiële en licht commerciële waterzuivering.",
+      "desc": "High-capacity reverse osmosis membrane for residential and light commercial water purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Capaciteit": "400 GPD",
-        "Type": "Droog membraan"
+        "Capacity": "400 GPD",
+        "Type": "Dry Membrane"
       }
+    },
+    {
+      "id": "ro-undersink",
+      "name": "Under-Sink Reverse Osmosis Water Filter",
+      "category": "RO System",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/IMG_5846-scaled-768x1024.jpg",
+      "desc": "Gravity-fed RO system relying on incoming water pressure to push water through the RO membrane. Multi-stage: sediment filter, carbon filter, RO membrane. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Stages": "Multi-stage",
+        "Type": "No Pump Required",
+        "Membrane": "RO 75GPD"
+      },
+      "image_local": "assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
+    },
+    {
+      "id": "ss-jumbo-housing",
+      "name": "304/316L Stainless Steel Industrial Jumbo Filter Housing",
+      "category": "Filter Housing",
+      "image": "local",
+      "desc": "Heavy-duty 304 stainless steel housing available in 10-inch and 20-inch sizes. Compatible with UF membranes, PP sediment filters, and Carbon Block filters. Ideal for high-flow applications. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Material": "304 Stainless Steel",
+        "Size": "10\" / 20\" Jumbo",
+        "Compatibility": "PP, Carbon, UF",
+        "Type": "High-Pressure"
+      },
+      "image_local": "assets/products/ss_jumbo_housing.jpg"
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 Post Filter Cartridge",
+      "category": "Inline Filter",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/T33-post-Filter-copy.jpg",
+      "desc": "High-quality post-carbon filter for final stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Position": "Post-filter",
+        "Function": "Polishing"
+      },
+      "image_local": "assets/products/t33-post_T33-post-Filter-copy.jpg"
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "GAC Granular Activated Carbon (UDF) Filter Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/UDF-Filter-cartridge-copy.jpg",
+      "desc": "Standard 10-inch GAC filter from high iodine value carbon. Reduces chlorine, organic chemicals, unnatural tastes and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "GAC",
+        "Size": "10 inch",
+        "Iodine": "1000"
+      },
+      "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "Ultrafiltration (UF) Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Ultra-FilterUF-copy.jpg",
+      "desc": "Hollow-fiber ultrafiltration membrane cartridge for removing bacteria, viruses, and colloidal matter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Membrane": "Hollow Fiber",
+        "Filtration": "0.01μm"
+      },
+      "image_local": "assets/products/uf-cartridge_Ultra-FilterUF-copy.jpg"
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF Hollow Fiber Filter",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/UF-Filter-copy.jpg",
+      "desc": "Ultrafiltration cartridge for fine suspended-solids removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Material": "Hollow Fiber",
+        "Removes": "Bacteria"
+      },
+      "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg"
+    },
+    {
+      "id": "ultra-film",
+      "name": "Ultra Film Filter Cartridge",
+      "category": "Filter Cartridge",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Ultra-Film-Filter-copy.jpg",
+      "desc": "Advanced ultrafiltration film cartridge for high-efficiency filtration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Type": "Ultra Film",
+        "Filtration": "0.01μm"
+      },
+      "image_local": "assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
+    },
+    {
+      "id": "uv-purifier",
+      "name": "Three Stage Plus UV Water Purifier",
+      "category": "Water Purifier",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/ed1b75a2f9de969d15bf4904160302e-768x1024.jpg",
+      "desc": "Three-stage water purification system enhanced with UV sterilization for superior water safety. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "specs": {
+        "Stages": "3 + UV",
+        "Sterilization": "UV-C"
+      },
+      "image_local": "assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg"
     },
     {
       "id": "water-purifier-maifan",
-      "name": "Maifan steen mineraliserende zuiveraar",
+      "name": "Maifan Stone Mineralizing Purifier",
       "category": "Water Purifier",
-      "desc": "Meertraps zuiveraar met Maifan steen voor mineralisatie en verbeterde waterkwaliteit.",
+      "desc": "Multi-stage purifier featuring Maifan stone for mineralization and improved water quality. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Mineraal": "Maifan steen",
-        "Fasen": "5-fasen"
-      }
-    },
-    {
-      "id": "alkaline-purifier",
-      "name": "Alkalisch waterzuiveringssysteem",
-      "category": "Water Purifier",
-      "desc": "Produceert alkalisch water door de pH-waarde te verhogen en essentiële mineralen toe te voegen.",
-      "specs": {
-        "Type": "Alkalisch",
-        "pH-bereik": "8,5 - 9,5"
+        "Mineral": "Maifan Stone",
+        "Stages": "5-Stage"
       }
     }
   ]
